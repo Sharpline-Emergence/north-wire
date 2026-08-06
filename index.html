@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#123128">
+<title>North Wire — Canadian news, no noise</title>
+<meta name="description" content="Canadian-curated news: world, politics, markets, science, medicine, travel. No duplicates, no clutter.">
+
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="North Wire">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <span class="dateline-today" id="datelineToday">— · —</span>
+      <button class="refresh-btn" id="refreshBtn" aria-label="Refresh feed">
+        <svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6">
+          <path d="M17 10a7 7 0 1 1-2.1-5M17 3v5h-5"/>
+        </svg>
+      </button>
+    </div>
+    <h1 class="wordmark">North<span class="wordmark-accent">Wire</span></h1>
+    <p class="tagline">Canadian-curated. Deduplicated. No antics.</p>
+
+    <nav class="chips" id="categoryChips" aria-label="Filter by category">
+      <button class="chip is-active" data-category="all">All</button>
+      <button class="chip" data-category="world">World</button>
+      <button class="chip" data-category="canada">Canada</button>
+      <button class="chip" data-category="politics">Politics</button>
+      <button class="chip" data-category="markets">Markets</button>
+      <button class="chip" data-category="technology">Tech</button>
+      <button class="chip" data-category="science">Science</button>
+      <button class="chip" data-category="medical">Medicine</button>
+      <button class="chip" data-category="travel">Travel</button>
+    </nav>
+  </header>
+
+  <main id="feed" class="feed" aria-live="polite">
+    <div class="loading-state" id="loadingState">
+      <div class="spinner" aria-hidden="true"></div>
+      <p>Pulling today's wire…</p>
+    </div>
+  </main>
+
+  <div class="empty-state" id="emptyState" hidden>
+    <p class="empty-title">Nothing here yet.</p>
+    <p class="empty-body">This category is quiet right now, or the feed hasn't run today. Try a different tab, or hit refresh.</p>
+  </div>
+
+  <footer class="app-footer">
+    <span id="lastUpdated">—</span>
+  </footer>
+
+</div>
+
+<script src="app.js"></script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('service-worker.js').catch(() => {});
+  });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-08-06T14:00:00+00:00",
+  "article_count": 12,
+  "articles": [
+    { "title": "Bank of Canada holds policy rate at 2.75%, signals patience on cuts", "link": "https://financialpost.com/", "source": "Financial Post", "category": "markets", "summary": "The central bank kept rates unchanged for a third straight meeting, citing sticky core inflation and a resilient labour market.", "published": "2026-08-06T13:10:00+00:00" },
+    { "title": "TSX closes at record high as energy and financials rally", "link": "https://www.bnnbloomberg.ca/", "source": "BNN Bloomberg", "category": "markets", "summary": "The Toronto Stock Exchange's benchmark index gained 1.2% Thursday, led by gains in Suncor and RBC.", "published": "2026-08-06T21:05:00+00:00" },
+
+    { "title": "Canada and EU finalize critical minerals trade pact", "link": "https://www.cbc.ca/", "source": "CBC News", "category": "world", "summary": "The agreement secures long-term access to lithium and nickel processing capacity in exchange for tariff relief on EV parts.", "published": "2026-08-06T12:30:00+00:00" },
+    { "title": "UN climate talks extend into overtime as emissions targets stall", "link": "https://www.bbc.com/news/world", "source": "BBC News", "category": "world", "summary": "Negotiators from over 190 countries failed to reach consensus on binding 2035 targets before the scheduled close.", "published": "2026-08-06T09:15:00+00:00" },
+
+    { "title": "Ottawa announces $2.3B rural broadband expansion", "link": "https://globalnews.ca/", "source": "Global News", "category": "politics", "summary": "The federal program targets 400 underserved communities, with Northern Ontario and Interior BC prioritized for 2027 rollout.", "published": "2026-08-06T15:45:00+00:00" },
+
+    { "title": "Waterloo startup's fusion reactor prototype hits sustained plasma milestone", "link": "https://betakit.com/", "source": "BetaKit", "category": "technology", "summary": "General Fusion rival Novara Energy says its test reactor held plasma stable for 6 minutes, a new record for a Canadian facility.", "published": "2026-08-06T11:20:00+00:00" },
+    { "title": "Apple confirms on-device AI model for iOS 20, no cloud processing required", "link": "http://feeds.bbci.co.uk/", "source": "BBC Technology", "category": "technology", "summary": "The feature runs entirely on the A20 chip's neural engine, addressing longstanding privacy concerns with cloud-based assistants.", "published": "2026-08-06T08:00:00+00:00" },
+
+    { "title": "Blood test detects Alzheimer's biomarkers 8 years before symptom onset", "link": "https://www.statnews.com/", "source": "STAT News", "category": "medical", "summary": "A multi-site trial of 4,200 patients found the plasma p-tau217 test matched PET scan accuracy at a fraction of the cost.", "published": "2026-08-06T10:05:00+00:00" },
+    { "title": "Health Canada approves first oral treatment for peanut allergy in children", "link": "https://www.medicalnewstoday.com/", "source": "Medical News Today", "category": "medical", "summary": "The immunotherapy pill showed a 78% reduction in severe reaction risk across a two-year pediatric study.", "published": "2026-08-05T22:40:00+00:00" },
+
+    { "title": "James Webb telescope finds strongest evidence yet of liquid water on exomoon", "link": "https://www.nature.com/", "source": "Nature News", "category": "science", "summary": "Spectral analysis of Europa-class moon K2-18c suggests subsurface ocean conditions compatible with microbial life.", "published": "2026-08-06T07:30:00+00:00" },
+    { "title": "Canadian researchers grow functional lung tissue from stem cells", "link": "https://www.sciencedaily.com/", "source": "Science Daily", "category": "science", "summary": "The University of Toronto team says the lab-grown tissue could shorten transplant waitlists within a decade.", "published": "2026-08-05T18:15:00+00:00" },
+
+    { "title": "VIA Rail adds high-frequency Toronto–Montreal service ahead of 2027 schedule", "link": "https://www.canadiantraveller.com/", "source": "Canadian Traveller", "category": "travel", "summary": "Trip times drop to 3 hours 45 minutes on the new corridor, with departures every 90 minutes at peak.", "published": "2026-08-05T14:00:00+00:00" },
+    { "title": "Banff announces shuttle-only access for Moraine Lake starting next summer", "link": "https://www.destinationcanada.com/", "source": "Destination Canada", "category": "travel", "summary": "Parks Canada cites overcrowding and parking gridlock; a new $8 shuttle will run from Lake Louise every 15 minutes.", "published": "2026-08-05T16:20:00+00:00" }
+  ]
+}

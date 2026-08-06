@@ -1,0 +1,16 @@
+{
+  "name": "North Wire — Canadian News",
+  "short_name": "North Wire",
+  "description": "Canadian-curated news: world, politics, markets, science, medicine, travel. Deduplicated, no clutter.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F2E6",
+  "theme_color": "#123128",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
