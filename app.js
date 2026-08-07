@@ -156,6 +156,19 @@ chipsEl.addEventListener('click', (e) => {
   setCategory(chip.dataset.category);
 });
 
+// On iOS, links tapped inside an installed home-screen app don't reliably open
+// as a separate Safari tab — standalone PWAs have no browser chrome, so a plain
+// target="_blank" link can navigate the app itself away from the feed, with no
+// way back. Forcing window.open() launches Safari as a distinct app instead,
+// leaving this app untouched in the background so switching back returns
+// straight to the feed.
+feedEl.addEventListener('click', (e) => {
+  const link = e.target.closest('.card-headline a');
+  if (!link) return;
+  e.preventDefault();
+  window.open(link.href, '_blank', 'noopener,noreferrer');
+});
+
 refreshBtn.addEventListener('click', () => {
   loadData();
 });
