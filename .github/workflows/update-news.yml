@@ -1,0 +1,39 @@
+name: Update North Wire feed
+
+on:
+  schedule:
+    # Runs daily at 10:00 UTC — 3:00am Pacific / 6:00am Eastern during
+    # daylight saving (Mar-Nov). Shifts to 2:00am Pacific / 5:00am Eastern
+    # during standard time (Nov-Mar), since GitHub's scheduler runs in UTC
+    # and doesn't adjust for DST on its own.
+    - cron: '0 10 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab, any time
+
+permissions:
+  contents: write
+
+jobs:
+  update-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Fetch, dedupe, and filter today's articles
+        run: python3 pipeline/fetch_feeds.py --config pipeline/feeds_config.json --out articles.json
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "north-wire-bot"
+          git config user.email "actions@github.com"
+          git add articles.json
+          git diff --cached --quiet || git commit -m "Auto-update articles $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
