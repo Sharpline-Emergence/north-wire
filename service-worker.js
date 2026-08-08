@@ -1,4 +1,4 @@
-const CACHE_NAME = 'north-wire-v1';
+const CACHE_NAME = 'north-wire-v2';
 const SHELL_ASSETS = [
   './',
   'index.html',
@@ -42,8 +42,17 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // Everything else (shell): cache-first for speed.
+  // Everything else (shell): network-first, so updates to the app itself
+  // (new features, style tweaks) show up immediately when online, rather
+  // than being stuck behind a stale cached copy. Falls back to cache only
+  // when genuinely offline.
   event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request))
+    fetch(event.request)
+      .then((res) => {
+        const clone = res.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
+        return res;
+      })
+      .catch(() => caches.match(event.request))
   );
 });
