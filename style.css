@@ -312,7 +312,17 @@ body {
   font-size: 10.5px;
   color: var(--steel);
   letter-spacing: 0.04em;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
+
+.feedback-link {
+  color: var(--cranberry);
+  text-decoration: none;
+  font-weight: 600;
+}
+.feedback-link:hover { text-decoration: underline; }
 
 /* ---------------- Desktop niceties ---------------- */
 
