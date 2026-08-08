@@ -1,6 +1,7 @@
 const CATEGORY_LABELS = {
   world: 'World',
   canada: 'Canada',
+  bc: 'B.C.',
   politics: 'Politics',
   markets: 'Markets',
   technology: 'Technology',

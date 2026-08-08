@@ -1,0 +1,129 @@
+{
+  "_notes": "RSS URLs drift over time \u2014 outlets change CMS platforms without warning. Treat this as a starting list, not gospel. Test each with fetch_feeds.py --check before relying on it. Add/remove freely in the 'feeds' array.",
+  "exclude_keywords": [
+    "trump",
+    "maga",
+    "truth social",
+    "mar-a-lago"
+  ],
+  "dedup_similarity_threshold": 0.72,
+  "max_articles_per_source": 15,
+  "max_age_hours": 72,
+  "feeds": [
+    {
+      "source": "CBC News",
+      "category": "world",
+      "url": "https://rss.cbc.ca/lineup/world.xml"
+    },
+    {
+      "source": "CBC News",
+      "category": "canada",
+      "url": "https://rss.cbc.ca/lineup/canada.xml"
+    },
+    {
+      "source": "CBC News",
+      "category": "politics",
+      "url": "https://rss.cbc.ca/lineup/politics.xml"
+    },
+    {
+      "source": "CBC News",
+      "category": "technology",
+      "url": "https://rss.cbc.ca/lineup/technology.xml"
+    },
+    {
+      "source": "CBC News",
+      "category": "medical",
+      "url": "https://rss.cbc.ca/lineup/health.xml"
+    },
+    {
+      "source": "CBC News",
+      "category": "markets",
+      "url": "https://rss.cbc.ca/lineup/business.xml"
+    },
+    {
+      "source": "CBC News",
+      "category": "bc",
+      "url": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml"
+    },
+    {
+      "source": "Global News",
+      "category": "bc",
+      "url": "https://globalnews.ca/bc/feed/"
+    },
+    {
+      "source": "Global News",
+      "category": "canada",
+      "url": "https://globalnews.ca/feed/"
+    },
+    {
+      "source": "Global News",
+      "category": "politics",
+      "url": "https://globalnews.ca/politics/feed/"
+    },
+    {
+      "source": "CTV News",
+      "category": "canada",
+      "url": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009"
+    },
+    {
+      "source": "Financial Post",
+      "category": "markets",
+      "url": "https://financialpost.com/feed"
+    },
+    {
+      "source": "BNN Bloomberg",
+      "category": "markets",
+      "url": "https://www.bnnbloomberg.ca/rss"
+    },
+    {
+      "source": "MoneySense",
+      "category": "markets",
+      "url": "https://www.moneysense.ca/feed/"
+    },
+    {
+      "source": "BetaKit",
+      "category": "technology",
+      "url": "https://betakit.com/feed/"
+    },
+    {
+      "source": "BBC News",
+      "category": "world",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "source": "BBC Science",
+      "category": "science",
+      "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    },
+    {
+      "source": "BBC Technology",
+      "category": "technology",
+      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+    },
+    {
+      "source": "Science Daily",
+      "category": "science",
+      "url": "https://www.sciencedaily.com/rss/all.xml"
+    },
+    {
+      "source": "Nature News",
+      "category": "science",
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "source": "STAT News",
+      "category": "medical",
+      "url": "https://www.statnews.com/feed/"
+    },
+    {
+      "source": "MedicineNet",
+      "category": "medical",
+      "url": "https://www.medicinenet.com/rss/dailyhealth.xml"
+    },
+    {
+      "source": "Skift",
+      "category": "travel",
+      "url": "https://skift.com/feed/"
+    }
+  ]
+}
