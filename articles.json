@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-08-08T15:30:51.648978+00:00",
-  "article_count": 210,
+  "generated_at": "2026-08-08T16:34:01.009981+00:00",
+  "article_count": 208,
   "articles": [
+    {
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "published": "2026-08-08T16:19:29+00:00"
+    },
+    {
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+      "published": "2026-08-08T15:51:11+00:00"
+    },
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "published": "2026-08-08T15:49:41+00:00"
+    },
+    {
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "published": "2026-08-08T15:44:08+00:00"
+    },
     {
       "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
       "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
@@ -27,20 +59,12 @@
       "published": "2026-08-08T14:25:19+00:00"
     },
     {
-      "title": "Iran Says Hormuz Deal Close But That Its Conditions Must Be Met",
+      "title": "Iran Says Hormuz Deal Close But Its Conditions Must Be Met",
       "link": "https://financialpost.com/pmn/business-pmn/iran-says-hormuz-deal-close-but-that-its-conditions-must-be-met",
       "source": "Financial Post",
       "category": "markets",
       "summary": "Iran said it’s “very close” to a deal with Oman on a new maritime transit route in the Strait of Hormuz, after expectations grew this week that an announcement may soon be made.",
       "published": "2026-08-08T13:51:00+00:00"
-    },
-    {
-      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "published": "2026-08-08T13:49:09+00:00"
     },
     {
       "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
@@ -57,14 +81,6 @@
       "category": "canada",
       "summary": "Some B.C. farmers are defying wildfire evacuation orders to protect homes, orchards and livestock, saying generations of work are too much to abandon.",
       "published": "2026-08-08T13:31:00+00:00"
-    },
-    {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "published": "2026-08-08T13:29:38+00:00"
     },
     {
       "title": "Spain imposes border checks on Italian travelers in tit-for-tat move over Ceuta migrants row",
@@ -99,12 +115,44 @@
       "published": "2026-08-08T12:05:04+00:00"
     },
     {
+      "title": "12-year-old girl dies from critical wounds following Thailand shooting",
+      "link": "https://www.cbc.ca/news/world/thailand-shooting-schoolgirl-9.7300653?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Another victim has died following a mass shooting in Thailand, northwest of Bangkok. The death toll is now at least eight.",
+      "published": "2026-08-08T11:49:56+00:00"
+    },
+    {
       "title": "Couple turning inherited farm into nature site",
       "link": "https://www.bbc.co.uk/news/articles/czrj11rk46do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
       "category": "science",
       "summary": "The farm in Cockermouth is undergoing a 30-year project to boost wildlife there.",
       "published": "2026-08-08T11:47:53+00:00"
+    },
+    {
+      "title": "2SLGBTQ+ political candidates in Quebec report a wave of online hate",
+      "link": "https://www.cbc.ca/news/canada/montreal/2slgbtq-political-candidates-quebec-9.7300655?cmp=rss",
+      "source": "CBC News",
+      "category": "politics",
+      "summary": "As pride month celebrations take place across Quebec, political candidates from sexual and gender-diverse backgrounds who are running in the fall provincial election are sounding the alarm over a flood of hateful…",
+      "published": "2026-08-08T11:44:43+00:00"
+    },
+    {
+      "title": "Fast-moving wildfire forces all of Summerland, B.C., to evacuate",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/bc-wildfires-aug-8-summerland-evacuation-9.7300648?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "",
+      "published": "2026-08-08T11:25:02+00:00"
+    },
+    {
+      "title": "Why some B.C. farmers stay to fight in the face of wildfire",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/farmers-stay-wildfire-9.7300639?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "Multiple wildfires are burning in southern British Columbia, including the Bradley Creek fire which spread quickly last week around Okanagan Lake as heavy winds pushed flames over drought-parched lands.",
+      "published": "2026-08-08T11:16:25+00:00"
     },
     {
       "title": "The Curator: Need a new work bag? These 7 laptop-friendly totes are worth buying this fall",
@@ -139,11 +187,11 @@
       "published": "2026-08-08T10:42:13+00:00"
     },
     {
-      "title": "Bedford, N.S., emergency alert involves man believed to have been involved in shooting, police say",
+      "title": "Emergency alert ended as shooting suspect arrested in Halifax Regional Municipality",
       "link": "https://www.cbc.ca/news/canada/nova-scotia/sunnyside-mall-bedford-rcmp-emergency-alert-9.7300633?cmp=rss",
       "source": "CBC News",
       "category": "canada",
-      "summary": "The subject of an emergency alert issued by RCMP over a dangerous man with a firearm in Bedford, N.S., is believed to have been involved in a shooting in Annapolis Royal, N.S., earlier Saturday, say Halifax Regional…",
+      "summary": "RCMP say an emergency alert covering the Halifax Regional Municipality has ended now that the suspect is in custody. The suspect is believed to have been involved in a shooting earlier Saturday in Annapolis Royal, N.S.,…",
       "published": "2026-08-08T10:38:55+00:00"
     },
     {
@@ -275,16 +323,8 @@
       "published": "2026-08-08T05:49:58+00:00"
     },
     {
-      "title": "War Brings Winter of Discontent for the World’s Workhorse Fuel",
-      "link": "https://financialpost.com/pmn/business-pmn/war-brings-winter-of-discontent-for-the-worlds-workhorse-fuel",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "A diesel squeeze spurred by wars in the Middle East and Ukraine is setting the stage for an even worse crunch as demand rises ahead of the Northern Hemisphere winter.",
-      "published": "2026-08-08T05:25:37+00:00"
-    },
-    {
       "title": "Over 20,000 flee as B.C evacuation orders in full swing due to aggressive wildfire",
-      "link": "https://globalnews.ca/news/12014029/bald-range-wildfire-summerland-evacuation-order/",
+      "link": "https://globalnews.ca/news/12014029/bc-wildfire-evacuation-order/",
       "source": "Global News",
       "category": "bc",
       "summary": "The BC Wildfire Service says it's displaying aggressive rank 5 behaviour, with an organized flame front with a fast rate of spread and moderate to long-range spotting.",
@@ -292,7 +332,7 @@
     },
     {
       "title": "Over 20,000 flee as B.C evacuation orders in full swing due to aggressive wildfire",
-      "link": "https://globalnews.ca/news/12014029/bald-range-wildfire-summerland-evacuation-order/",
+      "link": "https://globalnews.ca/news/12014029/bc-wildfire-evacuation-order/",
       "source": "Global News",
       "category": "canada",
       "summary": "The BC Wildfire Service says it's displaying aggressive rank 5 behaviour, with an organized flame front with a fast rate of spread and moderate to long-range spotting.",
@@ -431,7 +471,7 @@
       "link": "https://www.cbc.ca/news/canada/british-columbia/summerland-bc-wildfire-aug-7-9.7300528?cmp=rss",
       "source": "CBC News",
       "category": "bc",
-      "summary": "The Bald Range fire grew to 50 square kilometres in three hours after it was first detected at 5:30 p.m. PT on Friday evening, said Erick Thompson with the Regional District of Okanagan-Similkameen's emergency…",
+      "summary": "Evacuation orders and alerts have been expanded as a fast-moving wildfire races toward Summerland, B.C., forcing more than 20,000 people to evacuate.",
       "published": "2026-08-08T00:15:01+00:00"
     },
     {
@@ -715,14 +755,6 @@
       "published": "2026-08-07T16:13:45+00:00"
     },
     {
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "published": "2026-08-07T15:38:28+00:00"
-    },
-    {
       "title": "Is this the best day of the year for stargazing?",
       "link": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -867,14 +899,6 @@
       "published": "2026-08-07T12:17:35+00:00"
     },
     {
-      "title": "Suspicious fires break out near Shuswap Lake amid high fire danger",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/suspicious-fires-b-c-lake-shuswap-9.7299253?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Firefighters were called to five suspicious brush fires near B.C.'s Shuswap Lake on Wednesday evening, the Columbia Shuswap Regional District says.",
-      "published": "2026-08-07T12:17:35+00:00"
-    },
-    {
       "title": "A third clinic settles with DOJ over trans care",
       "link": "https://www.statnews.com/2026/08/07/health-news-a-third-clinic-settles-with-doj-over-trans-care/?utm_campaign=rss",
       "source": "STAT News",
@@ -903,14 +927,6 @@
       "link": "https://www.cbc.ca/news/politics/canada-u-s-booze-bans-trade-negotiations-9.7299529?cmp=rss",
       "source": "CBC News",
       "category": "politics",
-      "summary": "The Canadian government is preparing to meet some U.S. demands — including ending bans on American alcohol sales — in exchange for tariff relief as trade talks heat up ahead of the latest tariff deadline, according to…",
-      "published": "2026-08-07T11:28:56+00:00"
-    },
-    {
-      "title": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources",
-      "link": "https://www.cbc.ca/news/politics/canada-u-s-booze-bans-trade-negotiations-9.7299529?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
       "summary": "The Canadian government is preparing to meet some U.S. demands — including ending bans on American alcohol sales — in exchange for tariff relief as trade talks heat up ahead of the latest tariff deadline, according to…",
       "published": "2026-08-07T11:28:56+00:00"
     },
@@ -977,14 +993,6 @@
       "category": "world",
       "summary": "A Thai teenager killed at least five people and himself at a ‌school outside Bangkok on Friday after fatally shooting his grandparents, police said, in the Southeast Asian nation's worst mass killing since 2022.",
       "published": "2026-08-07T08:49:31+00:00"
-    },
-    {
-      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
-      "published": "2026-08-07T08:32:57+00:00"
     },
     {
       "title": "Opinion: AI won’t enhance physician autonomy. It will further diminish it",
@@ -1619,14 +1627,6 @@
       "published": "2026-08-06T00:00:00+00:00"
     },
     {
-      "title": "Spokane wildfires displace thousands, but crews make progress containing flames",
-      "link": "https://www.cbc.ca/news/world/spokane-washington-wildfires-9.7297896?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "About 65,000 people have been evacuated from their homes in Washington state since the Autumn Lane, Fairview and Old Trails fires sparked within hours of each other on Saturday. Since then, favourable weather has helped…",
-      "published": "2026-08-05T23:50:06+00:00"
-    },
-    {
       "title": "AI or real? BBC analyses viral China disaster videos",
       "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -1659,28 +1659,12 @@
       "published": "2026-08-05T19:29:48+00:00"
     },
     {
-      "title": "Canadian Armed Forces member charged in terrorist case no longer in the military",
-      "link": "https://www.cbc.ca/news/canada/montreal/canadian-armed-forces-terrorism-9.7297683?cmp=rss",
-      "source": "CBC News",
-      "category": "politics",
-      "summary": "A Quebec man charged last year with facilitating a terrorist activity is no longer a member of the Canadian Armed Forces.",
-      "published": "2026-08-05T18:49:00+00:00"
-    },
-    {
       "title": "'I don't have confidence' in FIFA president Gianni Infantino, Carney says",
       "link": "https://www.cbc.ca/news/politics/carney-fifa-president-9.7297433?cmp=rss",
       "source": "CBC News",
       "category": "politics",
       "summary": "Prime Minister Mark Carney says Gianni Infantino's decision to not disclose to FIFA's top advisers and officials a proposal to sell stakes in the World Cup to private investors \"should be fatal\" to his position at the…",
       "published": "2026-08-05T17:15:56+00:00"
-    },
-    {
-      "title": "Goodfood seeks creditor protection after CEO resigns",
-      "link": "https://betakit.com/goodfood-seeks-creditor-protection-after-ceo-resigns/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Montreal meal-delivery company wants time to restructure the business amid liquidity constraints and mounting debt. The post Goodfood seeks creditor protection after CEO resigns first appeared on BetaKit.",
-      "published": "2026-08-05T16:09:44+00:00"
     }
   ]
 }
