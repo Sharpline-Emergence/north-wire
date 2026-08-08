@@ -25,6 +25,7 @@ reach each news outlet's domain directly.
 
 import argparse
 import difflib
+import html
 import json
 import sys
 import time
@@ -71,11 +72,14 @@ def parse_published(entry) -> datetime:
 
 
 def clean_summary(raw_summary: str, max_chars: int = 220) -> str:
-    """Strip HTML tags feedparser sometimes leaves in, trim to a snippet length.
-    This is deliberately short — headline + link + short snippet, not full text.
+    """Strip HTML tags feedparser sometimes leaves in, decode any HTML entities
+    (&quot; &apos; &amp; etc. — some feeds, like Skift, send these un-decoded),
+    and trim to a snippet length. Deliberately short — headline + link + short
+    snippet, not full text.
     """
     import re
     text = re.sub(r"<[^>]+>", "", raw_summary or "")
+    text = html.unescape(text)
     text = " ".join(text.split())
     if len(text) > max_chars:
         text = text[:max_chars].rsplit(" ", 1)[0] + "…"
@@ -133,6 +137,7 @@ def fetch_all(config: dict, check_only: bool = False) -> list[dict]:
                 break
 
             title = getattr(entry, "title", "").strip()
+            title = html.unescape(title)
             link = getattr(entry, "link", "").strip()
             if not title or not link:
                 continue
