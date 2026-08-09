@@ -20,6 +20,9 @@
     { "source": "CBC News", "category": "medical", "url": "https://rss.cbc.ca/lineup/health.xml" },
     { "source": "CBC News", "category": "markets", "url": "https://rss.cbc.ca/lineup/business.xml" },
     { "source": "CBC News", "category": "bc", "url": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml" },
+    { "source": "CBC Sports", "category": "sports", "url": "https://rss.cbc.ca/lineup/sports.xml" },
+
+    { "source": "Sportsnet", "category": "sports", "url": "https://www.sportsnet.ca/feed/" },
 
     { "source": "Global News", "category": "bc", "url": "https://globalnews.ca/bc/feed/" },
     { "source": "Global News", "category": "canada", "url": "https://globalnews.ca/feed/" },

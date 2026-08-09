@@ -1,13 +1,14 @@
 const CATEGORY_LABELS = {
-  world: 'World',
-  canada: 'Canada',
   bc: 'B.C.',
-  politics: 'Politics',
+  canada: 'Canada',
   markets: 'Markets',
-  technology: 'Technology',
-  science: 'Science',
   medical: 'Medicine',
+  politics: 'Politics',
+  science: 'Science',
+  sports: 'Sports',
+  technology: 'Technology',
   travel: 'Travel',
+  world: 'World',
 };
 
 const state = {
