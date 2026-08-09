@@ -102,6 +102,7 @@ def is_near_duplicate(title: str, seen_titles: list[str], threshold: float) -> b
 def fetch_all(config: dict, check_only: bool = False) -> list[dict]:
     exclude_keywords = config.get("exclude_keywords", [])
     max_per_source = config.get("max_articles_per_source", 15)
+    min_per_source = config.get("min_articles_per_source", 3)
     max_age_hours = config.get("max_age_hours", 72)
     threshold = config.get("dedup_similarity_threshold", 0.72)
 
@@ -153,7 +154,11 @@ def fetch_all(config: dict, check_only: bool = False) -> list[dict]:
                 continue
 
             seen_titles = seen_titles_by_category.setdefault(category, [])
-            if is_near_duplicate(title, seen_titles, threshold):
+            # Guarantee every source at least min_per_source articles per
+            # category before dedup can filter it, so a source listed later
+            # (or covering heavily-overlapping stories, like sports) can't
+            # get wiped out entirely by an earlier source's headlines.
+            if kept >= min_per_source and is_near_duplicate(title, seen_titles, threshold):
                 continue
             seen_titles.append(title)
 
