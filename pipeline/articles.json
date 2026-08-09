@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:45:55.288002+00:00",
-  "article_count": 209,
+  "generated_at": "2026-08-09T05:10:10.286747+00:00",
+  "article_count": 208,
   "articles": [
     {
       "title": "Firefighters respond to blaze at Bethlehem Catholic High School in Saskatoon",
@@ -313,6 +313,14 @@
       "category": "travel",
       "summary": "Aman built its business on luxury and discretion. When it turned away a YouTube-famous travel creator who had come to review one of its resorts, it lost the plot – and control.",
       "published": "2026-08-08T16:38:30+00:00"
+    },
+    {
+      "title": "B.C. declares province-wide state of emergency amidst wildfires",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-declares-province-wide-state-of-emergency-amidst-wildfires-9.7300785?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "\"This is one of the more challenging fires that we have ever faced\": B.C. Wildfire Service",
+      "published": "2026-08-08T16:13:03+00:00"
     },
     {
       "title": "Messi's father Jorge dies aged 68 after illness",
@@ -801,14 +809,6 @@
       "category": "medical",
       "summary": "“To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David…",
       "published": "2026-08-07T17:33:09+00:00"
-    },
-    {
-      "title": "Metro Vancouver bus operators to launch job action after rejecting 2nd tentative deal",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-transit-workers-reject-deal-job-action-9.7300144?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Unifor says in a statement that member workers will begin job action on Aug. 17 by launching a ban on wearing uniforms, but no transit services will be disrupted.",
-      "published": "2026-08-07T17:32:25+00:00"
     },
     {
       "title": "Kiashke Zaaging Anishinaabek 'vehemently' opposes Ontario ending wildfire implementation, evacuation orders",
@@ -1665,14 +1665,6 @@
       "category": "science",
       "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar…",
       "published": "2026-08-06T05:50:21+00:00"
-    },
-    {
-      "title": "Done the Wordle yet? Even brief moments of leisure offer benefits, new study says",
-      "link": "https://www.cbc.ca/news/canada/nova-scotia/brief-moments-leisure-offer-benefits-dalhousie-study-9.7292269?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "Leisure activities don't require lengthy time commitments or a gym membership to pay off. A Dalhousie University study found that even taking a couple of minutes to watch the sunrise, do a word puzzle, savour a coffee…",
-      "published": "2026-08-06T05:00:00+00:00"
     }
   ]
 }
