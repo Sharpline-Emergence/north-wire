@@ -16,16 +16,18 @@
   --cranberry:     #A3402E;
   --cranberry-dim: rgba(163, 64, 46, 0.10);
 
-  --cat-world:      #3B6E91;
-  --cat-canada:     #123128;
-  --cat-bc:         #4C6B3F;
-  --cat-politics:   #7A5C3E;
-  --cat-markets:    #A3402E;
-  --cat-technology: #4A5FA0;
-  --cat-science:    #2F7D6B;
-  --cat-medical:    #8E4585;
-  --cat-sports:     #C2542D;
-  --cat-travel:     #C08A3E;
+  --cat-world:         #3B6E91;
+  --cat-canada:        #123128;
+  --cat-bc:            #4C6B3F;
+  --cat-politics:      #7A5C3E;
+  --cat-markets:       #A3402E;
+  --cat-technology:    #4A5FA0;
+  --cat-science:       #2F7D6B;
+  --cat-medical:       #8E4585;
+  --cat-sports:        #C2542D;
+  --cat-travel:        #C08A3E;
+  --cat-entertainment: #B0508C;
+  --cat-wellness:      #5E8C61;
 
   --font-display: 'Fraunces', Georgia, serif;
   --font-body: 'Public Sans', -apple-system, BlinkMacSystemFont, sans-serif;

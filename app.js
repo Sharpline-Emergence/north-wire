@@ -1,6 +1,7 @@
 const CATEGORY_LABELS = {
   bc: 'B.C.',
   canada: 'Canada',
+  entertainment: 'Entertainment',
   markets: 'Markets',
   medical: 'Medicine',
   politics: 'Politics',
@@ -8,6 +9,7 @@ const CATEGORY_LABELS = {
   sports: 'Sports',
   technology: 'Technology',
   travel: 'Travel',
+  wellness: 'Wellness',
   world: 'World',
 };
 
