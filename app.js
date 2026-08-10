@@ -23,6 +23,7 @@ const feedEl = document.getElementById('feed');
 const loadingEl = document.getElementById('loadingState');
 const emptyEl = document.getElementById('emptyState');
 const chipsEl = document.getElementById('categoryChips');
+const chipsFadeEl = document.getElementById('chipsFade');
 const lastUpdatedEl = document.getElementById('lastUpdated');
 const datelineTodayEl = document.getElementById('datelineToday');
 const refreshBtn = document.getElementById('refreshBtn');
@@ -117,6 +118,16 @@ function setCategory(cat) {
   render();
 }
 
+// Shows a chevron + fade at the right edge of the category chip row
+// whenever there are more chips scrolled out of view, and hides it
+// once the user has scrolled all the way to the last chip — so the
+// "there's more" cue disappears exactly when it's no longer true.
+function updateChipsFade() {
+  if (!chipsEl || !chipsFadeEl) return;
+  const atEnd = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 4;
+  chipsFadeEl.classList.toggle('is-hidden', atEnd);
+}
+
 async function loadData() {
   loadingEl.hidden = false;
   feedEl.prepend(loadingEl);
@@ -160,6 +171,9 @@ chipsEl.addEventListener('click', (e) => {
   setCategory(chip.dataset.category);
 });
 
+chipsEl.addEventListener('scroll', updateChipsFade);
+window.addEventListener('resize', updateChipsFade);
+
 // On iOS, links tapped inside an installed home-screen app don't reliably open
 // as a separate Safari tab — standalone PWAs have no browser chrome, so a plain
 // target="_blank" link can navigate the app itself away from the feed, with no
@@ -178,4 +192,5 @@ refreshBtn.addEventListener('click', () => {
 });
 
 datelineTodayEl.textContent = formatDatelineToday();
+updateChipsFade();
 loadData();

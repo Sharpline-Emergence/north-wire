@@ -1,18 +1,19 @@
 /* ============================================================
    North Wire — design tokens
-   Spruce (deep forest) + Birch (warm paper) + Frost (glacier blue)
-   Cranberry as the single signature accent — used only for the
-   freshness dot and the active-tab underline, nowhere else.
+   Spruce (deep forest) masthead + Sky (light blue) page background
+   + Frost (glacier blue) accents. Cranberry as the single signature
+   accent — used only for the freshness dot and the active-tab
+   underline, nowhere else.
    ============================================================ */
 
 :root {
   --spruce:        #123128;
   --spruce-light:  #1E4A3B;
-  --birch:         #F7F2E6;
-  --birch-dim:     #EFE7D4;
+  --birch:         #E6F2FA;
+  --birch-dim:     #D4E8F5;
   --frost:         #C9DBDD;
   --ink:           #16211D;
-  --steel:         #5C6B63;
+  --steel:         #4E6169;
   --cranberry:     #A3402E;
   --cranberry-dim: rgba(163, 64, 46, 0.10);
 
@@ -140,11 +141,16 @@ body {
 }
 .brand-credit:hover { opacity: 1; text-decoration: underline; }
 
+.chips-row {
+  position: relative;
+}
+
 .chips {
   display: flex;
   gap: 6px;
   overflow-x: auto;
   padding-bottom: 12px;
+  padding-right: 28px;
   scrollbar-width: none;
 }
 .chips::-webkit-scrollbar { display: none; }
@@ -184,9 +190,28 @@ body {
   top: 0;
   right: 0;
   bottom: 12px;
-  width: 32px;
-  background: linear-gradient(to right, transparent, var(--spruce) 75%);
+  width: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 2px;
+  background: linear-gradient(to right, transparent, var(--spruce) 55%, var(--spruce) 100%);
   pointer-events: none;
+  opacity: 1;
+  transition: opacity 0.2s ease;
+}
+.chips-fade.is-hidden {
+  opacity: 0;
+}
+
+.chips-arrow {
+  color: var(--frost);
+  animation: nudge 1.6s ease-in-out infinite;
+}
+
+@keyframes nudge {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(3px); }
 }
 
 /* ---------------- Feed ---------------- */

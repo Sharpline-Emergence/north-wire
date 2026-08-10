@@ -36,22 +36,28 @@
     <p class="tagline">Canadian-curated. Deduplicated. No antics.</p>
     <a href="https://sharplinedigital.com" class="brand-credit">← A Sharpline Digital project</a>
 
-    <nav class="chips" id="categoryChips" aria-label="Filter by category">
-      <button class="chip is-active" data-category="all">All</button>
-      <button class="chip" data-category="bc">B.C.</button>
-      <button class="chip" data-category="canada">Canada</button>
-      <button class="chip" data-category="entertainment">Entertainment</button>
-      <button class="chip" data-category="markets">Markets</button>
-      <button class="chip" data-category="medical">Medicine</button>
-      <button class="chip" data-category="politics">Politics</button>
-      <button class="chip" data-category="science">Science</button>
-      <button class="chip" data-category="sports">Sports</button>
-      <button class="chip" data-category="technology">Tech</button>
-      <button class="chip" data-category="travel">Travel</button>
-      <button class="chip" data-category="wellness">Wellness</button>
-      <button class="chip" data-category="world">World</button>
-    </nav>
-    <div class="chips-fade" aria-hidden="true"></div>
+    <div class="chips-row">
+      <nav class="chips" id="categoryChips" aria-label="Filter by category">
+        <button class="chip is-active" data-category="all">All</button>
+        <button class="chip" data-category="bc">B.C.</button>
+        <button class="chip" data-category="canada">Canada</button>
+        <button class="chip" data-category="entertainment">Entertainment</button>
+        <button class="chip" data-category="markets">Markets</button>
+        <button class="chip" data-category="medical">Medicine</button>
+        <button class="chip" data-category="politics">Politics</button>
+        <button class="chip" data-category="science">Science</button>
+        <button class="chip" data-category="sports">Sports</button>
+        <button class="chip" data-category="technology">Tech</button>
+        <button class="chip" data-category="travel">Travel</button>
+        <button class="chip" data-category="wellness">Wellness</button>
+        <button class="chip" data-category="world">World</button>
+      </nav>
+      <div class="chips-fade" id="chipsFade" aria-hidden="true">
+        <svg class="chips-arrow" viewBox="0 0 20 20" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M7.5 4l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+    </div>
   </header>
 
   <main id="feed" class="feed" aria-live="polite">
