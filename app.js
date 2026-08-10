@@ -162,7 +162,11 @@ function updateFooter() {
     return;
   }
   const d = new Date(state.generatedAt);
-  lastUpdatedEl.textContent = `Updated ${d.toLocaleTimeString('en-CA', { hour: 'numeric', minute: '2-digit' })} · ${state.articles.length} stories`;
+  const timeStr = d.toLocaleTimeString('en-CA', { hour: 'numeric', minute: '2-digit' });
+  lastUpdatedEl.textContent = `Updated ${timeStr} · ${state.articles.length} stories`;
+  // Also surface the update time up top, next to the date, so it's visible
+  // without scrolling to the footer.
+  datelineTodayEl.textContent = `${formatDatelineToday()} · UPDATED ${timeStr}`;
 }
 
 chipsEl.addEventListener('click', (e) => {
