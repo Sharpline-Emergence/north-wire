@@ -22,6 +22,7 @@
     { "source": "CBC News", "category": "markets", "url": "https://rss.cbc.ca/lineup/business.xml" },
     { "source": "CBC News", "category": "bc", "url": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml" },
     { "source": "CBC Sports", "category": "sports", "url": "https://rss.cbc.ca/lineup/sports.xml" },
+   { "source": "Global News", "category": "entertainment", "url": "https://globalnews.ca/entertainment/feed/" },
 
     { "source": "Global News", "category": "bc", "url": "https://globalnews.ca/bc/feed/" },
     { "source": "Global News", "category": "canada", "url": "https://globalnews.ca/feed/" },
@@ -41,6 +42,9 @@
 
     { "source": "STAT News", "category": "medical", "url": "https://www.statnews.com/feed/" },
 
-    { "source": "Skift", "category": "travel", "url": "https://skift.com/feed/" }
+    { "source": "Skift", "category": "travel", "url": "https://skift.com/feed/" },
+
+   { "source": "Healthing.ca", "category": "wellness", "url": "https://healthing.ca/feed" }
   ]
 }
+
