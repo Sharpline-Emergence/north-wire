@@ -46,6 +46,9 @@ function formatDatelineToday() {
   return now.toLocaleDateString('en-CA', opts).toUpperCase().replace(',', '') + ' · CANADA';
 }
 
+const SHARE_ICON = `<svg viewBox="0 0 20 20" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M10 3v9M6.5 6.5 10 3l3.5 3.5M4 11v4a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+const CHECK_ICON = `<svg viewBox="0 0 20 20" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 10.5l4 4 8-9" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
 function cardHTML(article, featured = false) {
   const catLabel = CATEGORY_LABELS[article.category] || article.category;
   return `
@@ -54,9 +57,12 @@ function cardHTML(article, featured = false) {
         <span class="cat-dot" style="background: var(--cat-${article.category}, var(--steel))"></span>
         ${escapeHTML(article.source)} · ${catLabel.toUpperCase()} · ${timeAgo(article.published)}
       </p>
-      <h2 class="card-headline">
-        <a href="${escapeAttr(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHTML(article.title)}</a>
-      </h2>
+      <div class="card-head-row">
+        <h2 class="card-headline">
+          <a href="${escapeAttr(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHTML(article.title)}</a>
+        </h2>
+        <button class="share-btn" type="button" aria-label="Share this article" data-link="${escapeAttr(article.link)}" data-title="${escapeAttr(article.title)}">${SHARE_ICON}</button>
+      </div>
       ${article.summary ? `<p class="card-summary">${escapeHTML(article.summary)}</p>` : ''}
     </article>
   `;
@@ -193,6 +199,38 @@ feedEl.addEventListener('click', (e) => {
 
 refreshBtn.addEventListener('click', () => {
   loadData();
+});
+
+async function shareArticle(btn) {
+  const url = btn.dataset.link;
+  const title = btn.dataset.title;
+
+  if (navigator.share) {
+    try {
+      await navigator.share({ title, url });
+    } catch (e) { /* user cancelled — no-op */ }
+    return;
+  }
+
+  try {
+    await navigator.clipboard.writeText(url);
+    const original = btn.innerHTML;
+    btn.innerHTML = CHECK_ICON;
+    btn.classList.add('is-copied');
+    btn.setAttribute('aria-label', 'Link copied');
+    setTimeout(() => {
+      btn.innerHTML = original;
+      btn.classList.remove('is-copied');
+      btn.setAttribute('aria-label', 'Share this article');
+    }, 1500);
+  } catch (e) { /* clipboard unavailable — no-op */ }
+}
+
+feedEl.addEventListener('click', (e) => {
+  const shareBtn = e.target.closest('.share-btn');
+  if (!shareBtn) return;
+  e.preventDefault();
+  shareArticle(shareBtn);
 });
 
 datelineTodayEl.textContent = formatDatelineToday();
