@@ -59,7 +59,7 @@ function cardHTML(article, featured = false) {
       </p>
       <div class="card-head-row">
         <h2 class="card-headline">
-          <a href="${escapeAttr(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHTML(article.title)}</a>
+          <a href="${escapeAttr(article.link)}">${escapeHTML(article.title)}</a>
         </h2>
         <button class="share-btn" type="button" aria-label="Share this article" data-link="${escapeAttr(article.link)}" data-title="${escapeAttr(article.title)}">${SHARE_ICON}</button>
       </div>
@@ -184,15 +184,25 @@ chipsEl.addEventListener('click', (e) => {
 chipsEl.addEventListener('scroll', updateChipsFade);
 window.addEventListener('resize', updateChipsFade);
 
-// On iOS, links tapped inside an installed home-screen app don't reliably open
-// as a separate Safari tab — standalone PWAs have no browser chrome, so a plain
-// target="_blank" link can navigate the app itself away from the feed, with no
-// way back. Forcing window.open() launches Safari as a distinct app instead,
-// leaving this app untouched in the background so switching back returns
-// straight to the feed.
+// True only when running from an installed home-screen icon (no browser
+// chrome, no back button of its own) — false for an ordinary browser tab,
+// where the browser already provides everything needed.
+const isStandalone = window.navigator.standalone === true
+  || window.matchMedia('(display-mode: standalone)').matches;
+
+// Installed home-screen apps have nowhere for a link to "go back" to, since
+// there's no browser chrome at all — so for THOSE we deliberately hand the
+// article off to a separate Safari window, leaving this app untouched
+// underneath (switch back via the app switcher).
+//
+// In an ordinary browser tab, this override isn't needed and actively hurts:
+// letting the link navigate normally means the browser's own back button
+// just works, exactly like any other website. So we only intervene when
+// isStandalone is true.
 feedEl.addEventListener('click', (e) => {
   const link = e.target.closest('.card-headline a');
   if (!link) return;
+  if (!isStandalone) return; // let it navigate normally — native back button works
   e.preventDefault();
   window.open(link.href, '_blank', 'noopener,noreferrer');
 });
