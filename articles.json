@@ -1,22 +1,102 @@
 {
-  "generated_at": "2026-08-15T22:13:32.806807+00:00",
-  "article_count": 230,
+  "generated_at": "2026-08-16T10:10:07.387382+00:00",
+  "article_count": 225,
   "articles": [
     {
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "published": "2026-08-16T10:09:10+00:00"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "published": "2026-08-16T09:27:58+00:00"
+    },
+    {
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
-      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "published": "2026-08-15T21:56:10+00:00"
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "published": "2026-08-16T08:49:32+00:00"
     },
     {
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
       "category": "science",
-      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "published": "2026-08-15T21:56:10+00:00"
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "published": "2026-08-16T08:49:32+00:00"
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+      "published": "2026-08-16T08:23:38+00:00"
+    },
+    {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "published": "2026-08-16T07:04:17+00:00"
+    },
+    {
+      "title": "Tiny, beautiful species are going missing from restored forests and wetlands",
+      "link": "https://www.cbc.ca/news/science/invisible-extinction-algae-moss-9.7307042?cmp=rss",
+      "source": "CBC News",
+      "category": "technology",
+      "summary": "A regrown forest can look tall, lush and green. Restored wetlands can buzz with insects and flutter with birds. But scientists looking more closely are finding that some of their smallest inhabitants — mosses, lichens…",
+      "published": "2026-08-16T04:00:00+00:00"
+    },
+    {
+      "title": "Wheatfall, Ford help Tiger-Cats beat Roughriders",
+      "link": "https://globalnews.ca/news/12023223/wheatfall-ford-help-tiger-cats-beat-roughriders/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Keric Wheatfall wanted to do something special on Saturday night.",
+      "published": "2026-08-16T03:07:30+00:00"
+    },
+    {
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "published": "2026-08-15T23:45:44+00:00"
+    },
+    {
+      "title": "The influencers getting bitten while chasing the perfect shark shot",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.",
+      "published": "2026-08-15T23:04:29+00:00"
+    },
+    {
+      "title": "Edmonton Elks thump Toronto Argonauts 42-12",
+      "link": "https://globalnews.ca/news/12023102/edmonton-elks-thump-toronto-argonauts-42-12/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Turnovers turned things around for the Edmonton Elks on Saturday.",
+      "published": "2026-08-15T23:02:16+00:00"
+    },
+    {
+      "title": "McIntosh edged for gold in 200m medley, fellow Canadian Lepage wins 200m breaststroke at Pan Pacs",
+      "link": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/pan-pacific-swimming-championships-aug-15-9.7308699?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Canadian swimming star Summer McIntosh was out-touched for gold by 0.02 seconds in the women’s 200-metre individual medley at the Pan Pacific Swimming Championships on Saturday.",
+      "published": "2026-08-15T22:30:09+00:00"
     },
     {
       "title": "CF Montreal bans two fans for antisemitism",
@@ -27,28 +107,12 @@
       "published": "2026-08-15T21:54:29+00:00"
     },
     {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "published": "2026-08-15T21:49:12+00:00"
-    },
-    {
       "title": "Australian state to launch gun buyback after Bondi Beach attack",
       "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
       "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
       "published": "2026-08-15T21:41:43+00:00"
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "published": "2026-08-15T21:03:57+00:00"
     },
     {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
@@ -99,19 +163,11 @@
       "published": "2026-08-15T19:06:29+00:00"
     },
     {
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
-      "published": "2026-08-15T18:02:30+00:00"
-    },
-    {
       "title": "Winnipeg Sea Bears win 1st CEBL title, defeat Brampton Honey Badgers in 2026 final",
       "link": "https://www.cbc.ca/sports/basketball/cebl/sea-bears-honey-badgers-championship-cebl-aug-15-9.7308622?cmp=rss",
       "source": "CBC Sports",
       "category": "sports",
-      "summary": "The Winnipeg Sea Bears are the 2026 Canadian Elite Basketball League champions after defeating the Brampton Honey Badgers 98-84 in the league’s single-game championship.",
+      "summary": "The Winnipeg Sea Bears are Canadian Elite Basketball League champions for the first time after defeating the Brampton Honey Badgers 98-84 in the league’s single-game championship on Saturday.",
       "published": "2026-08-15T17:50:50+00:00"
     },
     {
@@ -195,11 +251,11 @@
       "published": "2026-08-15T14:39:48+00:00"
     },
     {
-      "title": "Shots fired near Surerus Park in Fort St. John",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/shots-fired-fort-st-john-9.7308693?cmp=rss",
+      "title": "Fort St. John mayor calls for gang task force support after surge in targeted shootings",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/fort-st-john-bc-shootings-mayor-gang-task-force-9.7308693?cmp=rss",
       "source": "CBC News",
       "category": "bc",
-      "summary": "Police in Fort St. John, B.C., say they received multiple reports of shots fired near a popular recreation area in the city shortly after 10 p.m. PT Friday night.",
+      "summary": "Fort St. John Mayor Lilia Hansen wants B.C.'s gang task force to intervene after three shootings in less than a month near local schools.",
       "published": "2026-08-15T14:20:55+00:00"
     },
     {
@@ -209,14 +265,6 @@
       "category": "world",
       "summary": "Moroccan police arrested at least 111 people on Saturday as they tried to enter Spain's North ‌African enclave of Ceuta, amid tightened security on both sides of the border after social media posts called for another…",
       "published": "2026-08-15T14:01:34+00:00"
-    },
-    {
-      "title": "Honda Indy Markham track sessions kickoff after Friday cancellation",
-      "link": "https://globalnews.ca/news/12022849/indy-track-sessions-begin-after-friday-cancellations/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Organizers said the Friday cancellation was to ensure \"the safety of the drivers and completion of the certificaftion process of competing on a brand-new racetrack.",
-      "published": "2026-08-15T13:56:29+00:00"
     },
     {
       "title": "Ontario Honda Dealers Indy in Markham underway after Friday cancellation",
@@ -249,14 +297,6 @@
       "category": "travel",
       "summary": "Airbnb's car rental business would be more of a win if it did the hard work to establish direct relationships with the car-rental companies themselves.",
       "published": "2026-08-15T13:39:21+00:00"
-    },
-    {
-      "title": "Blue Bombers roll past winless Redblacks 33-21",
-      "link": "https://globalnews.ca/news/12022833/blue-bombers-roll-past-winless-redblacks-33-21/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Running back Brady Oliveira began as a game-time decision, only to become a major difference-maker as Winnipeg beat Ottawa in CFL action Friday night.",
-      "published": "2026-08-15T13:14:37+00:00"
     },
     {
       "title": "Lala strengthens into hurricane as it barrels toward Hawaii",
@@ -371,11 +411,11 @@
       "published": "2026-08-15T09:25:46+00:00"
     },
     {
-      "title": "Multiple shooters at Virginia State University, with 5 people shot",
+      "title": "Police say 19-year-old arrested in connection with Virginia State University shooting",
       "link": "https://www.cbc.ca/news/world/virginia-state-university-shooting-9.7308557?cmp=rss",
       "source": "CBC News",
       "category": "world",
-      "summary": "A shooting involving multiple suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday. One person is in critical condition, county police said.",
+      "summary": "Police in Virginia say they have arrested a 19-year-old in connection with a shooting on Saturday that left five people injured. No one died in the shooting, but one victim sustained critical injuries.",
       "published": "2026-08-15T09:00:56+00:00"
     },
     {
@@ -441,6 +481,14 @@
       "category": "science",
       "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in…",
       "published": "2026-08-15T06:55:39+00:00"
+    },
+    {
+      "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
+      "link": "https://www.bbc.co.uk/news/articles/c33020jgyllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "Thousands turned out to watch the solar eclipse in the South West; here's what they made of it.",
+      "published": "2026-08-15T06:08:29+00:00"
     },
     {
       "title": "Lawn bowling beer garden a 'lifeline' for downtown Guelph, Ont., brewery",
@@ -875,14 +923,6 @@
       "published": "2026-08-14T18:27:59+00:00"
     },
     {
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "published": "2026-08-14T18:25:38+00:00"
-    },
-    {
       "title": "Appeal denied for $1.6M Saskatoon home that exceeds size limits",
       "link": "https://www.cbc.ca/news/canada/saskatoon/university-drive-too-tall-house-appeal-9.7308190?cmp=rss",
       "source": "CBC News",
@@ -1291,14 +1331,6 @@
       "published": "2026-08-14T05:07:46+00:00"
     },
     {
-      "title": "'Squashed poo' a sign of water voles' success",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1097w45no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "Signs suggest the water vole population on the Hogsmill River in Surrey has been reestablished.",
-      "published": "2026-08-14T04:57:09+00:00"
-    },
-    {
       "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
       "link": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss",
       "source": "CBC News",
@@ -1387,6 +1419,62 @@
       "published": "2026-08-14T00:35:57+00:00"
     },
     {
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in…",
+      "published": "2026-08-14T00:35:05+00:00"
+    },
+    {
+      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "link": "https://www.nature.com/articles/s41586-026-11023-3",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "published": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "link": "https://www.nature.com/articles/s41586-026-11022-4",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "published": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "link": "https://www.nature.com/articles/d41586-026-02562-w",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-wNature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same…",
+      "published": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02504-6",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6Andrew Robinson reviews five of the best science picks.",
+      "published": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "Undocumented migration does not raise crime rates, huge study finds",
+      "link": "https://www.nature.com/articles/d41586-026-02542-0",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent…",
+      "published": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdprd3mv9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "Solar specs are tricky to recycle because of their lenses, so here are three things to do instead.",
+      "published": "2026-08-13T23:15:44+00:00"
+    },
+    {
       "title": "Why Gen Z is getting better at saying “I can’t afford it”",
       "link": "https://www.moneysense.ca/columns/moneyflex/gen-z-is-getting-better-at-saying-i-cant-afford-it/",
       "source": "MoneySense",
@@ -1441,14 +1529,6 @@
       "category": "technology",
       "summary": "The company says all of its farms are turning a profit, amid rising demand and expanded distribution. The post After 15 years, GoodLeaf proves there’s profit in vertical farming first appeared on BetaKit.",
       "published": "2026-08-13T20:26:23+00:00"
-    },
-    {
-      "title": "Iga Swiatek cruises to NBO Toronto final win for her first WTA Tour title this year",
-      "link": "https://www.cbc.ca/sports/tennis/swiatek-rybakina-national-bank-open-roundup-aug13-9.7306705?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Iga Swiatek is the National Bank Open champion after defeating second-seeded Elena Rybakina 6-2, 6-3 at Sobeys Stadium in Toronto for her first WTA Tour title this year.",
-      "published": "2026-08-13T19:48:16+00:00"
     },
     {
       "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
@@ -1721,126 +1801,6 @@
       "category": "technology",
       "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
       "published": "2026-08-13T10:39:02+00:00"
-    },
-    {
-      "title": "U.K. sees its hottest day of the summer as western Europe suffers through another heat wave",
-      "link": "https://www.cbc.ca/news/world/heat-wave-fires-britain-uk-france-europe-climate-change-9.7305698?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "The U.K. recorded its hottest day of the year Thursday, with the temperature reaching 38.1 C in west London. Britain, like France, is experiencing its fifth heat wave of the year.",
-      "published": "2026-08-13T10:09:42+00:00"
-    },
-    {
-      "title": "Liberals blow past deadline to review major national security law",
-      "link": "https://globalnews.ca/news/12018304/liberals-miss-national-security-review-deadline/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "Bill C-59 changed Canada's national security landscape, creating the CSE Act, giving CSIS new powers and creating civilian oversight for the first time.",
-      "published": "2026-08-13T09:00:51+00:00"
-    },
-    {
-      "title": "Drinking orange juice every day may change thousands of genes",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while…",
-      "published": "2026-08-13T08:15:50+00:00"
-    },
-    {
-      "title": "Amazon is using Twitch to train generative AI",
-      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-      "published": "2026-08-13T07:04:31+00:00"
-    },
-    {
-      "title": "Bug-eating plant found near Iqaluit, far north of usual habitat",
-      "link": "https://www.cbc.ca/news/canada/north/bladderwort-iqaluit-9.7304685?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "A plant aficionado in Nunavut recently came across a plant that's almost never seen in Canada's North. He says the plant's presence might be a sign of a warming Arctic.",
-      "published": "2026-08-13T07:00:00+00:00"
-    },
-    {
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
-      "published": "2026-08-13T05:40:24+00:00"
-    },
-    {
-      "title": "Record drought threatens future of New Brunswick's balsam firs",
-      "link": "https://www.cbc.ca/news/canada/new-brunswick/balsam-fir-drought-9.7304912?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "Balsam fir trees in New Brunswick are the latest victim of last summer’s record-breaking drought, according to a forestry researcher.",
-      "published": "2026-08-13T05:00:00+00:00"
-    },
-    {
-      "title": "With U.S. midterm elections looming, Democrats are clashing over how to win",
-      "link": "https://www.cbc.ca/news/world/democratic-party-election-strategies-9.7305130?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "As the U.S. heads toward the midterm elections, a gruelling primary season has further entrenched a rift within the Democratic Party. Centrists argue moderate and pragmatic policies are key to flipping seats, while…",
-      "published": "2026-08-13T04:00:00+00:00"
-    },
-    {
-      "title": "Quebec man receives North America’s 1st transplant using regenerated liver technology",
-      "link": "https://www.cbc.ca/news/canada/montreal/liver-transplant-chum-regenerated-liver-north-america-9.7304956?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "A 64-year-old Quebec man has become the first patient in North America to receive a regenerated liver thanks to a breakthrough technology that could make dozens of additional livers available for transplant in its first…",
-      "published": "2026-08-13T04:00:00+00:00"
-    },
-    {
-      "title": "Babies and toddlers are sweltering in some daycares. Should there be mandatory AC?",
-      "link": "https://www.cbc.ca/radio/hot-daycares-no-ac-9.7305147?cmp=rss",
-      "source": "CBC News",
-      "category": "medical",
-      "summary": "Days and daycares are getting hotter. And a growing number of parents, educators, and health and legal advocates are lobbying for maximum indoor temperature at daycares, likely 26 C, akin to standards adopted for…",
-      "published": "2026-08-13T04:00:00+00:00"
-    },
-    {
-      "title": "'Exponential rise': Canadian pediatricians document severe e-scooter injuries, deaths in children, teens",
-      "link": "https://www.cbc.ca/news/health/e-scooters-pediatrician-survey-9.7305210?cmp=rss",
-      "source": "CBC News",
-      "category": "medical",
-      "summary": "From skull fractures to ICU admissions, pediatric specialists across Canada say severe e-scooter trauma in kids is becoming routine — and current rules are failing to protect them.",
-      "published": "2026-08-13T04:00:00+00:00"
-    },
-    {
-      "title": "Quebec man receives North America’s 1st transplant using regenerated liver technology",
-      "link": "https://www.cbc.ca/news/canada/montreal/liver-transplant-chum-regenerated-liver-north-america-9.7304956?cmp=rss",
-      "source": "CBC News",
-      "category": "medical",
-      "summary": "A 64-year-old Quebec man has become the first patient in North America to receive a regenerated liver thanks to a breakthrough technology that could make dozens of additional livers available for transplant in its first…",
-      "published": "2026-08-13T04:00:00+00:00"
-    },
-    {
-      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "link": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "published": "2026-08-12T23:19:28+00:00"
-    },
-    {
-      "title": "How to plan for the cost of caring for an aging pet",
-      "link": "https://www.moneysense.ca/spend/pets/cost-of-care-aging-pet/",
-      "source": "MoneySense",
-      "category": "markets",
-      "summary": "Caring for an aging pet can mean difficult financial choices. Here's how to prepare for costly treatment and end-of-life care. The post How to plan for the cost of caring for an aging pet appeared first on MoneySense.",
-      "published": "2026-08-12T23:08:24+00:00"
-    },
-    {
-      "title": "Why Japanese firms are being so slow to use AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-      "published": "2026-08-12T23:00:47+00:00"
     }
   ]
 }
