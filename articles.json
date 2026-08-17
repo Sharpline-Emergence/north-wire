@@ -1,12 +1,332 @@
 {
-  "generated_at": "2026-08-17T16:14:14.857768+00:00",
-  "article_count": 192,
+  "generated_at": "2026-08-17T22:16:41.884027+00:00",
+  "article_count": 203,
   "articles": [
     {
-      "title": "Quebec, N.L. to make ‘energy security’ announcement amid reports of Churchill Falls deal",
-      "link": "https://globalnews.ca/news/12024056/quebec-newfoundland-churchill-falls/",
+      "title": "News of the day: Inflation creeps higher, Bank of Canada in no rush, AI speeds up drug discovery, RBC joins Wrexham, manufacturing sales surge and more",
+      "link": "https://financialpost.com/uncategorized/news-of-the-day-inflation-creeps-higher-bank-of-canada-in-no-rush-ai-speeds-up-drug-discovery-rbc-joins-wrexham-manufacturing-sales-surge-and-more",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "Catch up on the stories we’re following today",
+      "published": "2026-08-17T21:59:19+00:00"
+    },
+    {
+      "title": "Burnaby RCMP steps up e-scooter enforcement to curb accidents, injuries",
+      "link": "https://globalnews.ca/news/12024582/burnaby-rcmp-e-scooter-enforcement-curb-accidents-injuries/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "This follows an incident on May 2, when an 11-year-old boy and a nine-year-old girl were riding e-scooters and collided with a vehicle on Hastings Street near Delta Avenue.",
+      "published": "2026-08-17T21:49:01+00:00"
+    },
+    {
+      "title": "Burnaby RCMP steps up e-scooter enforcement to curb accidents, injuries",
+      "link": "https://globalnews.ca/news/12024582/burnaby-rcmp-e-scooter-enforcement-curb-accidents-injuries/",
       "source": "Global News",
       "category": "canada",
+      "summary": "This follows an incident on May 2, when an 11-year-old boy and a nine-year-old girl were riding e-scooters and collided with a vehicle on Hastings Street near Delta Avenue.",
+      "published": "2026-08-17T21:49:01+00:00"
+    },
+    {
+      "title": "Historic Cumberland building goes up in flames",
+      "link": "https://globalnews.ca/news/12024476/historic-cumberland-building-fire/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "Chief Michael Williamson said they were alerted to the fire when people heard the alarms ringing and called in Courtenay firefighters to help.",
+      "published": "2026-08-17T21:48:58+00:00"
+    },
+    {
+      "title": "Historic Cumberland building goes up in flames",
+      "link": "https://globalnews.ca/news/12024476/historic-cumberland-building-fire/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Chief Michael Williamson said they were alerted to the fire when people heard the alarms ringing and called in Courtenay firefighters to help.",
+      "published": "2026-08-17T21:48:58+00:00"
+    },
+    {
+      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+      "published": "2026-08-17T21:43:57+00:00"
+    },
+    {
+      "title": "Alberta government misses treaty anniversary event",
+      "link": "https://globalnews.ca/news/12024606/alberta-government-misses-treaty-anniversary-event/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "An Alberta chief called for more respect from the provincial government on Monday, after its Indigenous relations minister missed a marquee event commemorating the 150th anniversary of the signing of Treaty 6.",
+      "published": "2026-08-17T21:19:27+00:00"
+    },
+    {
+      "title": "Alberta government misses treaty anniversary event",
+      "link": "https://globalnews.ca/news/12024606/alberta-government-misses-treaty-anniversary-event/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "An Alberta chief called for more respect from the provincial government on Monday, after its Indigenous relations minister missed a marquee event commemorating the 150th anniversary of the signing of Treaty 6.",
+      "published": "2026-08-17T21:19:27+00:00"
+    },
+    {
+      "title": "Alberta government misses treaty anniversary event",
+      "link": "https://globalnews.ca/news/12024606/alberta-government-misses-treaty-anniversary-event/",
+      "source": "Global News",
+      "category": "politics",
+      "summary": "An Alberta chief called for more respect from the provincial government on Monday, after its Indigenous relations minister missed a marquee event commemorating the 150th anniversary of the signing of Treaty 6.",
+      "published": "2026-08-17T21:19:27+00:00"
+    },
+    {
+      "title": "Gold Reserve Successfully Overcomes Rusoro Mining Ltd.’s Motion to Dismiss in Court of Chancery Proceedings",
+      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gold-reserve-successfully-overcomes-rusoro-mining-ltd-s-motion-to-dismiss-in-court-of-chancery-proceedings",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "PEMBROKE, Bermuda — Gold Reserve Ltd. (TSX.V: GRZ) (BSX: GRZ.BH) (OTCQX: GDRZF) (“Gold Reserve” or the “Company”) announced today that it has successfully overcome a Motion to Dismiss brought by the defendant, Rusoro…",
+      "published": "2026-08-17T21:17:09+00:00"
+    },
+    {
+      "title": "Granite REIT Declares Distribution for August 2026",
+      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/granite-reit-declares-distribution-for-august-2026",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "TORONTO — Granite Real Estate Investment Trust (“Granite”) (TSX: GRT.UN) announced today that its board of trustees has declared a distribution of CDN $0.2958 per unit for the month of August 2026. The distribution will…",
+      "published": "2026-08-17T21:07:15+00:00"
+    },
+    {
+      "title": "PIMCO Canada Corp. Announces Monthly Distributions for PIMCO Canada Exchange Traded Series",
+      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pimco-canada-corp-announces-monthly-distributions-for-pimco-canada-exchange-traded-series-68",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "Not for distribution to United States newswire services or for dissemination in the United States TORONTO — PIMCO Canada Corp. (“PIMCO Canada”) today announced the 2026 August cash distributions for the ETF series (“ETF…",
+      "published": "2026-08-17T21:07:05+00:00"
+    },
+    {
+      "title": "RioCan Real Estate Investment Trust Announces August 2026 Distribution",
+      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/riocan-real-estate-investment-trust-announces-august-2026-distribution",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "TORONTO — RioCan Real Estate Investment Trust (“RioCan”) (TSX: REI.UN) today announced a distribution of 9.65 cents per unit for the month of August. The distribution will be payable on September 8, 2026, to unitholders…",
+      "published": "2026-08-17T21:06:55+00:00"
+    },
+    {
+      "title": "Swiss Water Announces TSX Approval for Share Buyback under an NCIB",
+      "link": "https://financialpost.com/globe-newswire/swiss-water-announces-tsx-approval-for-share-buyback-under-an-ncib",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "VANCOUVER, British Columbia, Aug. 17, 2026 (GLOBE NEWSWIRE) — Swiss Water Decaffeinated Coffee Inc. (TSX:SWP) (“Swiss Water” or “the Company”), is pleased to announce that the Toronto Stock Exchange (the “TSX”) has…",
+      "published": "2026-08-17T21:01:09+00:00"
+    },
+    {
+      "title": "McFarlane Lake Announces Completion of Strategic Investment in iMetal Resources, Inc.",
+      "link": "https://financialpost.com/globe-newswire/mcfarlane-lake-announces-completion-of-strategic-investment-in-imetal-resources-inc",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "TORONTO, Aug. 17, 2026 (GLOBE NEWSWIRE) — McFarlane Lake Mining Limited (“McFarlane” or the “Company”) (CSE: MLM, OTC: MLMLF, FRA: W2Z) is pleased to announce that, further to its press release on August 5, 2026, the…",
+      "published": "2026-08-17T21:01:01+00:00"
+    },
+    {
+      "title": "K92 Mining Announces Leadership Succession – John Lewins Appointed Non-Executive Chair, David Medilek Appointed Chief Executive Officer and Director",
+      "link": "https://financialpost.com/globe-newswire/k92-mining-announces-leadership-succession-john-lewins-appointed-non-executive-chair-david-medilek-appointed-chief-executive-officer-and-director",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "VANCOUVER, British Columbia, Aug. 17, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) today announced a leadership transition as part of the Company’s ongoing succession…",
+      "published": "2026-08-17T21:00:52+00:00"
+    },
+    {
+      "title": "Faulty extension cord blamed for N.S. fire that killed 10K chickens",
+      "link": "https://globalnews.ca/news/12024524/chicken-farm-death-faulty-cord-nova-scotia/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "As for the investigation to determine who is responsible for the chickens’ deaths, RCMP say no one has been charged because of a lack of evidence.",
+      "published": "2026-08-17T20:44:26+00:00"
+    },
+    {
+      "title": "Saskatoon zoo’s beloved grizzly bear euthanized following a decline in health",
+      "link": "https://globalnews.ca/news/12024456/saskatoon-zoo-grizzly-bear-dies/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Koda was humanely euthanized after 'careful consideration' when staff noticed a decline in his health, zoo officials said in a news release Monday.",
+      "published": "2026-08-17T20:34:10+00:00"
+    },
+    {
+      "title": "Picton Mahoney Asset Management Announces Monthly Distribution for PICTON Long Short Income Alternative Fund Exchange Traded Fund Units, PICTON Credit Opportunities Alternative Fund Exchange Traded Fund Units, PICTON Core Bond Fund Exchange Traded Fund Units, PICTON Multi-Strategy Alpha Alternative Fund Exchange Traded Fund Units and PICTON Investment Grade Alternative Fund Exchange Traded Fund Units",
+      "link": "https://financialpost.com/globe-newswire/picton-mahoney-asset-management-announces-monthly-distribution-for-picton-long-short-income-alternative-fund-exchange-traded-fund-units-picton-credit-opportunities-alternative-fund-exchange-traded-15",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "TORONTO, Aug. 17, 2026 (GLOBE NEWSWIRE) — (TSX: PFIA, PFCO, PFCB, PFAA, PFIG) Picton Mahoney Asset Management (“PICTON Investments”) announced today that it has declared the August 2026 monthly cash distribution of…",
+      "published": "2026-08-17T20:30:20+00:00"
+    },
+    {
+      "title": "3 men charged in connection to Manitoba drug investigation: RCMP",
+      "link": "https://globalnews.ca/news/12024425/manitoba-drugs-guns-seizure-investigation/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "A 21-year-old woman and 17-year-old girl from Flin Flon, Man., were also taken into custody but have since been released on undertakings.",
+      "published": "2026-08-17T20:26:23+00:00"
+    },
+    {
+      "title": "Calgary’s Max Bell Park and pathway being redeveloped, city seeks feedback",
+      "link": "https://globalnews.ca/news/12024261/calgary-max-bell-park-and-pathway-redevelopment/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "The City of Calgary is soliciting public feedback on plans to development a piece of greenspace and trails on the east side of Max Bell Arena.",
+      "published": "2026-08-17T20:13:03+00:00"
+    },
+    {
+      "title": "Peripheral nets $8.7 million USD to bring spatial intelligence tech to sports",
+      "link": "https://betakit.com/peripheral-nets-8-7-million-usd-to-bring-spatial-intelligence-tech-to-sports/",
+      "source": "BetaKit",
+      "category": "technology",
+      "summary": "Deloitte Ventures, Inovia Capital back Toronto startup’s AI for live sports vision. The post Peripheral nets $8.7 million USD to bring spatial intelligence tech to sports first appeared on BetaKit.",
+      "published": "2026-08-17T19:47:59+00:00"
+    },
+    {
+      "title": "Experts say Canadian youth social media ban likely to see Charter challenge",
+      "link": "https://globalnews.ca/news/12024377/canada-youth-social-media-ban-charter-challenge/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Canada is among dozens of countries which began looking at social media age restrictions after Australia became the first country to ban kids from social media in December 2025.",
+      "published": "2026-08-17T19:29:40+00:00"
+    },
+    {
+      "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
+      "link": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
+      "source": "STAT News",
+      "category": "medical",
+      "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
+      "published": "2026-08-17T19:23:54+00:00"
+    },
+    {
+      "title": "Google Scoops Up Spirit Airlines’ Data in Bankruptcy Sale to Train AI",
+      "link": "https://skift.com/2026/08/17/google-scoops-up-spirits-data-in-bankruptcy-sale-to-train-ai/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Google plans to use troves of Spirit’s business data and software code to improve its own AI models and products.",
+      "published": "2026-08-17T19:11:51+00:00"
+    },
+    {
+      "title": "Health Canada approves drug to treat hot flashes for some cancer patients",
+      "link": "https://globalnews.ca/news/12024319/hot-flashes-drug-breast-cancer/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Health Canada has authorized a drug to treat moderate to severe hot flashes and night sweats in breast cancer patients.",
+      "published": "2026-08-17T19:10:51+00:00"
+    },
+    {
+      "title": "Summerland farmer was 12 hours away from harvesting crop when wildfire sparked",
+      "link": "https://globalnews.ca/news/12024246/summerland-farmer-12-hours-away-harvesting-crop-bald-range-wildfire/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "Crops in the Okanagan have been hit consecutively, first by a heat dome in 2021, then a cold snap in 2024 that led to the closure of B.C. Tree Fruits Cooperative.",
+      "published": "2026-08-17T19:06:57+00:00"
+    },
+    {
+      "title": "Saskatchewan marshals seek snipers, special gear",
+      "link": "https://globalnews.ca/news/12024368/saskatchewan-marshals-seek-snipers-special-gear/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "Saskatchewan is looking to buy some high-tech weaponry for its marshals police service, including sniper rifles, sound cannons and a thermal camera.",
+      "published": "2026-08-17T18:52:38+00:00"
+    },
+    {
+      "title": "The Substack Renaissance in Travel Media Comes With a Catch",
+      "link": "https://skift.com/2026/08/17/the-substack-renaissance-in-travel-media-comes-with-a-catch/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Substack provides space for travel writers with strong points of view honed from years of experience. The best ones embrace the freedom and avoid quick takes.",
+      "published": "2026-08-17T18:49:37+00:00"
+    },
+    {
+      "title": "More evacuees return home to Summerland as firefighting efforts move to northwest",
+      "link": "https://globalnews.ca/news/12024280/more-evacuees-return-home-summerland-firefighting-efforts-northwest/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "More wildfire evacuees returned home to Summerland on Monday morning, more than a week after the Bald Range fire forced them to flee.",
+      "published": "2026-08-17T18:46:19+00:00"
+    },
+    {
+      "title": "STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise",
+      "link": "https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss",
+      "source": "STAT News",
+      "category": "medical",
+      "summary": "Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment.",
+      "published": "2026-08-17T18:45:42+00:00"
+    },
+    {
+      "title": "Campus safety platform Legio raises $5 million USD from Klass Capital",
+      "link": "https://betakit.com/campus-safety-platform-legio-raises-5-million-usd-from-klass-capital/",
+      "source": "BetaKit",
+      "category": "technology",
+      "summary": "Funding will help with product development and sucuring partnerships with post-secondary institutions. The post Campus safety platform Legio raises $5 million USD from Klass Capital first appeared on BetaKit.",
+      "published": "2026-08-17T18:32:29+00:00"
+    },
+    {
+      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
+      "published": "2026-08-17T18:03:23+00:00"
+    },
+    {
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+      "published": "2026-08-17T18:00:55+00:00"
+    },
+    {
+      "title": "Jann Arden shares pictures of wedding to Icelandic author Thordis Elva",
+      "link": "https://globalnews.ca/news/12024046/jann-arden-wedding-thordis-elva/",
+      "source": "Global News",
+      "category": "entertainment",
+      "summary": "The Calgary-born singer, author and actor announced her nuptials on Sunday in an Instagram post with the caption, 'Wife and wife.'",
+      "published": "2026-08-17T17:20:14+00:00"
+    },
+    {
+      "title": "FIFA confirms departure of senior executive Kevin Lamour after Infantino criticism",
+      "link": "https://www.cbc.ca/sports/soccer/fifa-departure-coo-kevin-lamour-9.7310181?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "FIFA confirmed on Monday that Chief Operating Officer Kevin Lamour has left the governing body, weeks after he publicly criticized President Gianni Infantino's plan to sell a stake in ‌its tournament business, including…",
+      "published": "2026-08-17T17:03:32+00:00"
+    },
+    {
+      "title": "FIFA confirms departure of senior executive Kevin Lamour after Infantino criticism",
+      "link": "https://www.cbc.ca/sports/soccer/fifa-departure-coo-kevin-lamour-9.7310181?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "FIFA confirmed on Monday that Chief Operating Officer Kevin Lamour has left the governing body, weeks after he publicly criticized President Gianni Infantino's plan to sell a stake in ‌its tournament business, including…",
+      "published": "2026-08-17T17:03:32+00:00"
+    },
+    {
+      "title": "Heated Rivalry author donates $300K to 5 rural libraries facing closure",
+      "link": "https://www.cbc.ca/news/canada/nova-scotia/heated-rivalry-author-rachel-reid-donates-300k-to-avrl-9.7310023?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Rachel Reid says when she heard five libraries in Nova Scotia’s Annapolis Valley were set to permanently close their doors, she wanted to help as much as she could.",
+      "published": "2026-08-17T16:57:21+00:00"
+    },
+    {
+      "title": "Chief calls for respect after Alberta government misses Treaty 6 anniversary event",
+      "link": "https://www.cbc.ca/news/canada/edmonton/alberta-government-treaty-6-celebration-9.7310118?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "An Alberta chief is calling for more respect from the provincial government after its Indigenous relations minister missed a marquee event marking the 150th anniversary of the signing of Treaty 6.",
+      "published": "2026-08-17T16:53:19+00:00"
+    },
+    {
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "published": "2026-08-17T16:17:34+00:00"
+    },
+    {
+      "title": "Quebec, Newfoundland and Labrador announce Churchill Falls energy deal",
+      "link": "https://globalnews.ca/news/12024056/quebec-newfoundland-churchill-falls/",
+      "source": "Global News",
+      "category": "politics",
       "summary": "Premiers Christine Frechette and Tony Wakeham will be joined by Prime Minister Mark Carney and other officials in St. John's on Monday.",
       "published": "2026-08-17T16:13:19+00:00"
     },
@@ -19,46 +339,6 @@
       "published": "2026-08-17T16:05:17+00:00"
     },
     {
-      "title": "Kaplan Fox Encourages Futu Holdings Limited (NASDAQ: FUTU) Investors with Significant Losses to Contact the Firm Before August 25, 2026",
-      "link": "https://financialpost.com/globe-newswire/kaplan-fox-encourages-futu-holdings-limited-nasdaq-futu-investors-with-significant-losses-to-contact-the-firm-before-august-25-2026",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "NEW YORK, Aug. 17, 2026 (GLOBE NEWSWIRE) — Kaplan Fox & Kilsheimer LLP announces that a class action lawsuit has been filed against Futu Holdings Limited (“Futu” or the “Company”) (NASDAQ: FUTU) on behalf of investors…",
-      "published": "2026-08-17T16:00:20+00:00"
-    },
-    {
-      "title": "Quebec will need to make a $2B effort to balance budget, says auditor general",
-      "link": "https://globalnews.ca/news/12024057/quebec-2027-budget-auditor-general/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "A new reports says the next Quebec government will need to make budget cuts totaling at least $2 billion starting next year to stay on track toward a balanced budget.",
-      "published": "2026-08-17T15:52:30+00:00"
-    },
-    {
-      "title": "Kaplan Fox Alerts Investors of Cogent Communications Holdings, Inc. (NASDAQ: CCOI) with Significant Losses to a Securities Class Action Deadline on September 21, 2026",
-      "link": "https://financialpost.com/globe-newswire/kaplan-fox-alerts-investors-of-cogent-communications-holdings-inc-nasdaq-ccoi-with-significant-losses-to-a-securities-class-action-deadline-on-september-21-2026-2",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "NEW YORK, Aug. 17, 2026 (GLOBE NEWSWIRE) — Kaplan Fox & Kilsheimer LLP announces that a class action lawsuit has been filed against Cogent Communications Holdings, Inc. (“Cogent” or the “Company”) (NASDAQ: CCOI) on…",
-      "published": "2026-08-17T15:50:08+00:00"
-    },
-    {
-      "title": "Milton Hydro Launches Two-Year Pilot Program of G&W Electric’s Safegrid Intelligent Grid System to Enhance Grid Reliability",
-      "link": "https://financialpost.com/globe-newswire/milton-hydro-launches-two-year-pilot-program-of-gw-electrics-safegrid-intelligent-grid-system-to-enhance-grid-reliability",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "MILTON, Ontario, Aug. 17, 2026 (GLOBE NEWSWIRE) — Milton Hydro Distribution Inc. (Milton Hydro) is pleased to announce the launch of a two-year pilot program deploying G&W Electric’s Safegrid Intelligent Grid System…",
-      "published": "2026-08-17T15:45:02+00:00"
-    },
-    {
-      "title": "RCMP help recover ancient Peruvian artifact in Montreal",
-      "link": "https://globalnews.ca/news/12023990/rcmp-peruvian-artifact-montreal/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Officials from the Peruvian Embassy made a request through Global Affairs Canada that the bowl be repatriated, RCMP said.",
-      "published": "2026-08-17T15:40:54+00:00"
-    },
-    {
       "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
       "link": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -67,28 +347,12 @@
       "published": "2026-08-17T15:35:47+00:00"
     },
     {
-      "title": "Kaplan Fox Advises Capricor Therapeutics, Inc. (NASDAQ: CAPR) Investors to Act Before the Lead Plaintiff Deadline on September 28, 2026",
-      "link": "https://financialpost.com/globe-newswire/kaplan-fox-advises-capricor-therapeutics-inc-nasdaq-capr-investors-to-act-before-the-lead-plaintiff-deadline-on-september-28-2026",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "NEW YORK, Aug. 17, 2026 (GLOBE NEWSWIRE) — Kaplan Fox & Kilsheimer LLP announces that a class action lawsuit has been filed against Capricor Therapeutics, Inc. (“Capricor” or the “Company”) (NASDAQ: CAPR) on behalf of…",
-      "published": "2026-08-17T15:34:51+00:00"
-    },
-    {
-      "title": "Six Five Media Unveils ‘AI Unleashed’ Lineup for Six Five Summit 2026, Headlined by Salesforce CEO Marc Benioff",
-      "link": "https://financialpost.com/globe-newswire/six-five-media-unveils-ai-unleashed-lineup-for-six-five-summit-2026-headlined-by-salesforce-ceo-marc-benioff",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "The three-day virtual event brings together the CEOs shaping enterprise AI — from platforms and infrastructure to chips, edge, agents, and sovereign compute. Front-row access. Free. Austin, Texas, Aug. 17, 2026 (GLOBE…",
-      "published": "2026-08-17T15:29:55+00:00"
-    },
-    {
-      "title": "Greenland Fjords Mappedas Skaergaard Advances Marine-Logistics Planning",
-      "link": "https://financialpost.com/globe-newswire/greenland-fjords-mappedas-skaergaard-advances-marine-logistics-planning",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "News Provided by USA News Group on behalf of Greenland Mines Ltd. NEW YORK, Aug. 17, 2026 (GLOBE NEWSWIRE) — USA News Group News Commentary – Shipping is the quiet constraint on Arctic mining. A deposit can be large,…",
-      "published": "2026-08-17T15:29:46+00:00"
+      "title": "The Skift State of Travel 2026 Is Out. Here’s What Stood Out.",
+      "link": "https://skift.com/2026/08/17/the-skift-state-of-travel-2026-is-out-heres-what-stood-out/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "On Monday's ⁠Good Morning Hospitality, A Skift Podcast⁠, ⁠Brandreth Canaley⁠, ⁠Michael Goldin⁠, and ⁠Jamie Lane⁠ each share the stat from Skift's State of Travel 2026 report that hit hardest for them, with ⁠Seth Borko⁠,…",
+      "published": "2026-08-17T15:29:00+00:00"
     },
     {
       "title": "More hosepipe bans in force as drought declared - is your area affected?",
@@ -99,44 +363,20 @@
       "published": "2026-08-17T15:27:01+00:00"
     },
     {
-      "title": "Private credit under strain as troubled loans swell",
-      "link": "https://financialpost.com/financial-times/private-credit-under-strain-troubled-loans-swell",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "FT analysis shows signals of stress in the market are back to levels last seen in 2017",
-      "published": "2026-08-17T15:23:11+00:00"
+      "title": "Ottawa's Dabrowski, partner Krejcikova advance to Round of 16 at Cincinnati Open",
+      "link": "https://www.cbc.ca/sports/tennis/cincinnati-open-recap-aug17-9.7310041?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Ottawa's Gabriela Dabrowski and Czechia's Barbora Krejcikova have advanced at the Cincinnati Open. They beat the fourth-seeded team of Spain's Cristina Bucsa and Nicole Melichar-Martinez of the United States 6-3, 1-6,…",
+      "published": "2026-08-17T15:22:36+00:00"
     },
     {
-      "title": "You’re probably paying too much for AI — here’s why",
-      "link": "https://financialpost.com/personal-finance/business-essentials/askanymodel",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "AskAnyModel gathers more than 50 AI models into a single browser interface",
-      "published": "2026-08-17T15:20:58+00:00"
-    },
-    {
-      "title": "Woman dead after being swept into Lake Ontario",
-      "link": "https://globalnews.ca/news/12023970/woman-dead-swept-into-lake-ontario/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "A woman is dead after being swept into Lake Ontario from the shores of Jack Darling Memorial Park, according to Peel Regional Police.",
-      "published": "2026-08-17T15:19:49+00:00"
-    },
-    {
-      "title": "Kaplan Fox Announces a Securities Class Action Filed Against Photronics, Inc. (NASDAQ: PLAB) – Lead Plaintiff Deadline is September 4, 2026",
-      "link": "https://financialpost.com/globe-newswire/kaplan-fox-announces-a-securities-class-action-filed-against-photronics-inc-nasdaq-plab-lead-plaintiff-deadline-is-september-4-2026",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "NEW YORK, Aug. 17, 2026 (GLOBE NEWSWIRE) — Kaplan Fox & Kilsheimer LLP announces that a class action lawsuit has been filed against Photronics, Inc. (“Photronics” or the “Company”) (NASDAQ: PLAB) on behalf of investors…",
-      "published": "2026-08-17T15:19:35+00:00"
-    },
-    {
-      "title": "‘This one is personal’: RBC becomes sponsor of Ryan Reynolds’ Wrexham AFC soccer team",
-      "link": "https://financialpost.com/fp-finance/banking/rbc-sponsor-ryan-reynolds-wrexham-afc-soccer",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "Wrexham currently plays in the Championship division, England's second-tier league",
-      "published": "2026-08-17T15:07:59+00:00"
+      "title": "NBA disputes ESPN article on investigation of Clippers owner Steve Ballmer",
+      "link": "https://www.cbc.ca/sports/basketball/nba/nba-disputes-espn-article-on-investigation-of-clippers-owner-steve-ballmer-9.7310055?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "The NBA is disputing claims made in an ESPN article about the league's investigation of Los Angeles Clippers owner Steve Ballmer.",
+      "published": "2026-08-17T15:20:04+00:00"
     },
     {
       "title": "OnGuardAI launches app to flag scam calls in real time",
@@ -155,14 +395,6 @@
       "published": "2026-08-17T15:00:00+00:00"
     },
     {
-      "title": "Human remains found in Scarborough: Toronto police",
-      "link": "https://globalnews.ca/news/12023923/human-remains-found-scarborough/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Toronto police are investigating after finding suspected human remains in a Scarborough industrial park near Ellesmere and Markham roads on Sunday.",
-      "published": "2026-08-17T14:54:34+00:00"
-    },
-    {
       "title": "Airbnb Has Quietly Rebuilt the Marketing Engine It Was Famous for Cutting",
       "link": "https://skift.com/2026/08/17/airbnb-has-quietly-rebuilt-the-marketing-engine-it-was-famous-for-cutting/",
       "source": "Skift",
@@ -171,20 +403,12 @@
       "published": "2026-08-17T14:51:33+00:00"
     },
     {
-      "title": "Pilot still missing in Ontario, police say plane debris found",
-      "link": "https://globalnews.ca/news/12023906/missing-pilot-search-ongoing-plane-debris-found/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Durham regional police said the pilot had left at about 8:30 a.m. Friday and was expected back about an hour later. When he did not arrive, a search began.",
-      "published": "2026-08-17T14:44:20+00:00"
-    },
-    {
-      "title": "The Curator: 12 must-have kitchen products to make meal prep easier",
-      "link": "https://globalnews.ca/the-curator/12023445/12-kitchen-products-that-make-meal-prep-faster-and-easier/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "These 12 products from brands like Bentgo, Cutluxe and more can help you prep ingredients faster, stay organized and make cooking throughout the week a little easier.",
-      "published": "2026-08-17T14:41:11+00:00"
+      "title": "Nick Reiner denied access to trust fund ahead of murder trial as trustees cite 'slayer statute'",
+      "link": "https://www.cbc.ca/news/entertainment/reiner-trust-fund-denied-9.7309927?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Nick Reiner, who stands accused of killing his parents, Rob Reiner and Michele Singer Reiner, has been denied access to the $1.5-million US trust fund he was seeking to use to fund his legal defence. The 32-year-old has…",
+      "published": "2026-08-17T14:49:05+00:00"
     },
     {
       "title": "STAT+: The IRS is probing UnitedHealth, and a private equity slowdown",
@@ -195,12 +419,12 @@
       "published": "2026-08-17T14:40:47+00:00"
     },
     {
-      "title": "Suspect sought after neo-Nazi, anti-Black imagery placed at Ontario business",
-      "link": "https://globalnews.ca/news/12023909/neo-nazi-anti-black-imagery-ontario-business/",
-      "source": "Global News",
+      "title": "5 years after Taliban seized control, Afghan refugee reflects on new life in Saskatoon",
+      "link": "https://www.cbc.ca/news/canada/saskatoon/afghan-refugee-saskatoon-new-life-afghanistan-taliban-9.7309965?cmp=rss",
+      "source": "CBC News",
       "category": "canada",
-      "summary": "Police say the incident occurred on June 13 between 9 p.m. and 10:30 p.m. at a building located at 51 Adair Ave. S. in Hamilton.",
-      "published": "2026-08-17T14:40:14+00:00"
+      "summary": "Farkhunda Hashimy moved to Saskatoon with her family in 2023, escaping the Taliban regime in Afghanistan. Decrees by the regime have restricted the rights and freedoms of Afghan women and girls, and stopped them from…",
+      "published": "2026-08-17T14:37:32+00:00"
     },
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
@@ -211,12 +435,36 @@
       "published": "2026-08-17T14:23:04+00:00"
     },
     {
-      "title": "Manitoba man arrested in North Dakota after abduction: police",
-      "link": "https://globalnews.ca/news/12023874/manitoba-man-arrested-north-dakota/",
-      "source": "Global News",
+      "title": "Ottawa Rapid extend star DB Pridham through 2028 season",
+      "link": "https://www.cbc.ca/sports/soccer/nsl-db-pridham-ottawa-rapid-contract-9.7309538?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Delaney Baie Pridham, the Northern Super League's first Golden Boot winner and Player of the Year, has extended her contract with the Rapid FC through the 2028 season.",
+      "published": "2026-08-17T14:13:33+00:00"
+    },
+    {
+      "title": "Carney says last-minute U.S. tariff negotiations are 'delicate' and 'intense' as deadline looms",
+      "link": "https://www.cbc.ca/news/politics/carney-negotiations-delicate-intense-9.7309934?cmp=rss",
+      "source": "CBC News",
+      "category": "politics",
+      "summary": "Prime Minister Mark Carney said last-minute negotiations with the U.S. to avoid a fresh batch of tariffs due to take effect this week are \"delicate\" and \"intense,\" and he plans to speak to his American counterpart in…",
+      "published": "2026-08-17T14:03:32+00:00"
+    },
+    {
+      "title": "Carney says last-minute U.S. tariff negotiations are 'delicate' and 'intense' as deadline looms",
+      "link": "https://www.cbc.ca/news/politics/carney-negotiations-delicate-intense-9.7309934?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "Prime Minister Mark Carney said last-minute negotiations with the U.S. to avoid a fresh batch of tariffs due to take effect this week are \"delicate\" and \"intense,\" and he plans to speak to his American counterpart in…",
+      "published": "2026-08-17T14:03:32+00:00"
+    },
+    {
+      "title": "Number of collisions with bison on N.W.T. roads declines",
+      "link": "https://www.cbc.ca/news/canada/north/bison-collisions-nwt-roads-9.7309259?cmp=rss",
+      "source": "CBC News",
       "category": "canada",
-      "summary": "North Dakota State Patrol said it was alerted to a possible abduction on Saturday. Police allege a 31-year old Manitoba man abducted a 37-year-old man in Winnipeg.",
-      "published": "2026-08-17T13:51:56+00:00"
+      "summary": "From 2021 to 2025, the N.W.T. Department of Environment and Climate Change (ECC) recorded 60 collisions with bison. So far in 2026 however, there has been only one.",
+      "published": "2026-08-17T14:00:00+00:00"
     },
     {
       "title": "Saudi Arabia and Egypt Lead Middle East’s Hotel Construction. The UAE Trails.",
@@ -267,12 +515,68 @@
       "published": "2026-08-17T13:05:17+00:00"
     },
     {
+      "title": "Crews find plane in Kawartha Lakes region as search for missing pilot continues",
+      "link": "https://www.cbc.ca/news/canada/toronto/missing-pilot-kawartha-lakes-9.7309785?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Search and rescue officials say they found a plane in the Kawartha Lakes region where a pilot believed to have flown in the area last week remains missing.",
+      "published": "2026-08-17T12:48:40+00:00"
+    },
+    {
+      "title": "Canadian icon Jann Arden marries Icelandic author Thordis Elva: 'Wife and wife'",
+      "link": "https://www.cbc.ca/news/entertainment/jann-arden-thordis-elva-married-9.7309495?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Arden, 64, who is best known for ballads like Insensitive, Good Mother and Could I Be Your Girl, announced her engagement to Elva on Dec. 31, 2025. The couple initially met at a writer's retreat in Iceland.",
+      "published": "2026-08-17T12:41:12+00:00"
+    },
+    {
+      "title": "Canadian icon Jann Arden marries Icelandic author Thordis Elva: 'Wife and wife'",
+      "link": "https://www.cbc.ca/news/entertainment/jann-arden-thordis-elva-married-9.7309495?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Arden, 64, who is best known for ballads like Insensitive, Good Mother and Could I Be Your Girl, announced her engagement to Elva on Dec. 31, 2025. The couple initially met at a writer's retreat in Iceland.",
+      "published": "2026-08-17T12:41:12+00:00"
+    },
+    {
+      "title": "What's at stake as Meta faces potential landmark trial in U.S. federal court",
+      "link": "https://www.cbc.ca/news/world/us-federal-trial-california-meta-9.7309463?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Meta has lost two trials concerning child safety on its platforms so far this year and settled a third case. The company now faces what could be its most consequential trial yet, in federal court beginning Tuesday.",
+      "published": "2026-08-17T12:33:11+00:00"
+    },
+    {
+      "title": "What's at stake as Meta faces potential landmark trial in U.S. federal court",
+      "link": "https://www.cbc.ca/news/world/us-federal-trial-california-meta-9.7309463?cmp=rss",
+      "source": "CBC News",
+      "category": "markets",
+      "summary": "Meta has lost two trials concerning child safety on its platforms so far this year and settled a third case. The company now faces what could be its most consequential trial yet, in federal court beginning Tuesday.",
+      "published": "2026-08-17T12:33:11+00:00"
+    },
+    {
+      "title": "Inside the Montreal lab preparing Canada for the next pandemic",
+      "link": "https://www.cbc.ca/news/canada/montreal/montreal-lab-preps-for-next-pandemic-9.7309664?cmp=rss",
+      "source": "CBC News",
+      "category": "medical",
+      "summary": "Six years after the spread of COVID-19 caught the world by surprise, a lab at Polytechnique Montréal is spearheading efforts to prepare Canada against future pandemics.",
+      "published": "2026-08-17T12:24:19+00:00"
+    },
+    {
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
       "summary": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
       "published": "2026-08-17T12:23:26+00:00"
+    },
+    {
+      "title": "4th-ranked Auger-Aliassime headlines Canadian roster for Davis Cup qualifiers",
+      "link": "https://www.cbc.ca/sports/tennis/felix-auger-aliassime-canadian-roster-davis-cup-qualifiers-9.7309753?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Fourth-ranked Felix Auger-Aliassime headlines the Canadian roster for the second round of Davis Cup qualifiers next month in Quebec City.",
+      "published": "2026-08-17T12:17:51+00:00"
     },
     {
       "title": "Consultation ending on controversial Rosebank oil field",
@@ -502,9 +806,25 @@
       "title": "What you need to know about B.C. wildfires on Aug. 17",
       "link": "https://www.cbc.ca/news/canada/british-columbia/what-you-need-know-british-columbia-wildfires-august-17-9.7309310?cmp=rss",
       "source": "CBC News",
+      "category": "canada",
+      "summary": "The mayor of Summerland, B.C., says that damage assessments have been completed as more of his community's residents return, after being forced to flee due to the out-of-control Bald Range wildfire.",
+      "published": "2026-08-17T08:00:00+00:00"
+    },
+    {
+      "title": "What you need to know about B.C. wildfires on Aug. 17",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/what-you-need-know-british-columbia-wildfires-august-17-9.7309310?cmp=rss",
+      "source": "CBC News",
       "category": "bc",
       "summary": "The mayor of Summerland, B.C., says that damage assessments have been completed as more of his community's residents return, after being forced to flee due to the out-of-control Bald Range wildfire.",
       "published": "2026-08-17T08:00:00+00:00"
+    },
+    {
+      "title": "'I felt like a sitting duck': B.C. mother recounts harrowing escape from scaffolding collapse in Regina",
+      "link": "https://www.cbc.ca/news/canada/saskatchewan/mother-recounts-escape-scaffolding-collapse-9.7309195?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Claire Johnstone was loading her young son into her car when, all of a sudden, a scaffold came crashing down next to her car on Aug. 11. \"It took me a second to realize that it was actually hitting the car,\" said…",
+      "published": "2026-08-17T07:00:00+00:00"
     },
     {
       "title": "Why is Australian beef the cheaper option in Canadian grocery stores?",
@@ -515,11 +835,19 @@
       "published": "2026-08-17T07:00:00+00:00"
     },
     {
-      "title": "Tumbler Ridge Secondary School teardown begins as B.C. prepares to rebuild following mass shooting",
+      "title": "Tumbler Ridge school teardown begins as B.C. prepares to rebuild following mass shooting",
       "link": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-secondary-school-demolition-begins-9.7307721?cmp=rss",
       "source": "CBC News",
       "category": "bc",
-      "summary": "School District 59 says work to remove the exterior of Tumbler Ridge Secondary School begins Monday. Crews have spent the last several weeks moving out the school's contents using covered trucks ahead of its physical…",
+      "summary": "Demolition crews began work tearing down Tumbler Ridge Secondary School on Monday, about six months after a mass shooting. The province announced plans to replace the school 'as quickly as possible' in May, although a…",
+      "published": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "title": "'I felt like a sitting duck': B.C. mother recounts harrowing escape from scaffolding collapse in Regina, Sask.",
+      "link": "https://www.cbc.ca/news/canada/saskatchewan/mother-recounts-escape-scaffolding-collapse-9.7309195?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "Claire Johnstone was loading her young son into her car when, all of a sudden, a scaffold came crashing down next to her car on Aug. 11. \"It took me a second to realize that it was actually hitting the car,\" said…",
       "published": "2026-08-17T07:00:00+00:00"
     },
     {
@@ -555,11 +883,11 @@
       "published": "2026-08-17T05:00:25+00:00"
     },
     {
-      "title": "Major energy announcement coming as prime minister, top officials from Quebec travel to St. John's",
-      "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/major-energy-announcement-coming-as-prime-minister-top-officials-from-quebec-travel-to-st-john-s-9.7309135?cmp=rss",
+      "title": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa",
+      "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/new-churchill-falls-deal-announced-wakeham-carney-frechette-9.7309135?cmp=rss",
       "source": "CBC News",
       "category": "politics",
-      "summary": "A major energy announcement involving Newfoundland and Labrador and Quebec is scheduled for Monday afternoon in St. John's.",
+      "summary": "Prime Minister Mark Carney, N.L. Premier Tony Wakeham and Quebec Premier Christine Fréchette stood along the St. John's harbour and announced a new energy deal — not yet finalized — on Churchill Falls and other…",
       "published": "2026-08-17T04:42:01+00:00"
     },
     {
@@ -603,19 +931,19 @@
       "published": "2026-08-17T04:00:00+00:00"
     },
     {
-      "title": "Uncovered texts reveal alleged gun-for-hire network tied to attempted Project South hit",
-      "link": "https://www.cbc.ca/news/canada/toronto/texts-reveal-alleged-gun-for-hire-project-south-9.7306502?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Court documents filed by Crown prosecutors say the alleged hit on a jail official that triggered the police corruption and organized crime case known as Project South was organized by suspects contracting out the job…",
-      "published": "2026-08-17T04:00:00+00:00"
-    },
-    {
       "title": "Demand for Canadian citizenship certificates soaring, fuelled by Americans",
       "link": "https://www.cbc.ca/news/politics/canadian-citizenship-certificates-americans-9.7307536?cmp=rss",
       "source": "CBC News",
       "category": "canada",
       "summary": "Applications from people around the world seeking Canadian citizenship certificates have been rising rapidly, fuelled by thousands from the United States, CBC News has learned. So many people have applied following a…",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "title": "Uncovered texts reveal alleged gun-for-hire network tied to attempted Project South hit",
+      "link": "https://www.cbc.ca/news/canada/toronto/texts-reveal-alleged-gun-for-hire-project-south-9.7306502?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Court documents filed by Crown prosecutors say the alleged hit on a jail official that triggered the police corruption and organized crime case known as Project South was organized by suspects contracting out the job…",
       "published": "2026-08-17T04:00:00+00:00"
     },
     {
@@ -715,6 +1043,78 @@
       "published": "2026-08-17T00:20:51+00:00"
     },
     {
+      "title": "Positional isomerisation of pyridine via nitrogen transposition",
+      "link": "https://www.nature.com/articles/s41586-026-11006-4",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4Positional isomerisation of pyridine via nitrogen transposition",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+      "link": "https://www.nature.com/articles/s41586-026-11009-1",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1Programmable remodelling of carbon–nitrogen connectivity in amines",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41586-026-10995-6",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-10995-6Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "Defect passivation and optical management of triple-junction solar cells",
+      "link": "https://www.nature.com/articles/s41586-026-11010-8",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11010-8Defect passivation and optical management of triple-junction solar cells",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "Too hot to sleep? How heatwaves at night affect our health",
+      "link": "https://www.nature.com/articles/d41586-026-02532-2",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02532-2As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "How the story of life and our planet unfolded — together",
+      "link": "https://www.nature.com/articles/d41586-026-02530-4",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4Earth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "Universities must stop protecting bullies — or more people will leave science",
+      "link": "https://www.nature.com/articles/d41586-026-02526-0",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
+      "link": "https://www.nature.com/articles/d41586-026-02552-y",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02552-yThe drug, called Orzeyful, takes aim at the root cause of the sleep disorder rather than at its symptoms.",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "Why AI systems are most useful as designers of new scientific tools",
+      "link": "https://www.nature.com/articles/d41586-026-02529-x",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-xHistory shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important…",
+      "published": "2026-08-17T00:00:00+00:00"
+    },
+    {
       "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
       "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -731,12 +1131,12 @@
       "published": "2026-08-16T22:28:23+00:00"
     },
     {
-      "title": "Thailand has a gun problem - 10 million of them",
-      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "published": "2026-08-16T22:09:04+00:00"
+      "title": "WATCH: Global News Hour at 6 BC: Aug. 16",
+      "link": "https://globalnews.ca/news/1149299/watch-news-hour/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "Watch the online edition of Global News Hour at 6 BC.",
+      "published": "2026-08-16T22:00:41+00:00"
     },
     {
       "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
@@ -803,14 +1203,6 @@
       "published": "2026-08-16T19:02:38+00:00"
     },
     {
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
-      "published": "2026-08-16T19:00:23+00:00"
-    },
-    {
       "title": "Canada, U.S. officials to meet again as 50% tariffs to take effect in 3 days",
       "link": "https://globalnews.ca/news/12023361/canada-us-talks-weekend-tariffs-softwood-lumber/",
       "source": "Global News",
@@ -825,6 +1217,14 @@
       "category": "politics",
       "summary": "Conservative leader Pierre Poilievre says any new U.S. trade deal must remove softwood lumber tariffs. Negotiations in Washington are nearing the Aug. 19 deadine for an agreement.",
       "published": "2026-08-16T18:57:30+00:00"
+    },
+    {
+      "title": "Simon Fraser University Pipe Band wins World Pipe Band Championships in Scotland",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/sfu-pipe-band-wins-world-pipe-band-championships-9.7309182?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "For the first time in 17 years, the Simon Fraser University Pipe Band has won the global title at the World Pipe Band Championships held in Glasgow, Scotland.",
+      "published": "2026-08-16T18:24:51+00:00"
     },
     {
       "title": "Simon Fraser University Pipe Band wins World Pipe Band Championships in Scotland",
@@ -867,14 +1267,6 @@
       "published": "2026-08-16T17:20:08+00:00"
     },
     {
-      "title": "Meet Finn, the 15-year-old who saved a shark in New Brunswick",
-      "link": "https://www.cbc.ca/news/canada/new-brunswick/porbeagle-shark-saved-new-brunswick-9.7309209?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "“When we saw it, it looked really hurt, it almost looked dead,\" says Finn Holland. \"But then we saw subtle movements.”",
-      "published": "2026-08-16T16:12:09+00:00"
-    },
-    {
       "title": "Teva Canada recalls some Pregabalin capsules over sertraline contamination concerns",
       "link": "https://www.cbc.ca/news/health/teva-pregabalin-recall-9.7309222?cmp=rss",
       "source": "CBC News",
@@ -907,14 +1299,6 @@
       "published": "2026-08-16T15:03:40+00:00"
     },
     {
-      "title": "Recipe: Burdock & Co. citrus kosho",
-      "link": "https://globalnews.ca/news/12023282/recipe-burdock-co-citrus-kosho/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "A vibrant, spicy, and fermented Japanese condiment perfect for meats, seafood or dressings. Follow the steps to make your own here.",
-      "published": "2026-08-16T15:00:35+00:00"
-    },
-    {
       "title": "At least 2 people killed as firefighters battle massive wildfires in Greece, Belgium",
       "link": "https://www.cbc.ca/news/world/wildfires-greece-belgium-9.7309177?cmp=rss",
       "source": "CBC News",
@@ -939,28 +1323,12 @@
       "published": "2026-08-16T14:37:49+00:00"
     },
     {
-      "title": "Tommy John, pitcher who won 288 games and underwent groundbreaking surgery, dead at 83",
-      "link": "https://www.cbc.ca/sports/baseball/tommy-john-obit-aug-16-9.7309186?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Tommy John, who won 288 games during a 26-year big league career and became the first pitcher to successfully return following groundbreaking elbow surgery that later was named after him, has died. He was 83.",
-      "published": "2026-08-16T14:34:08+00:00"
-    },
-    {
       "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
       "link": "https://www.cbc.ca/sports/baseball/tommy-john-obit-aug-16-9.7309186?cmp=rss",
       "source": "CBC Sports",
       "category": "sports",
       "summary": "Tommy John, who won 288 games during a 26-year big league career and became the first pitcher to successfully return following groundbreaking elbow surgery that later was named after him, has died. He was 83.",
       "published": "2026-08-16T14:34:08+00:00"
-    },
-    {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "published": "2026-08-16T13:34:38+00:00"
     },
     {
       "title": "Researcher studying Acadian wills says they were 'an act of resistance'",
@@ -987,84 +1355,12 @@
       "published": "2026-08-16T12:00:00+00:00"
     },
     {
-      "title": "Sea Bears show 'you can do it from Winnipeg' in first Canadian Elite Basketball League championship win",
-      "link": "https://www.cbc.ca/news/canada/manitoba/sea-bears-cebl-championship-9.7308899?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "An explosion of cheers erupted at Canada Life Centre Saturday evening as Winnipegger Simon Hildebrandt hit the shot of a lifetime.",
-      "published": "2026-08-16T11:39:34+00:00"
-    },
-    {
-      "title": "Manitoba pork producers bring trade pitch to Iowa fair amid Canada-U.S. tariff tensions",
-      "link": "https://www.cbc.ca/news/canada/manitoba/manitoba-pork-canada-us-trade-9.7309045?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Pork is a popular topic at the Iowa State Fair as hungry patrons chow down on barbecue and curious children gaze with wide eyes at the state's biggest pig.",
-      "published": "2026-08-16T11:18:38+00:00"
-    },
-    {
       "title": "Meteorologists are forecasting a 'super' El Niño. What does that mean for B.C.?",
       "link": "https://www.cbc.ca/news/canada/british-columbia/super-el-nino-british-columbia-9.7304763?cmp=rss",
       "source": "CBC News",
       "category": "bc",
       "summary": "The El Niño weather pattern can affect temperature and precipitation across North America, but what does it mean for British Columbia? And will it affect the wildfire situation?",
       "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "published": "2026-08-16T10:53:50+00:00"
-    },
-    {
-      "title": "An Acadian flag emoji? Online petition gathers thousands of signatures",
-      "link": "https://www.cbc.ca/news/canada/new-brunswick/call-for-acadian-flag-emoji-9.7308698?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Alexis Belliveau and Julien Robichaud are submitting an application for the creation of an Acadian flag emoji to the organization that reviews and approves emojis. Their online petition launched Tuesday has garnered…",
-      "published": "2026-08-16T09:55:22+00:00"
-    },
-    {
-      "title": "Antonello da Messina artworks stolen from museum in Italy",
-      "link": "https://www.cbc.ca/news/world/italy-museum-art-theft-9.7308997?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Three panels from ‌Polittico di San Gregorio altarpiece and a separate painting depicting the Virgin with Child were taken from the Museo Regionale di Messina in the 15th-century painter's hometown.",
-      "published": "2026-08-16T09:13:43+00:00"
-    },
-    {
-      "title": "Toxic algae outbreaks in Alberta can now be tracked online through satellite imagery",
-      "link": "https://www.cbc.ca/news/canada/calgary/blue-green-cyanobacteria-alberta-lake-9.7308775?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Blue-green algae is being monitored by researchers across Alberta, and the public can follow along from anywhere through a new website. The Algal Bloom Tracker lets users track toxic algal blooms at six Alberta lakes…",
-      "published": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "title": "Carney, Wakeham, Fréchette will meet in St. John's as provinces inch toward new deal on Churchill Falls energy",
-      "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/carney-wakeham-frechette-will-meet-in-st-john-s-as-provinces-inch-toward-new-deal-on-churchill-falls-energy-9.7308985?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Prime Minister Mark Carney, Newfoundland and Labrador Premier Tony Wakeham and Quebec Premier Christine Fréchette are meeting in St. John's on Monday for \"an announcement regarding energy security and economic…",
-      "published": "2026-08-16T08:46:19+00:00"
-    },
-    {
-      "title": "Wild knock off front-running Rapid 4-3 in NSL matchup",
-      "link": "https://www.cbc.ca/sports/soccer/nsl-roundup-aug-15-9.7308987?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Serita Thurton scored twice in the first half and the last-place Calgary Wild upset the league-leading Ottawa Rapid 4-3 in Northern Super League play on Saturday at McMahon Stadium.",
-      "published": "2026-08-16T08:32:57+00:00"
-    },
-    {
-      "title": "Thousands evacuated as Indonesia quake death toll rises to 53",
-      "link": "https://www.cbc.ca/news/world/indonesia-earthquake-evacuations-9.7308961?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Thousands of people have been evacuated after a magnitude-7.7 earthquake hit eastern Indonesia, killing at least 53 people, blocking roads and causing landslides.",
-      "published": "2026-08-16T08:23:00+00:00"
     },
     {
       "title": "This 10-cent heart drug cuts hospitalizations by 25%",
@@ -1081,14 +1377,6 @@
       "category": "world",
       "summary": "Hurricane Lala weakened to a tropical storm on Sunday after its eyewall skirted Hawaii without making landfall. But it continued to punish the state with hurricane-force gusts and pounding rain, reaching a total of…",
       "published": "2026-08-16T08:15:36+00:00"
-    },
-    {
-      "title": "Canadian men's flag football team earns ticket to LA 2028, where sport will make its Olympics debut",
-      "link": "https://www.cbc.ca/sports/olympics/canada-flag-football-world-championship-august-16-9.7308969?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Canada's women's flag football team beat the United States for the world title, while men's squad booked its place at the 2028 Los Angeles Olympics on Sunday at the International Federation of American Football (IFAF)…",
-      "published": "2026-08-16T07:46:05+00:00"
     },
     {
       "title": "Canadian women beat U.S. to win flag football world championship, men earn berth to L.A. 2028 Olympics",
@@ -1131,27 +1419,11 @@
       "published": "2026-08-16T05:13:25+00:00"
     },
     {
-      "title": "'It was unbearable': Halifax tenants call for indoor temperature cap",
-      "link": "https://www.cbc.ca/news/canada/nova-scotia/halifax-tenant-indoor-temperature-cap-9.7304227?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "A recent heat wave has forced tenants to find ways to survive the high temperatures. Some believe the government should limit allowable indoor temperatures for rental units and offer financial aids for cooling methods.",
-      "published": "2026-08-16T05:00:00+00:00"
-    },
-    {
       "title": "They own 2 excavators in Gaza and can't keep up with demand as families dig for remains",
       "link": "https://www.cbc.ca/news/world/gaza-heavy-machinery-9.7308103?cmp=rss",
       "source": "CBC News",
       "category": "world",
       "summary": "As the search for remains continues in Gaza, officials on the ground say there's a serious lack of heavy machinery like excavators to speed up the process of digging through the rubble. One family that owns two of the…",
-      "published": "2026-08-16T04:00:00+00:00"
-    },
-    {
-      "title": "Ontario city needs action on copper wire theft, says frustrated home builder",
-      "link": "https://www.cbc.ca/news/canada/windsor/copper-wire-theft-windsor-9.7304624?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Allen Wu admits he was naive about what can happen to home building sites in Windsor. But now that his student housing project has been struck by vandals and thieves four times this summer, he and his partners are…",
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
@@ -1203,22 +1475,6 @@
       "published": "2026-08-15T17:50:50+00:00"
     },
     {
-      "title": "More B.C. evacuees returning home Saturday, but told to prepare for changes",
-      "link": "https://globalnews.ca/news/12022871/bc-wildfires-clinton-residents-return-home/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "Residents are advised to take precautions when they return home, including sanitizing their fridges as they clear out spoiled food, and to assess trees and property for damages.",
-      "published": "2026-08-15T16:04:40+00:00"
-    },
-    {
-      "title": "How art is helping Summerland evacuees of B.C.'s Bald Range wildfire",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/art-therapy-bald-range-wildfire-9.7308380?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "At a comfort centre for evacuees of the Bald Range Wildfire, art is an escape. Pens, paper and paint are placed on placed on tables, along with stickers and buttons for Summerland evacuees. It is part of an art therapy…",
-      "published": "2026-08-15T15:02:09+00:00"
-    },
-    {
       "title": "Fort St. John mayor calls for gang task force support after surge in targeted shootings",
       "link": "https://www.cbc.ca/news/canada/british-columbia/fort-st-john-bc-shootings-mayor-gang-task-force-9.7308693?cmp=rss",
       "source": "CBC News",
@@ -1243,14 +1499,6 @@
       "published": "2026-08-15T12:23:32+00:00"
     },
     {
-      "title": "Canadian women clinch berth in LA 2028 with semifinal win at flag football world championships",
-      "link": "https://www.cbc.ca/sports/olympics/canada-flag-football-world-championship-august-15-9.7308642?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Canada’s women have clinched a berth in the 2028 Los Angeles Olympic Games after a 20-6 semifinal win over Mexico at the flag football world championships in Germany on Saturday.",
-      "published": "2026-08-15T12:06:19+00:00"
-    },
-    {
       "title": "Secondhand book sales are booming. Is it because of AI?",
       "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
@@ -1259,36 +1507,12 @@
       "published": "2026-08-15T11:25:32+00:00"
     },
     {
-      "title": "Can Carney fast-track a pipeline while also protecting endangered orcas?",
-      "link": "https://globalnews.ca/news/12021687/can-carney-fast-track-pipeline-protect-endangered-orcas/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "Despite government commitments to protect the southern resident killer whales, environmentalists warn it may be impossible to do so while pursuing 'national interest' projects.",
-      "published": "2026-08-15T11:00:03+00:00"
-    },
-    {
       "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
       "source": "Science Daily",
       "category": "science",
       "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about…",
       "published": "2026-08-15T10:40:16+00:00"
-    },
-    {
-      "title": "Should powerboats be allowed on Wasa Lake in the East Kootenay? New report raises questions",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/wasa-lake-assessment-9.7308430?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "A new assessment says Wasa Lake is at high risk from powerboating, as local groups ask for science-based rules to protect water quality.",
-      "published": "2026-08-15T10:00:00+00:00"
-    },
-    {
-      "title": "Police say 19-year-old arrested in connection with Virginia State University shooting",
-      "link": "https://www.cbc.ca/news/world/virginia-state-university-shooting-9.7308557?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Police in Virginia say they have arrested a 19-year-old in connection with a shooting on Saturday that left five people injured. No one died in the shooting, but one victim sustained critical injuries.",
-      "published": "2026-08-15T09:00:56+00:00"
     },
     {
       "title": "Homes across B.C. have been decimated by wildfires. Here's what to know about your insurance",
@@ -1337,22 +1561,6 @@
       "category": "technology",
       "summary": "Half a million bees are buzzing at a southwestern Ontario farm to offer visitors a way to help them relax and reduce stress. Those providing bee bed therapy, which is offered at a handful of Canadian locations, say it…",
       "published": "2026-08-15T05:00:00+00:00"
-    },
-    {
-      "title": "New trial ordered for B.C. man convicted in killing of ex-girlfriend’s chihuahua",
-      "link": "https://globalnews.ca/news/12022733/new-trial-bc-man-convicted-killing-ex-girlfriends-chihuahua/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "Randeep Ghataura, 45, was convicted in October 2024 of willfully killing, wounding or injuring an animal, and sentenced in February 2025 to four months in jail.",
-      "published": "2026-08-15T04:43:25+00:00"
-    },
-    {
-      "title": "Okanagan communities rally around Bald Range wildfire evacuees",
-      "link": "https://globalnews.ca/news/12022456/okanagan-communities-rally-bald-range-wildfire-evacuees/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "For many evacuees, the immediate challenge was finding somewhere to sleep, something to eat and the basic necessities they had suddenly left behind.",
-      "published": "2026-08-15T04:29:05+00:00"
     },
     {
       "title": "65 years after the Berlin Wall was built, Germany’s east-west scars help feed a rising far-right party",
@@ -1411,132 +1619,12 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
-      "title": "Bear shot, killed after girl attacked in Maple Ridge was the right one, officials say",
-      "link": "https://globalnews.ca/news/12022405/bear-shot-killed-girl-attacked-maple-ridge-right-one/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "Initially, Maple Ridge RCMP said the bear that was shot in a neighbour's yard was not the same bear, but in an update on Friday, the Conservation Service said it was.",
-      "published": "2026-08-14T23:48:59+00:00"
-    },
-    {
-      "title": "Vancouver Island park closed following black bear attack",
-      "link": "https://globalnews.ca/news/12022369/vancouver-island-park-closed-black-bear-attack/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "B.C. Conservation Officers said that shortly before 10 a.m. Friday morning, a woman was hiking with her dogs off-leash in Stoney Hill Regional Park, east of Duncan.",
-      "published": "2026-08-14T23:34:36+00:00"
-    },
-    {
-      "title": "Canadian Ruck wins 4th and 5th medals of Pan Pacs; McIntosh 'mad' at missing 400m freestyle final",
-      "link": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/pan-pacific-championships-day3-aug14-9.7308437?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "The Pan Pacific championships saw Canadian swimmers Taylor Ruck and Summer McIntosh experience two very different outcomes on Friday night in Irvine, Calif. Ruck won her fourth and fifth medals, respectively, of the…",
-      "published": "2026-08-14T23:06:37+00:00"
-    },
-    {
       "title": "Why tech bosses keep sharing their manifestos about AI",
       "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "technology",
       "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
       "published": "2026-08-14T23:06:27+00:00"
-    },
-    {
-      "title": "Blue Jays put Vladimir Guerrero Jr. on injured list with concussion",
-      "link": "https://www.cbc.ca/sports/baseball/vladimir-guerrero-jr-baserunning-collision-yankees-9.7308431?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "The Toronto Blue Jays have placed first baseman Vladimir Guerrero Jr. on the seven-day injured list with a concussion.",
-      "published": "2026-08-14T22:20:00+00:00"
-    },
-    {
-      "title": "Can Canada function without American tech?",
-      "link": "https://betakit.com/vass-bednar-sovereignty-betakit-podcast/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Canadian Shield Institute’s Vass Bednar on the best ways to evaluate Canada’s push for digital self-reliance. The post Can Canada function without American tech? first appeared on BetaKit.",
-      "published": "2026-08-14T22:15:12+00:00"
-    },
-    {
-      "title": "Conservative candidate says he’s heard Poilievre criticism from voters",
-      "link": "https://globalnews.ca/news/12022122/conservatives-poilievre-criticisms-byelection-voters/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "The comments came during an all-candidates panel for the Aug. 31 byelection in North Vancouver—Capilano, where the Conservatives are hoping to flip a seat from the Liberals.",
-      "published": "2026-08-14T21:42:08+00:00"
-    },
-    {
-      "title": "STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
-      "link": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
-      "source": "STAT News",
-      "category": "medical",
-      "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
-      "published": "2026-08-14T21:00:08+00:00"
-    },
-    {
-      "title": "'We have a lot to show': Vancouver Rise make additions ahead of NSL playoff push",
-      "link": "https://www.cbc.ca/sports/soccer/vancouver-rise-defensive-additions-playoff-push-nsl-9.7308376?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Reinforcements have arrived for the Vancouver Rise. The Northern Super League club signed a pair of defenders this week, bolstering their ranks ahead of a crucial matchup with the visiting Halifax Tides on Saturday.",
-      "published": "2026-08-14T20:29:51+00:00"
-    },
-    {
-      "title": "Big gap remains between Canada and U.S. in ongoing trade talks: sources",
-      "link": "https://globalnews.ca/news/12022041/canada-us-trade-talks-tariffs-gap-source/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "The distance on a potential deal comes after a week of negotiations in Washington between Canadian and U.S. officials, labelled by multiple sources as constructive.",
-      "published": "2026-08-14T20:13:11+00:00"
-    },
-    {
-      "title": "Selena Gomez accused of fraud by investors over mental health startup",
-      "link": "https://globalnews.ca/news/12021768/selena-gomez-accused-of-fraud-mental-health-startup/",
-      "source": "Global News",
-      "category": "entertainment",
-      "summary": "The pop star and her mother are accused of allegedly deceiving investors of their mental health startup and falsely representing the company's 'infrastructure and leadership.'",
-      "published": "2026-08-14T19:22:35+00:00"
-    },
-    {
-      "title": "Opinion: AAP president: How pediatricians are navigating federal leaders’ fearmongering on vaccines",
-      "link": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss",
-      "source": "STAT News",
-      "category": "medical",
-      "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person…",
-      "published": "2026-08-14T18:34:30+00:00"
-    },
-    {
-      "title": "Inside Expedia’s Silicon Valley Bid for AI Talent",
-      "link": "https://skift.com/2026/08/14/inside-expedias-silicon-valley-bid-for-ai-talent/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Expedia is taking its AI recruitment fight to the heart of Silicon Valley, with a new San Jose hub for AI and engineering just a 10-minute drive from the Googleplex. But can it court tech and AI talent away from Big…",
-      "published": "2026-08-14T18:27:59+00:00"
-    },
-    {
-      "title": "Ontario proposes data centre playbook as demand for AI infrastructure surges",
-      "link": "https://betakit.com/ontario-proposes-data-centre-playbook-as-demand-for-ai-infrastructure-surges/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Proposal includes rules requiring projects to bear full cost for their electricity use. The post Ontario proposes data centre playbook as demand for AI infrastructure surges first appeared on BetaKit.",
-      "published": "2026-08-14T16:58:45+00:00"
-    },
-    {
-      "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
-      "link": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
-      "source": "STAT News",
-      "category": "medical",
-      "summary": "In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.",
-      "published": "2026-08-14T16:30:39+00:00"
-    },
-    {
-      "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "link": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss",
-      "source": "STAT News",
-      "category": "medical",
-      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-      "published": "2026-08-14T16:20:43+00:00"
     }
   ]
 }
