@@ -122,6 +122,7 @@ function setCategory(cat) {
     chip.classList.toggle('is-active', chip.dataset.category === cat);
   });
   render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 // Shows a chevron + fade at the right edge of the category chip row
