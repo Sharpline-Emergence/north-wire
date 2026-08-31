@@ -1,20 +1,11 @@
 name: Update North Wire feed
 on:
-  schedule:
-    # 3x/day, UTC. BC adopted permanent Pacific Time (UTC-7) as of Nov 1, 2026 —
-    # no more biannual clock change, so these offsets are now fixed year-round.
-    - cron: '7 10 * * *'   # 3:07am Pacific
-    - cron: '13 16 * * *'  # 9:13am Pacific
-    - cron: '22 22 * * *'  # 3:22pm Pacific
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab, any time
-
+  workflow_dispatch: {}   # triggered externally by cron-job.org, or manually from the Actions tab
 concurrency:
   group: north-wire-feed-update
   cancel-in-progress: false   # let an in-progress run finish rather than killing it mid-commit
-
 permissions:
   contents: write
-
 jobs:
   update-articles:
     runs-on: ubuntu-latest
