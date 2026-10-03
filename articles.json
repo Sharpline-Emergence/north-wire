@@ -1,7 +1,223 @@
 {
-  "generated_at": "2026-10-03T10:07:25.591293+00:00",
-  "article_count": 238,
+  "generated_at": "2026-10-03T16:13:28.596169+00:00",
+  "article_count": 251,
   "articles": [
+    {
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "published": "2026-10-03T15:56:14+00:00"
+    },
+    {
+      "title": "IAG on Proving AI Value Before Scaling It",
+      "link": "https://skift.com/2026/10/03/iag-on-proving-ai-value-before-scaling-it/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "At IAG, AI proves its value in one airline before the Group expands it. Governance goes in from day one. Ben Dias says that’s what gives the Group confidence to scale across markets and brands.",
+      "published": "2026-10-03T15:19:51+00:00"
+    },
+    {
+      "title": "The Champions Collective Celebrates Year One",
+      "link": "https://financialpost.com/globe-newswire/the-champions-collective-celebrates-year-one",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "The brand reflects on a year defined by thousands of handcrafted pieces, groundbreaking innovation, and partnerships with champions across professional sports. Minneapolis, MN, Oct. 03, 2026 (GLOBE NEWSWIRE) — The…",
+      "published": "2026-10-03T15:02:22+00:00"
+    },
+    {
+      "title": "Ontario-based air ambulance carrying 6 missing off U.S. coast",
+      "link": "https://globalnews.ca/news/12086557/ontario-air-ambulance-missing-us/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "The Federal Aviation Administration told Global News in a statement it issued a Search and Rescue Alert for a Gulfstream G-100 around 1:20 a.m. Saturday.",
+      "published": "2026-10-03T14:59:06+00:00"
+    },
+    {
+      "title": "Agenus Reports 48% Estimated Three-Year Survival With BOT+BAL in Recurrent Ovarian Cancer at IGCS 2026",
+      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/agenus-reports-48-estimated-three-year-survival-with-botbal-in-recurrent-ovarian-cancer-at-igcs-2026",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "Survival estimate remained at 48% between years two and three, extending evidence of durable benefit Results observed in heavily pretreated, difficult-to-treat population that received a median of four prior lines of…",
+      "published": "2026-10-03T14:51:20+00:00"
+    },
+    {
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "published": "2026-10-03T14:27:33+00:00"
+    },
+    {
+      "title": "Northern Super League: Calgary at Halifax",
+      "link": "https://www.cbc.ca/player/play/9.7345079?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Watch Calgary Wild FC and Halifax Tides FC go head-to-head in Northern Super League action from Wanderers Grounds.",
+      "published": "2026-10-03T14:00:00+00:00"
+    },
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "published": "2026-10-03T13:52:13+00:00"
+    },
+    {
+      "title": "Protesters across Spain demand action over housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "published": "2026-10-03T13:34:11+00:00"
+    },
+    {
+      "title": "The Curator: Hosting for the holidays? These high-tech cleaning gadgets do the dirty work for you",
+      "link": "https://globalnews.ca/the-curator/11450210/high-tech-cleaning-gadgets/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Home expert Melissa Maker shares her top picks for smart home helpers — from Dyson and LG to Dreame and beyond.",
+      "published": "2026-10-03T13:30:21+00:00"
+    },
+    {
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "published": "2026-10-03T12:59:10+00:00"
+    },
+    {
+      "title": "Woodlands project records more trees than expected",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6len3gj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "The Lost Woods of the Low Weald and Downs project aims to restore some of Sussex's ancient woodland.",
+      "published": "2026-10-03T12:47:08+00:00"
+    },
+    {
+      "title": "Axe-wielding FlyDubai co-pilot had been flagged over extremism concerns",
+      "link": "https://globalnews.ca/news/12086540/axe-wielding-flydubai-co-pilot-extremism-concerns/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "The co-pilot accused of attacking the captain on an Israel-bound flight with an axe had been barred from flying on his country's airline because of concerns about extremist views.",
+      "published": "2026-10-03T12:28:43+00:00"
+    },
+    {
+      "title": "Dual UK-Iranian national released on bail over suspected plot against US-run military base",
+      "link": "https://globalnews.ca/news/12086531/dual-uk-iranian-national-bail-military-base/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "A dual U.K.-Iranian national arrested on suspicion of plotting a terror attack following a security incident at a U.S.-run military air base in England has been released on bail.",
+      "published": "2026-10-03T12:24:29+00:00"
+    },
+    {
+      "title": "Doctors warn about the risks energy drinks pose to kids",
+      "link": "https://globalnews.ca/news/12086529/doctors-risks-energy-drinks/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Sean and Heidi Cripe will never forget the call from their son's high school saying Davis was being taken to the emergency room after chugging an energy drink.",
+      "published": "2026-10-03T12:22:56+00:00"
+    },
+    {
+      "title": "AI ‘journalists’ start to appear in Canada",
+      "link": "https://globalnews.ca/news/12086525/ai-journalists-canada/",
+      "source": "Global News",
+      "category": "entertainment",
+      "summary": "Quebec correspondent \"Geneviève Tremblay\" — who has been reporting on multiple news stories a day lately — seemed to be experiencing a glitch.",
+      "published": "2026-10-03T12:20:51+00:00"
+    },
+    {
+      "title": "AI ‘journalists’ start to appear in Canada",
+      "link": "https://globalnews.ca/news/12086525/ai-journalists-canada/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Quebec correspondent \"Geneviève Tremblay\" — who has been reporting on multiple news stories a day lately — seemed to be experiencing a glitch.",
+      "published": "2026-10-03T12:20:51+00:00"
+    },
+    {
+      "title": "AI ‘journalists’ start to appear in Canada",
+      "link": "https://globalnews.ca/news/12086525/ai-journalists-canada/",
+      "source": "Global News",
+      "category": "politics",
+      "summary": "Quebec correspondent \"Geneviève Tremblay\" — who has been reporting on multiple news stories a day lately — seemed to be experiencing a glitch.",
+      "published": "2026-10-03T12:20:51+00:00"
+    },
+    {
+      "title": "Eyes on AI as factor in Alberta referendum",
+      "link": "https://globalnews.ca/news/12086523/ai-alberta-referendum/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "If you ask a popular artificial intelligence chatbot and a search engine whether taxes in an independent Alberta would be higher, it might say yes.",
+      "published": "2026-10-03T12:19:22+00:00"
+    },
+    {
+      "title": "Eyes on AI as factor in Alberta referendum",
+      "link": "https://globalnews.ca/news/12086523/ai-alberta-referendum/",
+      "source": "Global News",
+      "category": "politics",
+      "summary": "If you ask a popular artificial intelligence chatbot and a search engine whether taxes in an independent Alberta would be higher, it might say yes.",
+      "published": "2026-10-03T12:19:22+00:00"
+    },
+    {
+      "title": "Last weekend for Quebec election campaign",
+      "link": "https://globalnews.ca/news/12086527/last-weekend-quebec-election-campaign/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "The leaders of Quebec's five main parties will make their last pitches to undecided voters over the weekend, with the election set for Monday.",
+      "published": "2026-10-03T12:17:42+00:00"
+    },
+    {
+      "title": "Last weekend for Quebec election campaign",
+      "link": "https://globalnews.ca/news/12086527/last-weekend-quebec-election-campaign/",
+      "source": "Global News",
+      "category": "politics",
+      "summary": "The leaders of Quebec's five main parties will make their last pitches to undecided voters over the weekend, with the election set for Monday.",
+      "published": "2026-10-03T12:17:42+00:00"
+    },
+    {
+      "title": "E-Brokerage Market Projected to Reach $34.6 Billion by 2034 as Record Retail Trading Volumes Lift Platforms",
+      "link": "https://financialpost.com/globe-newswire/e-brokerage-market-projected-to-reach-34-6-billion-by-2034-as-record-retail-trading-volumes-lift-platforms",
+      "source": "Financial Post",
+      "category": "markets",
+      "summary": "News Provided by Stock Preachers VANCOUVER, British Columbia, Oct. 03, 2026 (GLOBE NEWSWIRE) — Stock Preachers News Commentary – Global Market Insights valued the e-brokerage market at $14.1 billion in 2024 and projects…",
+      "published": "2026-10-03T12:04:06+00:00"
+    },
+    {
+      "title": "Police seeking witnesses to CRAB Park homicide",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/police-crab-park-homicide-9.7368197?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "The Vancouver Police Department (VPD) released surveillance video showing two potential witnesses it believes may have information on a homicide that happened last week.",
+      "published": "2026-10-03T11:48:52+00:00"
+    },
+    {
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "published": "2026-10-03T10:58:51+00:00"
+    },
+    {
+      "title": "Hockey Night In Canada enters its PWHL era",
+      "link": "https://www.cbc.ca/player/play/9.7368175?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "CBC’s Hockey Night in Canada announced it will air eight prime time PWHL games on Saturday nights.",
+      "published": "2026-10-03T10:21:43+00:00"
+    },
+    {
+      "title": "U.S. Coast Guard searching for missing Ontario-based air ambulance jet with 6 on board",
+      "link": "https://www.cbc.ca/news/canada/hamilton/hamilton-air-ambulance-missing-us-coast-guard-search-9.7368182?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "The U.S. Coast Guard is searching for an Ontario-based air ambulance jet that has gone missing with six people on board while flying from Bermuda to Boston Saturday.",
+      "published": "2026-10-03T10:21:35+00:00"
+    },
     {
       "title": "William Watson: The economy would do better driverless",
       "link": "https://financialpost.com/opinion/canadian-economy-would-do-better-driverless",
@@ -19,20 +235,52 @@
       "published": "2026-10-03T10:00:04+00:00"
     },
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "published": "2026-10-03T10:00:04+00:00"
+      "title": "OneBC's Dallas Brodie aims to balance budget, repeal SOGI and unite the right in Oct. 24 election",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/dallas-brodie-onebc-q-a-2026-election-9.7366117?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "OneBC interim Leader Dallas Brodie is raising concerns with David Eby's snap election — but she's making the pitch for her party on Oct. 24.",
+      "published": "2026-10-03T10:00:00+00:00"
     },
     {
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
-      "published": "2026-10-03T09:53:16+00:00"
+      "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear…",
+      "published": "2026-10-03T09:46:11+00:00"
+    },
+    {
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased…",
+      "published": "2026-10-03T09:34:11+00:00"
+    },
+    {
+      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron…",
+      "published": "2026-10-03T09:12:14+00:00"
+    },
+    {
+      "title": "B.C. lawyer found to have misappropriated $117K from dementia-stricken client",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/vernon-lawyer-leonard-hil-marriott-dementia-client-9.7367239?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Leonard Hil Marriott also prepared documents to give himself 50 per cent ownership of the woman's condo and 75 per cent of her estate.",
+      "published": "2026-10-03T09:00:00+00:00"
+    },
+    {
+      "title": "Disgraced Vernon lawyer found to have misappropriated $117K from dementia-stricken client",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/vernon-lawyer-leonard-hil-marriott-dementia-client-9.7367239?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "Leonard Hil Marriott also prepared documents to give himself 50 per cent ownership of the woman's condo and 75 per cent of her estate.",
+      "published": "2026-10-03T09:00:00+00:00"
     },
     {
       "title": "Kim wins Asian Games gold to secure military exemption",
@@ -43,6 +291,86 @@
       "published": "2026-10-03T08:51:14+00:00"
     },
     {
+      "title": "Powerful simulations reveal how the first stars changed the universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest…",
+      "published": "2026-10-03T08:50:57+00:00"
+    },
+    {
+      "title": "Leucine does more than build muscle. It powers up your cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed. The discovery reveals a new connection between nutrition and metabolism that could…",
+      "published": "2026-10-03T08:33:15+00:00"
+    },
+    {
+      "title": "Israeli strikes kill 5, including 4 women, in Gaza, health officials say",
+      "link": "https://www.cbc.ca/news/world/israel-gaza-city-strikes-women-9.7368133?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "An Israeli airstrike killed at least five Palestinians, including four women, in an apartment building in Gaza City early on Saturday, health and civil defence service officials said.",
+      "published": "2026-10-03T08:23:48+00:00"
+    },
+    {
+      "title": "Car drives into large crowd of Australian rugby fans, injuring 10 north of Sydney",
+      "link": "https://www.cbc.ca/news/world/australia-car-crashes-into-crowd-9.7368117?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Two of those hospitalized, a five-year-old girl and a 67-year-old man, ​were in critical condition, authorities said.",
+      "published": "2026-10-03T08:14:01+00:00"
+    },
+    {
+      "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood…",
+      "published": "2026-10-03T08:13:21+00:00"
+    },
+    {
+      "title": "Scientists just made a superconductor stronger using “empty space”",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition temperature of an ultrathin material by as much as 5.4%. The discovery opens the…",
+      "published": "2026-10-03T08:03:23+00:00"
+    },
+    {
+      "title": "Ktunaxa father who lost son to overdose paddles across Canada-U.S. border for recovery",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/father-paddles-across-border-for-recovery-9.7365564?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "A Ktunaxa father near Creston is using a cross-border canoe journey to honour his son, who died of an overdose, and raise awareness about recovery from addiction.",
+      "published": "2026-10-03T08:00:00+00:00"
+    },
+    {
+      "title": "Vitamin C linked to fewer deaths in blood disorder trial",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225454.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Vitamin C may do more than support the immune system. In a phase 2 trial of people with precancerous or low risk blood cancers, daily vitamin C did not slow abnormal cell growth, but it was linked to favorable changes…",
+      "published": "2026-10-03T07:17:37+00:00"
+    },
+    {
+      "title": "City of Saskatoon cancels in-person count of unsheltered people over safety concerns",
+      "link": "https://www.cbc.ca/news/canada/saskatchewan/city-of-saskatoon-cancels-in-person-homelessness-count-due-to-safety-concerns-9.7367923?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "The point-in-time count was scheduled for Tuesday, and about 250 volunteers had been trained.",
+      "published": "2026-10-03T07:00:00+00:00"
+    },
+    {
+      "title": "Denis Shapovalov to meet Carlos Alcaraz in quarterfinals at Japan Open",
+      "link": "https://www.cbc.ca/sports/tennis/denis-shapovalov-open-oct-2-tennis-japan-open-9.7368129?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Canada's Denis Shapovalov booked his place in the quarterfinals of the Japan Open tennis tournament. Shapovalov took a three-set win over Chile's Alejandro Tabilo on Saturday, setting up a date with Spain's Carlos…",
+      "published": "2026-10-03T06:25:39+00:00"
+    },
+    {
       "title": "Island hosts inter-island environment summit",
       "link": "https://www.bbc.co.uk/news/articles/c8e361yqp0x2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -51,12 +379,28 @@
       "published": "2026-10-03T06:24:14+00:00"
     },
     {
+      "title": "Gabby Williams, Valkyries rally from 16 down to beat Wings, reach WNBA semifinals",
+      "link": "https://www.cbc.ca/sports/basketball/wnba-playoffs-october-2-9.7368128?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Gabby Williams scored 19 points and hit a go-ahead 17-footer with 1:17 remaining, and the Golden State Valkyries won a late replay review to finish a rally from 16 points down and beat the Dallas Wings 77-73 on Friday…",
+      "published": "2026-10-03T06:06:30+00:00"
+    },
+    {
       "title": "India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market?",
       "link": "https://skift.com/2026/10/03/india-now-has-a-digital-tourism-stack-can-it-fix-a-fragmented-market/",
       "source": "Skift",
       "category": "travel",
       "summary": "India is betting that open digital infrastructure can make its vast, fragmented tourism supply easier to discover, book and eventually surface through AI.",
       "published": "2026-10-03T05:50:45+00:00"
+    },
+    {
+      "title": "3 Cape Bretoners were hit and killed by a train in Maine in 1970. Some want the case reopened",
+      "link": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-youth-train-accident-smyrna-mills-maine-kenny-novak-terry-burt-david-burrows-9.7357982?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Kenny Novak, 15, David Burrows, 17, and Terry Burt, 20, were in sleeping bags on a rail track west of the border town of Houlton, Maine, when they were struck early on the morning of July 10, 1970, by a train. The…",
+      "published": "2026-10-03T05:00:00+00:00"
     },
     {
       "title": "Stampeders hold off Riders to continue hot run",
@@ -86,6 +430,22 @@
       "title": "Internal documents detail Ottawa's economic worries over Alberta referendum",
       "link": "https://www.cbc.ca/news/politics/alberta-separation-economic-impact-documents-9.7367260?cmp=rss",
       "source": "CBC News",
+      "category": "canada",
+      "summary": "Internal federal documents offer insights into how Ottawa is assessing the economic fallout from the possibility of Alberta separating from Canada and becoming an independent state.",
+      "published": "2026-10-03T04:00:00+00:00"
+    },
+    {
+      "title": "Canada bet billions on an EV boom. Was it too much, too soon?",
+      "link": "https://www.cbc.ca/news/canada/canada-ev-battery-investments-9.7362430?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "The federal and provincial governments bet billions on the rapid rise of the electric vehicle industry. But major EV and battery projects in Ontario, Quebec and British Columbia have since been delayed, cancelled,…",
+      "published": "2026-10-03T04:00:00+00:00"
+    },
+    {
+      "title": "Internal documents detail Ottawa's economic worries over Alberta referendum",
+      "link": "https://www.cbc.ca/news/politics/alberta-separation-economic-impact-documents-9.7367260?cmp=rss",
+      "source": "CBC News",
       "category": "politics",
       "summary": "Internal federal documents offer insights into how Ottawa is assessing the economic fallout from the possibility of Alberta separating from Canada and becoming an independent state.",
       "published": "2026-10-03T04:00:00+00:00"
@@ -107,20 +467,12 @@
       "published": "2026-10-03T04:00:00+00:00"
     },
     {
-      "title": "The Curator: Air fryers for every kitchen, from compact to family-sized",
-      "link": "https://globalnews.ca/the-curator/12085079/air-fryers-for-every-kitchen-from-compact-to-family-sized/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "From compact glass models to family-sized air fry ovens, we rounded up standout picks from brands including SharkNinja, Philips and Cuisinart.",
-      "published": "2026-10-03T03:34:53+00:00"
-    },
-    {
-      "title": "Winnipeg Jets begin season with 4-3 OT loss to Boston",
-      "link": "https://globalnews.ca/news/12086218/winnipeg-jets-begin-season-with-4-3-ot-loss-to-boston/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Mario Ferraro scored in his Jets debut but Boston rallied late before JJ Paterka won it in overtime.",
-      "published": "2026-10-03T03:00:10+00:00"
+      "title": "Canada bet billions on an EV boom. Was it too much, too soon?",
+      "link": "https://www.cbc.ca/news/canada/canada-ev-battery-investments-9.7362430?cmp=rss",
+      "source": "CBC News",
+      "category": "markets",
+      "summary": "The federal and provincial governments bet billions on the rapid rise of the electric vehicle industry. But major EV and battery projects in Ontario, Quebec and British Columbia have since been delayed, cancelled,…",
+      "published": "2026-10-03T04:00:00+00:00"
     },
     {
       "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
@@ -129,30 +481,6 @@
       "category": "world",
       "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
       "published": "2026-10-03T02:23:07+00:00"
-    },
-    {
-      "title": "Ticats snap losing skid, beat Redblacks 34-16",
-      "link": "https://globalnews.ca/news/12086344/ticats-snap-losing-skid-beat-redblacks-34-16/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Kenny Lawler had a few special moments during the Hamilton Tiger-Cats 34-16 victory over the Ottawa Redblacks Friday night. But it was a post-game moment that will likely stay with him.",
-      "published": "2026-10-03T02:13:36+00:00"
-    },
-    {
-      "title": "Dedicated river valley space for homeless encampments debated in Edmonton",
-      "link": "https://globalnews.ca/news/12086351/edmonton-river-valley-homeless-encampments/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "The Edmonton River Valley Conservation Coalition wants to see a few dedicated encampment sites with clean drinking water, washrooms, trash cans and a safe needle disposal site.",
-      "published": "2026-10-03T01:39:33+00:00"
-    },
-    {
-      "title": "BC NDP and Conservative leaders campaign in the Okanagan",
-      "link": "https://globalnews.ca/news/12086166/bc-ndp-conservative-leaders-campaign-okanagan/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "BC NDP Leader David Eby and Conservative Leader Lorne Doerkson were in the Okanagan Friday, making campaign promises on grocery prices, wildfire protection and public safety.",
-      "published": "2026-10-03T01:38:40+00:00"
     },
     {
       "title": "Vancouver police issue more than 200 tickets, 1,000 warnings in e-scooter enforcement blitz",
@@ -219,14 +547,6 @@
       "published": "2026-10-02T23:31:46+00:00"
     },
     {
-      "title": "Vancouver e-scooter riders overwhelmingly don’t wear helmets, police find",
-      "link": "https://globalnews.ca/news/12086152/vancouver-e-scooter-riders-helmets-police/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Vancouver police were busy in September, cracking down on e-scooter riders who were not following the rules. Police said that since Sept. 4, there were 1,226 tickets handed out.",
-      "published": "2026-10-02T23:31:46+00:00"
-    },
-    {
       "title": "Women given shorts at Oktoberfest to prevent upskirting",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -259,22 +579,6 @@
       "published": "2026-10-02T22:41:35+00:00"
     },
     {
-      "title": "Electra Reports Quarterly Update on Capital Markets Activity",
-      "link": "https://financialpost.com/globe-newswire/electra-reports-quarterly-update-on-capital-markets-activity",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "TORONTO, Oct. 02, 2026 (GLOBE NEWSWIRE) — Electra Battery Materials Corporation (NASDAQ: ELBM; TSX-V: ELBM) (“Electra” or the “Company”) reported on its capital markets activity for the previous quarter, including…",
-      "published": "2026-10-02T22:03:17+00:00"
-    },
-    {
-      "title": "Red tape, lack of coordination delay Ottawa’s affordable housing push",
-      "link": "https://financialpost.com/real-estate/red-tape-lack-coordination-delay-ottawa-affordable-housing",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "'We have been failing young Canadians ... and we have to change it,' said Benjamin Tal",
-      "published": "2026-10-02T22:02:04+00:00"
-    },
-    {
       "title": "Hopper’s Co-Founder and B2B Boss Left The Company",
       "link": "https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/",
       "source": "Skift",
@@ -299,28 +603,12 @@
       "published": "2026-10-02T21:59:18+00:00"
     },
     {
-      "title": "BC NDP promises to cap grocery profits while Conservatives unveil wildfire plan",
-      "link": "https://globalnews.ca/news/12086006/bc-ndp-promises-grocery-cap-profits-bc-conservatives-wildfire-plan/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "BC Conservative leader Lorne Doerkson visited a family whose Summerland home was destroyed by the Bald Range wildfire in the summer.",
-      "published": "2026-10-02T21:59:18+00:00"
-    },
-    {
-      "title": "Veteran linebacker Pickett shines again with Argos",
-      "link": "https://globalnews.ca/news/12086095/veteran-linebacker-pickett-shines-again-with-argos/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "There's something about playing with the Toronto Argonauts that agrees with Adarius Pickett.",
-      "published": "2026-10-02T21:48:51+00:00"
-    },
-    {
-      "title": "News of the day: Redrawing the border, G7 oil and diesel release, disinheritance law, hoarding condos, mortgage rates pause and more",
-      "link": "https://financialpost.com/uncategorized/news-of-the-day-redrawing-the-border-g7-oil-and-diesel-release-disinheritance-law-hoarding-condos-mortgage-rates-pause-and-more",
-      "source": "Financial Post",
-      "category": "markets",
-      "summary": "Catch up on the stories we’re following today",
-      "published": "2026-10-02T21:33:42+00:00"
+      "title": "Ottawa Rapid tied for 2nd place after scoreless draw against Montreal Roses",
+      "link": "https://www.cbc.ca/player/play/9.7368053?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Ottawa Rapid FC moves into a tie for second place with AFC Toronto, trailing NSL-leading Montreal Roses by four points after a 0-0 draw.",
+      "published": "2026-10-02T21:45:00+00:00"
     },
     {
       "title": "Ex-Vanguard exec aims to launch Canada’s first investment dealer solely focused on prediction markets",
@@ -527,7 +815,7 @@
       "link": "https://www.cbc.ca/sports/the-buzzer-newsletter-cbc-saturday-night-sports-show-9.7367692?cmp=rss",
       "source": "CBC Sports",
       "category": "sports",
-      "summary": "CBC Sports' daily newsletter fills you in on a new direction for the network and looks at some Canadian athletes to watch this weekend.",
+      "summary": "Introducing a new weekly flagship sports show on Saturday nights. CBC Sports Primetime, hosted by Andi Petrillo, will air on both the CBC TV network and CBC Gem and spotlight Canada's Olympic athletes and other…",
       "published": "2026-10-02T17:43:04+00:00"
     },
     {
@@ -545,14 +833,6 @@
       "category": "technology",
       "summary": "Ex-Intel Sports director Shaun Carrigan helped develop pivotal tech for the NFL, MLB. The post Peripheral hires former Meta Reality Labs exec to lead volumetric video push first appeared on BetaKit.",
       "published": "2026-10-02T17:30:00+00:00"
-    },
-    {
-      "title": "Alleged kidnapping victim tells police they were taken from Lower Mainland to Kelowna",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/kelowna-kidnapping-lower-mainland-9.7367636?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Police say they believe the victim was targeted and being held \"to exert pressure on an associate\" and say the victim is not believed to be involved in criminal activity.",
-      "published": "2026-10-02T17:24:49+00:00"
     },
     {
       "title": "A transgender musician was denied washroom access. P.E.I.'s music scene is taking a stand",
@@ -683,30 +963,6 @@
       "published": "2026-10-02T15:58:47+00:00"
     },
     {
-      "title": "Michael J. Fox promoted within Order of Canada",
-      "link": "https://www.cbc.ca/player/play/9.7367410?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Famed actor Michael J. Fox has been promoted to companion of the Order of Canada, the highest level within the order. The Order of Canada is meant to recognize people who make 'extraordinary contributions to the…",
-      "published": "2026-10-02T15:35:42+00:00"
-    },
-    {
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "published": "2026-10-02T15:30:12+00:00"
-    },
-    {
-      "title": "Labrador primary school principal resigns, citing understaffing and increased demands",
-      "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/labrador-prinipal-quits-increased-workload-9.7366686?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Parents held a rally after the school closed for the day when 20 teachers called in sick, after principal Ashley Barrett said staffing shortages were so dire that she did not feel she could make decisions that \"protect…",
-      "published": "2026-10-02T15:16:52+00:00"
-    },
-    {
       "title": "Stellantis says tariffs, consumer demand driving weeks-long layoffs at Windsor plant",
       "link": "https://www.cbc.ca/news/canada/windsor/stellantis-tariffs-canada-layoffs-windsor-assembly-plant-9.7367151?cmp=rss",
       "source": "CBC News",
@@ -761,14 +1017,6 @@
       "category": "canada",
       "summary": "Courts countrywide are grappling with the complex question of whether federal and provincial governments can be sued for the stark overrepresentation of Indigenous children in the off-reserve child welfare system,…",
       "published": "2026-10-02T14:17:01+00:00"
-    },
-    {
-      "title": "Backshall makes nature 'cool' to inspire children",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zk09rg36o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "Steve Backshall says growing up with rescue animals helped inspire his passion for nature.",
-      "published": "2026-10-02T14:16:32+00:00"
     },
     {
       "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
@@ -827,14 +1075,6 @@
       "published": "2026-10-02T13:08:07+00:00"
     },
     {
-      "title": "CBS Sports describes Tony Romo's permanent exit as mutual parting",
-      "link": "https://www.cbc.ca/sports/football/nfl/tony-romo-cbs-sports-mutual-parting-arrest-dwi-9.7367127?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "CBS Sports and Tony Romo have officially parted ways, one month after the former Dallas Cowboys quarterback pleaded no contest to charges of operating a vehicle while intoxicated.",
-      "published": "2026-10-02T13:08:07+00:00"
-    },
-    {
       "title": "5 foreign nationals arrested in connection to B.C. extortions, shootings and arsons",
       "link": "https://www.cbc.ca/news/canada/british-columbia/livestory/langley-rcmp-project-e-pursuance-extortion-allegations-9.7367120?cmp=rss",
       "source": "CBC News",
@@ -883,14 +1123,6 @@
       "published": "2026-10-02T11:53:43+00:00"
     },
     {
-      "title": "New totem pole raised in Hagwilget, B.C., for 1st time in 85 years",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/hagwilget-totem-pole-raising-9.7366530?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "A new unity pole has been raised in Hagwilget, B.C., for the first time in 85 years. Four carvers worked on it for two years, while dozens of people helped hoist it into place on the National Day for Truth and…",
-      "published": "2026-10-02T11:50:08+00:00"
-    },
-    {
       "title": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
       "link": "https://www.cbc.ca/news/business/g7-trump-diesel-reserve-release-9.7366871?cmp=rss",
       "source": "CBC News",
@@ -905,14 +1137,6 @@
       "category": "markets",
       "summary": "The release would begin immediately and take four months, starting with a \"substantial\" diesel release within the first 20 days. Diesel prices have soared globally due to the oil supply crunch brought on by fighting in…",
       "published": "2026-10-02T11:21:30+00:00"
-    },
-    {
-      "title": "Woman in fake nurse case once again avoids sentencing after 6th postponement",
-      "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/lisa-driscoll-strickland-fake-nurse-9.7366837?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Lisa Driscoll didn't show up to court on Thursday for what was supposed to be her long-awaited sentencing hearing. Lucky for her, the judge wasn't there either.",
-      "published": "2026-10-02T11:04:57+00:00"
     },
     {
       "title": "Woman in fake nurse case narrowly escapes arrest warrant after 6th postponement",
@@ -955,20 +1179,12 @@
       "published": "2026-10-02T10:15:35+00:00"
     },
     {
-      "title": "Okanagan grape growers say crop insurance model failing amid wildfire smoke taint",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/okanagan-wine-smoke-taint-wildfire-insurance-9.7366152?cmp=rss",
+      "title": "U.A.E. says co-pilot on FlyDubai plane that nearly crashed attacked captain with cockpit's crash axe",
+      "link": "https://www.cbc.ca/news/world/flydubai-captain-attacked-cockpit-crash-axe-9.7368120?cmp=rss",
       "source": "CBC News",
-      "category": "bc",
-      "summary": "Consecutive crop losses driven by climate change are exposing gaps in B.C.’s production insurance program, growers say.",
-      "published": "2026-10-02T10:00:00+00:00"
-    },
-    {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
       "category": "world",
-      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "published": "2026-10-02T09:08:06+00:00"
+      "summary": "",
+      "published": "2026-10-02T09:21:24+00:00"
     },
     {
       "title": "CBC/Radio-Canada reveals PWHL broadcast schedule, league announces playoff expansion",
@@ -1019,6 +1235,14 @@
       "published": "2026-10-02T08:30:00+00:00"
     },
     {
+      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with…",
+      "published": "2026-10-02T08:21:30+00:00"
+    },
+    {
       "title": "Cornell 7: Governor vows to change N.Y. rape law that makes reporting hard when intoxication present",
       "link": "https://www.cbc.ca/news/world/cornell-investigation-special-prosecutor-9.7366592?cmp=rss",
       "source": "CBC News",
@@ -1029,34 +1253,18 @@
     {
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "published": "2026-10-02T08:20:32+00:00"
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "category": "technology",
       "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
       "published": "2026-10-02T08:20:32+00:00"
     },
     {
-      "title": "Niagara Falls returns Buffalo, N.Y., love with invite to red-white-blue falls display on Ontario side",
-      "link": "https://www.cbc.ca/news/canada/hamilton/niagara-falls-buffalo-bills-colours-open-letter-9.7365861?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Niagara Falls Tourism has placed a full-page open letter in a Buffalo newspaper, inviting Americans to cross the bridge and celebrate with Canadians on Saturday, including witnessing Niagara Falls light up in the Bills'…",
-      "published": "2026-10-02T08:00:00+00:00"
-    },
-    {
-      "title": "Tofino-area landfill bans neoprene wetsuits",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/tofino-area-landfill-bans-neoprene-wetsuits-9.7366315?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Advocates for the ban say that wetsuits are made of neoprene, a synthetic plastic material that doesn't break down. Wetsuits will now instead be recycled and upcycled by the Surfrider Foundation Canada, who have kept…",
-      "published": "2026-10-02T08:00:00+00:00"
+      "title": "Nearly 6 in 10 people with high blood pressure don’t know they have it",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225445.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Nearly 6 in 10 people with high blood pressure in a large England study had never been diagnosed or treated, and half of those already taking medication still had elevated readings. Researchers say a more proactive…",
+      "published": "2026-10-02T08:03:31+00:00"
     },
     {
       "title": "Man City lodges 'comprehensive' appeal after being found guilty of financial rule-breaking",
@@ -1075,14 +1283,6 @@
       "published": "2026-10-02T07:39:16+00:00"
     },
     {
-      "title": "Government inspection at 3 Ontario career colleges reported 'serious concerns,' court records show",
-      "link": "https://www.cbc.ca/news/canada/toronto/career-college-court-records-government-inspection-9.7366556?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Ontario government officials who inspected three Academy of Learning career colleges found evidence suggesting third parties were completing the coursework and a few students who couldn't name their school or program,…",
-      "published": "2026-10-02T07:38:23+00:00"
-    },
-    {
       "title": "How to see the Orionid meteor shower this weekend",
       "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -1091,20 +1291,20 @@
       "published": "2026-10-02T07:16:45+00:00"
     },
     {
+      "title": "Scientists just pushed superconductors beyond their usual current limit",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Ultrashort electrical pulses allowed scientists to push superconductors closer than ever to the point where their electron pairs actually break apart. The method revealed hidden differences between superconducting…",
+      "published": "2026-10-02T07:08:12+00:00"
+    },
+    {
       "title": "Macron government struggles to quell protests as riot police clash with high schoolers",
       "link": "https://www.cbc.ca/news/world/france-school-protests-9.7366549?cmp=rss",
       "source": "CBC News",
       "category": "world",
       "summary": "Riot police clashed with high school students across France on Friday and unions called for teachers to strike as President Emmanuel Macron's government battled to contain increasingly ‌violent protests over classroom…",
       "published": "2026-10-02T07:02:33+00:00"
-    },
-    {
-      "title": "Rangers' Igor Shesterkin becomes the 18th NHL goaltender to score a goal",
-      "link": "https://www.cbc.ca/sports/hockey/nhl/nhl-igor-shesterkin-rangers-goalie-goal-9.7366553?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Igor Shesterkin of the New York Rangers became the 18th goaltender in NHL history to score a goal when he shot the puck into an empty net late in a 5-1 victory against Tampa Bay on Thursday night in New York.",
-      "published": "2026-10-02T06:45:32+00:00"
     },
     {
       "title": "Most Canadians don’t know how much they spend on housing. Do you?",
@@ -1147,14 +1347,6 @@
       "published": "2026-10-02T05:00:00+00:00"
     },
     {
-      "title": "Chris Sale helps Atlanta close out Phillies, advance to NLDS vs. Dodgers",
-      "link": "https://www.cbc.ca/sports/baseball/mlb/mlb-playoffs-roundup-september-30-9.7366526?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Micheal Harris II hit a three-run homer in the first inning, Chris Sale came out of the bullpen on one day of rest to get the final four outs and Atlanta beat the Phillies 6-2 on Thursday night in the decisive Game 3 of…",
-      "published": "2026-10-02T04:36:22+00:00"
-    },
-    {
       "title": "A'ja Wilson, Aces send the Fever home again with a 94-83 win in Game 3",
       "link": "https://www.cbc.ca/sports/basketball/wnba-playoffs-october-1-9.7366521?cmp=rss",
       "source": "CBC Sports",
@@ -1179,14 +1371,6 @@
       "published": "2026-10-02T04:00:00+00:00"
     },
     {
-      "title": "It's the biggest Alberta separatist account on the internet. It has links to a movement leader",
-      "link": "https://www.cbc.ca/news/canada/calgary/rise-of-alberta-separatism-anonymous-social-media-keith-wilson-9.7340578?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "The account Rise of Alberta is anonymous and drives four times as much engagement as the next most popular account.",
-      "published": "2026-10-02T04:00:00+00:00"
-    },
-    {
       "title": "What Cornell's alleged rape case and the Hockey Canada trial's striking parallels reveal",
       "link": "https://www.cbc.ca/news/canada/cornell-university-sexual-assault-hockey-canada-9.7364019?cmp=rss",
       "source": "CBC Sports",
@@ -1201,6 +1385,86 @@
       "category": "world",
       "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
       "published": "2026-10-02T03:09:13+00:00"
+    },
+    {
+      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the…",
+      "published": "2026-10-02T00:58:10+00:00"
+    },
+    {
+      "title": "Location, location, location: how to edit genes only in the cells you want",
+      "link": "https://www.nature.com/articles/d41586-026-03037-8",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+      "link": "https://www.nature.com/articles/d41586-026-03057-4",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum physics in fiction.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "How to respond to hate speech without fuelling it further",
+      "link": "https://www.nature.com/articles/d41586-026-03058-3",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3Psychologist Mirta Galesic discusses an increase in hateful comments online, and the science-backed way to react.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+      "link": "https://www.nature.com/articles/d41586-026-03126-8",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight…",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "Nature has rights — it is time the world recognized them",
+      "link": "https://www.nature.com/articles/d41586-026-03145-5",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5Existing legal frameworks have not halted planetary crises. Recognizing the rights of nature could offer a different path.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "Can you name the women who have won a science Nobel prize?",
+      "link": "https://www.nature.com/articles/d41586-026-03133-9",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "Von Neumann’s party",
+      "link": "https://www.nature.com/articles/d41586-026-02976-6",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6A tricky question.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+      "link": "https://www.nature.com/articles/d41586-026-02769-x",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-xOne small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
+      "link": "https://www.nature.com/articles/d41586-026-02564-8",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.",
+      "published": "2026-10-02T00:00:00+00:00"
     },
     {
       "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
@@ -1233,14 +1497,6 @@
       "category": "bc",
       "summary": "David Eby said the measures would save the average two-car family up to $100 per month, but would also cost the provincial treasury about $250 million.",
       "published": "2026-10-01T22:43:10+00:00"
-    },
-    {
-      "title": "New York's governor removes district attorney from Cornell rape allegations case, appoints special prosecutor",
-      "link": "https://www.cbc.ca/news/world/ny-special-prosecutor-cornell-investigation-9.7366424?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "New York Gov. Kathy Hochul appointed a special prosecutor Thursday to oversee an investigation into a woman's allegations that she was gang raped at a Cornell University fraternity house, with the governor saying she…",
-      "published": "2026-10-01T22:10:00+00:00"
     },
     {
       "title": "Airline Wi-Fi Has a Lie-Flat Seat Problem",
@@ -1281,14 +1537,6 @@
       "category": "travel",
       "summary": "Hotel tech investments keep climbing, but profits aren't keeping pace. Can hotels promise that AI will mean no job cuts and a payoff on the P&L at the same time?",
       "published": "2026-10-01T20:34:22+00:00"
-    },
-    {
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-      "published": "2026-10-01T19:59:24+00:00"
     },
     {
       "title": "Telehealth company Freddie acquired by Grindr for $250 million USD",
@@ -1355,14 +1603,6 @@
       "published": "2026-10-01T17:43:12+00:00"
     },
     {
-      "title": "World ski body eyes financial reset after overspending and wants to add new events",
-      "link": "https://www.cbc.ca/sports/olympics/winter/alpine-skiing/world-ski-body-fis-financial-reset-overspending-world-cup-9.7366063?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Skiing's governing body was on track to spend all its cash reserves by 2028 and has now cut jobs while aiming to add new events to help restore finances.",
-      "published": "2026-10-01T17:29:47+00:00"
-    },
-    {
       "title": "“No indication” AI agents breached government systems following attack attempt, Canadian security agency says",
       "link": "https://betakit.com/no-indication-ai-agents-breached-government-systems-following-attack-attempt-canadian-security-agency-says/",
       "source": "BetaKit",
@@ -1385,14 +1625,6 @@
       "category": "medical",
       "summary": "Alberta Health Services says a gastrointestinal illness outbreak at the Kinjo Sushi and Grill location in Mahogany linked to shiga toxin-producing E. coli is under investigation, with four confirmed cases and two…",
       "published": "2026-10-01T16:58:21+00:00"
-    },
-    {
-      "title": "Rogers becomes sole owner of MLSE after purchasing remaining 25% stake",
-      "link": "https://www.cbc.ca/news/canada/toronto/rogers-mlse-9.7365964?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Rogers Communications Inc. says it has completed its purchase of the remaining 25 per cent stake in Maple Leaf Sports & Entertainment from Larry Tanenbaum's Kilmer Sports Inc.",
-      "published": "2026-10-01T16:42:44+00:00"
     },
     {
       "title": "SpaceX launches crew to ISS",
@@ -1467,28 +1699,12 @@
       "published": "2026-10-01T14:42:03+00:00"
     },
     {
-      "title": "Creator Backlash Hits Travel: From the U.S. Open to Cruise Ships",
-      "link": "https://skift.com/2026/10/01/content-creator-backlash-travel-tourism/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Cruise lines and live events are giving influencers insider access to reach young audiences. Certain partnerships have sparked backlash from paying guests.",
-      "published": "2026-10-01T14:36:52+00:00"
-    },
-    {
       "title": "Florida woman indicted for attempted murder in shooting at Rihanna’s home",
       "link": "https://globalnews.ca/news/12083898/rihanna-home-shooting-florida-woman-ivanna-lisette-ortiz-indicted-attempted-murder/",
       "source": "Global News",
       "category": "entertainment",
       "summary": "The indictment against Ivanna Lisette Ortiz charges her with one count of attempted murder and 10 felony counts of assault with an assault weapon.",
       "published": "2026-10-01T14:24:15+00:00"
-    },
-    {
-      "title": "What happened in Tennessee's failed execution of Christa Pike and what comes next?",
-      "link": "https://www.cbc.ca/news/world/tennessee-christa-pike-explainer-9.7364988?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "It remains unclear why the execution of Christa Pike, who was sentenced to death for the 1995 killing of a classmate at age 18, failed. Pike was given two doses of lethal injections Wednesday, according to observers.",
-      "published": "2026-10-01T14:17:48+00:00"
     },
     {
       "title": "How a spousal RRSP can save couples tax",
@@ -1521,14 +1737,6 @@
       "category": "politics",
       "summary": "Transluce said it informed the Canadian government on Monday, Sept. 28, following which the Canadian Centre for Cybersecurity issued a statement on Tuesday.",
       "published": "2026-10-01T12:28:50+00:00"
-    },
-    {
-      "title": "Renee Good's family sues U.S. government, ICE officer and others over Minneapolis killing",
-      "link": "https://www.cbc.ca/news/world/renee-good-lawsuits-minneapolis-9.7365279?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Lawsuits filed by Renee Good's family allege wrongful death, conspiracy and other violations in the 37-year-old's fatal shooting by a U.S. immigration officer during an immigration crackdown in January.",
-      "published": "2026-10-01T11:52:55+00:00"
     },
     {
       "title": "What we know so far about the midair FlyDubai attack",
@@ -1603,22 +1811,6 @@
       "published": "2026-10-01T10:00:00+00:00"
     },
     {
-      "title": "This giant stick insect fooled scientists for decades",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick…",
-      "published": "2026-10-01T09:59:22+00:00"
-    },
-    {
-      "title": "New “plant armor” more than triples strawberry yields",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "A new protective fabric boosted strawberry yields by as much as 3.56 times while blocking insects and still allowing sunlight, rain, and airflow to reach the plants. Originally inspired by research on military clothing,…",
-      "published": "2026-10-01T09:43:15+00:00"
-    },
-    {
       "title": "AI agents tried to hack Library and Archives Canada website, research firm says",
       "link": "https://www.cbc.ca/news/business/ai-hack-canada-9.7364946?cmp=rss",
       "source": "CBC News",
@@ -1627,44 +1819,12 @@
       "published": "2026-10-01T09:28:36+00:00"
     },
     {
-      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the…",
-      "published": "2026-10-01T09:17:13+00:00"
-    },
-    {
-      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make…",
-      "published": "2026-10-01T09:03:50+00:00"
-    },
-    {
-      "title": "Pacific Link pipeline to the West Coast officially designated a ‘national interest’ project",
-      "link": "https://globalnews.ca/news/12083562/west-coast-pipeline-next-step/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "The proposed Pacific Link pipeline would see up to one million barrels of oil per day flow from Alberta to the BC. Lower Mainland for export to Asian markets.",
-      "published": "2026-10-01T09:00:43+00:00"
-    },
-    {
       "title": "This diet may slow brain aging by 2.5 years",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
       "source": "Science Daily",
       "category": "science",
       "summary": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry…",
       "published": "2026-10-01T08:26:47+00:00"
-    },
-    {
-      "title": "1 in 13 adults under 30 already had hidden artery plaque",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260929053541.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "More than half of 16,000 apparently healthy adults had signs of atherosclerosis, with arterial plaques already detectable in about 1 in 13 people ages 18 to 29. Researchers say directly imaging the arteries could reveal…",
-      "published": "2026-10-01T07:46:21+00:00"
     },
     {
       "title": "Who owns Canada's economy?",
@@ -1723,6 +1883,54 @@
       "published": "2026-10-01T00:08:23+00:00"
     },
     {
+      "title": "Retraction Note: Ribosomal frameshifting in the <i>CCR5</i> mRNA is regulated by miRNAs and the NMD pathway",
+      "link": "https://www.nature.com/articles/s41586-026-11149-4",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 01 October 2026; doi:10.1038/s41586-026-11149-4Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "A black hole’s jets have a halo effect",
+      "link": "https://www.nature.com/articles/d41586-026-03036-9",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03036-9Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
+      "link": "https://www.nature.com/articles/d41586-026-03119-7",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03119-7With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "‘Vibe coding’ makes the dictionary: AI terms recognized by Merriam-Webster",
+      "link": "https://www.nature.com/articles/d41586-026-03044-9",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03044-9‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to the online catalogue of the iconic lexicon.",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
+      "link": "https://www.nature.com/articles/d41586-026-03042-x",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-xModified medication targets the cells implicated in the condition’s tell-tale lesions.",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "Gaze into the cosmos and through the eyes of a bee — September’s best science images",
+      "link": "https://www.nature.com/articles/d41586-026-03101-3",
+      "source": "Nature News",
+      "category": "science",
+      "summary": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03101-3The month’s sharpest science shots, selected by Nature’s photo team.",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
       "title": "Tiny image sparks big backlash in Nikon photo contest",
       "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -1739,14 +1947,6 @@
       "published": "2026-09-30T23:10:19+00:00"
     },
     {
-      "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points…",
-      "published": "2026-09-30T23:06:56+00:00"
-    },
-    {
       "title": "The AI telling farmers when to harvest",
       "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -1761,14 +1961,6 @@
       "category": "technology",
       "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
       "published": "2026-09-30T23:02:21+00:00"
-    },
-    {
-      "title": "This common mistake can add nearly 7 points to your blood pressure reading",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "A common mistake during blood pressure checks could make readings appear substantially higher than they really are. Johns Hopkins researchers found that leaving the arm unsupported can raise systolic readings by about…",
-      "published": "2026-09-30T22:11:51+00:00"
     },
     {
       "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
@@ -1777,14 +1969,6 @@
       "category": "science",
       "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
       "published": "2026-09-30T22:01:16+00:00"
-    },
-    {
-      "title": "‘Separation will not solve problems’: Poilievre speaks in Alberta ahead of referendum",
-      "link": "https://globalnews.ca/news/12083159/alberta-referendum-pierre-poilievre-separatism/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "Federal Conservative Leader Pierre Poilievre, who is from Alberta, said separatists have a problem with the federal Liberal government — not with Canada.",
-      "published": "2026-09-30T20:49:03+00:00"
     },
     {
       "title": "Setting the pace in data sovereignty and AI adoption",
@@ -1801,14 +1985,6 @@
       "category": "politics",
       "summary": "Red Deer-South MLA Jason Stephan says he has voted in favour of Alberta’s government proceeding with a legally binding referendum on separation, but adds he hopes to see Canada united if Alberta is “treated fairly” as a…",
       "published": "2026-09-30T20:35:47+00:00"
-    },
-    {
-      "title": "Young Canadians less hopeful about future of democracy: Statistics Canada",
-      "link": "https://globalnews.ca/news/12083160/young-canadians-democracy-statistics-canada/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "Prairie provinces, including Alberta, had the highest percentage of respondents who felt no hope at all about democracy while British Columbia led with those who felt very hopeful.",
-      "published": "2026-09-30T20:30:38+00:00"
     },
     {
       "title": "Conservative critic says government must hit lower immigration target in next levels plan",
@@ -1833,78 +2009,6 @@
       "category": "science",
       "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
       "published": "2026-09-30T17:03:58+00:00"
-    },
-    {
-      "title": "Could the Parti Québécois actually abolish the monarchy in Quebec?",
-      "link": "https://www.cbc.ca/news/canada/montreal/parti-quebecois-monarchy-lieutenant-governor-fact-check-9.7363970?cmp=rss",
-      "source": "CBC News",
-      "category": "politics",
-      "summary": "Parti Québécois Leader Paul St-Pierre Plamondon says he wants to defund the office of the lieutenant-governor and pass a law to sever the province's ties to the Crown. But is a phaseout of the monarchy constitutionally…",
-      "published": "2026-09-30T14:37:32+00:00"
-    },
-    {
-      "title": "Meet the bizarre toad that 'sees' with its fingertips and gives birth through holes in its back",
-      "link": "https://www.cbc.ca/radio/quirks/meet-the-bizarre-toad-that-sees-with-its-fingertips-and-gives-birth-through-holes-in-its-back-9.7363645?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "For nearly two centuries, scientists have puzzled over how the Surinam toad manages to be such a deft and fierce hunter despite its tiny eyes, poor vision and the low visibility of its turbid environment. Now a new…",
-      "published": "2026-09-30T14:08:56+00:00"
-    },
-    {
-      "title": "Why preserving untranslatable Indigenous language matters",
-      "link": "https://www.cbc.ca/player/play/9.7364176?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "First Nations language speakers share how words and phrases carry so much identity and context that they are almost impossible to convey in English. CBC's Terri Trembath travelled to visit elders who explained what is…",
-      "published": "2026-09-30T14:04:40+00:00"
-    },
-    {
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-      "published": "2026-09-30T14:00:33+00:00"
-    },
-    {
-      "title": "WhatsApp introduces optional parental controls for teenagers",
-      "link": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "The social messaging app will let parents decide on privacy settings for their child's account.",
-      "published": "2026-09-30T13:01:30+00:00"
-    },
-    {
-      "title": "How obesity shaped a life of ambition and empathy: 'I was born this way'",
-      "link": "https://www.healthing.ca/obesity/how-obesity-shaped-a-life-of-ambition-and-empathy-i-was-born-this-way",
-      "source": "Healthing.ca",
-      "category": "wellness",
-      "summary": "Although Virginie felt well in her body, developed good friends and participated in sports and social events, she says society didn't approve.",
-      "published": "2026-09-30T13:00:37+00:00"
-    },
-    {
-      "title": "Conservative MP Scott Aitchison officially signals his intent to resign later this fall",
-      "link": "https://www.cbc.ca/news/politics/conservative-mp-aitchison-resigning-seat-9.7364059?cmp=rss",
-      "source": "CBC News",
-      "category": "politics",
-      "summary": "Ontario MP and former Conservative leadership candidate Scott Aitchison said Wednesday that he intends to resign his seat at the end of the fall sitting.",
-      "published": "2026-09-30T12:36:04+00:00"
-    },
-    {
-      "title": "Q&A: Animikii’s Jeff Ward on #DataBack and what the world can learn from Indigenous tech",
-      "link": "https://betakit.com/qa-animikiis-jeff-ward-on-databack-and-what-the-world-can-learn-from-indigenous-tech/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Animikii’s Niiwin platform is being developed to reclaim, organize, and safeguard Indigenous data. The post Q&A: Animikii’s Jeff Ward on #DataBack and what the world can learn from Indigenous tech first appeared on…",
-      "published": "2026-09-30T12:00:00+00:00"
-    },
-    {
-      "title": "Stelco's U.S. owner defends right to idle operations at Hamilton steel plant as PM vows legal action",
-      "link": "https://www.cbc.ca/news/business/stelco-layoffs-legal-carney-9.7363928?cmp=rss",
-      "source": "CBC News",
-      "category": "markets",
-      "summary": "The chief executive officer of Stelco’s American parent company says “we will defend ourselves” if Ottawa files a lawsuit after Stelco announced it will idle production at a steel mill in Hamilton",
-      "published": "2026-09-30T11:32:44+00:00"
     }
   ]
 }
