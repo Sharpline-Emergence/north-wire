@@ -1,22 +1,126 @@
 {
-  "generated_at": "2026-10-10T16:13:25.938569+00:00",
-  "article_count": 261,
+  "generated_at": "2026-10-10T22:07:36.440910+00:00",
+  "article_count": 251,
   "articles": [
     {
-      "title": "Several injured as Saudi capital airport reportedly hit again",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "published": "2026-10-10T22:02:07+00:00"
+    },
+    {
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "published": "2026-10-10T22:02:07+00:00"
+    },
+    {
+      "title": "The scaffolding will be removed from the facade of Notre-Dame Basilica in Montreal",
+      "link": "https://globalnews.ca/news/12098676/notre-dame-montreal-scaffolding-removal/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "While the restoration of the facade is complete, the basilica still has several years of work ahead of it.",
+      "published": "2026-10-10T21:31:07+00:00"
+    },
+    {
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
-      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
-      "published": "2026-10-10T16:05:18+00:00"
+      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "published": "2026-10-10T21:27:10+00:00"
     },
     {
-      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "published": "2026-10-10T20:51:12+00:00"
+    },
+    {
+      "title": "2 dead after plane crash, fire near Fergus, Ont.",
+      "link": "https://globalnews.ca/news/12098605/2-dead-plane-crash-fergus-ontario/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Two people are dead after a small plane crashed into a field and caught fire near Fergus, Ont., Ontario Provincial Police (OPP) said.",
+      "published": "2026-10-10T19:22:58+00:00"
+    },
+    {
+      "title": "CBC Sports Primetime: Men's Canada Super60 Cricket League - Final",
+      "link": "https://www.cbc.ca/player/play/9.7346713?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Watch the Toronto Sixers and the Vancouver Anchors square off in the men's final of the Canada Super 60 Cricket League competition at BC Place in Vancouver.",
+      "published": "2026-10-10T19:00:00+00:00"
+    },
+    {
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "published": "2026-10-10T18:22:29+00:00"
+    },
+    {
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
-      "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
-      "published": "2026-10-10T15:58:06+00:00"
+      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "published": "2026-10-10T17:44:26+00:00"
+    },
+    {
+      "title": "Real Madrid's Vinicius red-carded for pulling hair of Villarreal's Saliba",
+      "link": "https://www.cbc.ca/sports/soccer/real-madrid-vini-jr-red-card-oct-10-9.7377296?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Real Madrid forward Vinicius Junior was sent off with a direct red card for pulling the hair of Villarreal's Nathan Sabila in their La Liga game on Saturday.",
+      "published": "2026-10-10T17:39:18+00:00"
+    },
+    {
+      "title": "Children, pregnant woman among 9 dead in Pennsylvania shooting",
+      "link": "https://www.cbc.ca/news/world/pennsylvania-shooting-dead-9.7377285?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "A shooting in a residential area of Erie, Pa., left nine people dead, including the suspected shooter, and rocked the city. Police said two children and a pregnant woman were among the dead.",
+      "published": "2026-10-10T17:16:30+00:00"
+    },
+    {
+      "title": "9 dead after shooting in Erie, Pennsylvania: police",
+      "link": "https://globalnews.ca/news/12098523/9-dead-pennsylvania-shooting/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Nine people were killed Friday in a shooting in Erie, Pennsylvania, Gov. Josh Shapiro said Saturday. Police said the suspected shooter was also dead.",
+      "published": "2026-10-10T16:51:56+00:00"
+    },
+    {
+      "title": "How some separatists are responding to Smith’s pledge against 2nd referendum if remain vote wins",
+      "link": "https://www.cbc.ca/news/canada/calgary/separatists-react-danielle-smith-interview-cbc-news-second-referendum-9.7377277?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Premier Danielle Smith’s pledge that she won’t hold another referendum on separation if the remain vote wins this month — at least as long as she is premier — is getting pushback from some prominent Alberta separatists.",
+      "published": "2026-10-10T16:37:17+00:00"
+    },
+    {
+      "title": "B.C. loses 20,000 jobs in September",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/bc-job-loss-september-9.7377206?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "The jobs lost in B.C. make up almost a third of the 68,000 jobs shed across Canada in September.",
+      "published": "2026-10-10T16:35:45+00:00"
+    },
+    {
+      "title": "Rangers goalie Igor Shesterkin out for season with knee injury",
+      "link": "https://www.cbc.ca/sports/hockey/nhl/rangers-igor-shesterkin-knee-injury-9.7377261?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "New York Rangers goaltender Igor Shesterkin is out for the season after injuring his right knee Friday night in a game at Washington, the team announced Saturday.",
+      "published": "2026-10-10T15:57:04+00:00"
     },
     {
       "title": "King warns malicious online actors are evolving tactics",
@@ -27,12 +131,28 @@
       "published": "2026-10-10T15:56:32+00:00"
     },
     {
+      "title": "Category 4 Hurricane Simon barrels toward Mexico",
+      "link": "https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377259?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Hurricane Simon ​strengthened into a powerful Category 4 storm off Mexico's Pacific coast on Saturday, threatening destructive winds, storm surges and potentially deadly flooding as it approaches landfall.",
+      "published": "2026-10-10T15:54:50+00:00"
+    },
+    {
       "title": "Lotto Max jackpot set for $85M, largest prize in history of Canadian lotto",
       "link": "https://globalnews.ca/news/12098460/lotto-max-jackpot-85-million/",
       "source": "Global News",
       "category": "canada",
       "summary": "With no ticket matching all seven numbers on Friday night’s Lotto Max draw, players now have the chance to win $85 million, the largest jackpot in the history of Canadian lotto.",
       "published": "2026-10-10T15:33:39+00:00"
+    },
+    {
+      "title": "The Curator: 8 comfortable sleeper sofas for every space and budget",
+      "link": "https://globalnews.ca/the-curator/11890687/best-sleeper-sofas/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "From Canadian favourites Article, Simons and Cozey to Walmart, Amazon and more, there's a sleeper sofa to suit every budget, style and need.",
+      "published": "2026-10-10T15:00:57+00:00"
     },
     {
       "title": "Woman injures three people in third Poland school knife attack in a week",
@@ -43,12 +163,36 @@
       "published": "2026-10-10T14:58:55+00:00"
     },
     {
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could…",
+      "published": "2026-10-10T14:57:27+00:00"
+    },
+    {
+      "title": "MIT astronomers catch a star in a feast that could last billions of years",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star.…",
+      "published": "2026-10-10T14:56:25+00:00"
+    },
+    {
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
       "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
       "published": "2026-10-10T14:49:32+00:00"
+    },
+    {
+      "title": "Bowel cancer “melted away” after immunotherapy, then stayed away",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042115.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "A short course of immunotherapy before surgery may offer remarkably durable protection for some patients with stage two or three bowel cancer. In the NEOPRISM-CRC trial, 32 patients with a specific genetic form of bowel…",
+      "published": "2026-10-10T14:42:35+00:00"
     },
     {
       "title": "Pope Leo declares death penalty ‘inadmissible’ as his native US plans to livestream execution",
@@ -59,12 +203,28 @@
       "published": "2026-10-10T14:29:21+00:00"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "published": "2026-10-10T14:16:50+00:00"
+      "title": "Stelco says Hamilton layoffs still happening despite Ottawa's threats of legal action",
+      "link": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220?cmp=rss",
+      "source": "CBC News",
+      "category": "politics",
+      "summary": "Hamilton-based steelmaker Stelco says it will proceed with hundreds of layoffs, despite threats of legal action from the federal government.",
+      "published": "2026-10-10T14:14:09+00:00"
+    },
+    {
+      "title": "Stelco says Hamilton layoffs still happening despite Ottawa's threats of legal action",
+      "link": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220?cmp=rss",
+      "source": "CBC News",
+      "category": "markets",
+      "summary": "Hamilton-based steelmaker Stelco says it will proceed with hundreds of layoffs, despite threats of legal action from the federal government.",
+      "published": "2026-10-10T14:14:09+00:00"
+    },
+    {
+      "title": "Why this Fredericton woman is walking a Ukrainian battalion flag across P.E.I.",
+      "link": "https://www.cbc.ca/news/canada/new-brunswick/why-this-fredericton-woman-is-walking-a-ukrainian-battalion-flag-across-pei-9.7377192?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Julia Cardy will spend two weeks walking across Prince Edward Island with a flag her friend April Huggett carried for 700 kilometres in Ukraine. The journey is raising money for Ukrainian soldiers and bringing their…",
+      "published": "2026-10-10T13:44:18+00:00"
     },
     {
       "title": "Hundreds protest over data centre plans",
@@ -81,6 +241,30 @@
       "category": "canada",
       "summary": "Through the investigation, police determined the victim was asleep in their residence when they were awoken by an unknown suspect.",
       "published": "2026-10-10T13:26:58+00:00"
+    },
+    {
+      "title": "Canada's Taylor Ruck wins women's 200m backstroke gold at swimming World Cup",
+      "link": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ruck-gold-canadian-recap-swimming-world-cup-tashkent-9.7377184?cmp=rss",
+      "source": "CBC Sports",
+      "category": "sports",
+      "summary": "Taylor Ruck wrapped up the second stop of the three-meet World Aquatics Swimming World Cup series with a podium-topping performance for Canada on Saturday.",
+      "published": "2026-10-10T12:51:13+00:00"
+    },
+    {
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+      "link": "https://www.cbc.ca/news/world/ai-agents-false-homicide-tip-anthropic-claude-9.7377169?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.",
+      "published": "2026-10-10T12:33:06+00:00"
+    },
+    {
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+      "link": "https://www.cbc.ca/news/world/ai-agents-false-homicide-tip-anthropic-claude-9.7377169?cmp=rss",
+      "source": "CBC News",
+      "category": "technology",
+      "summary": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.",
+      "published": "2026-10-10T12:33:06+00:00"
     },
     {
       "title": "Tommy Time taking over in Saskatchewan",
@@ -115,30 +299,6 @@
       "published": "2026-10-10T12:28:19+00:00"
     },
     {
-      "title": "Simon strengthens into a Category 4 hurricane as it approaches Mexico’s coast",
-      "link": "https://globalnews.ca/news/12098396/simon-category-4-hurricane-approaches-mexicos-coast/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "The National Hurricane Center in Miami said early Saturday Simon's maximum sustained winds increased to 145 mph (230 kph). A storm of that strength is considered a major hurricane.",
-      "published": "2026-10-10T12:25:26+00:00"
-    },
-    {
-      "title": "Isaias weakens but flash flooding threat persist as hundred of thousands grapple with power outages",
-      "link": "https://globalnews.ca/news/12098394/isaias-weakens-flash-flooding-power-outages/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Isaias weakened overnight and was no longer considered a hurricane but flash flooding threats and the potential for tornadoes persisted Saturday as the storm moved inland.",
-      "published": "2026-10-10T12:23:49+00:00"
-    },
-    {
-      "title": "Chinese court sentenced former mayor of Wuhan city to 14 years in prison for bribery",
-      "link": "https://globalnews.ca/news/12098392/former-mayor-wuhan-prison-bribery/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "A former mayor of a Chinese city hit by the coronavirus outbreak more than six years ago was sentenced Saturday to 14 years in prison after being convicted of bribery.",
-      "published": "2026-10-10T12:22:18+00:00"
-    },
-    {
       "title": "Dual elections a headache for some B.C. voters",
       "link": "https://globalnews.ca/news/12098390/dual-elections-headache-b-c-voters/",
       "source": "Global News",
@@ -150,25 +310,9 @@
       "title": "Dual elections a headache for some B.C. voters",
       "link": "https://globalnews.ca/news/12098390/dual-elections-headache-b-c-voters/",
       "source": "Global News",
-      "category": "canada",
-      "summary": "The local elections are on Oct. 17 for local officials, while a provincial vote will be held Oct. 24 to elect the legislature, which will determine B.C.'s next premier.",
-      "published": "2026-10-10T12:21:11+00:00"
-    },
-    {
-      "title": "Dual elections a headache for some B.C. voters",
-      "link": "https://globalnews.ca/news/12098390/dual-elections-headache-b-c-voters/",
-      "source": "Global News",
       "category": "politics",
       "summary": "The local elections are on Oct. 17 for local officials, while a provincial vote will be held Oct. 24 to elect the legislature, which will determine B.C.'s next premier.",
       "published": "2026-10-10T12:21:11+00:00"
-    },
-    {
-      "title": "Complaint filed over MP saying fentanyl ‘readily available’ in MAID report",
-      "link": "https://globalnews.ca/news/12098388/complaint-mp-fentanyl-maid-report/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "The quote is included in Powlowski's written argument against expanding access to MAID for mental illness until fundamental concerns are addressed.",
-      "published": "2026-10-10T12:19:16+00:00"
     },
     {
       "title": "Provinces call on Ottawa to expand mining credit",
@@ -179,12 +323,28 @@
       "published": "2026-10-10T12:17:12+00:00"
     },
     {
+      "title": "Overlapping elections in B.C. causing confusion: candidates",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/overlapping-elections-bc-confusing-9.7377127?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "The local elections on Oct. 17 will see voters elect mayors, councillors, school board trustees and other local officials, while a provincial vote will be held Oct. 24 to elect 93 members of the legislature, which will…",
+      "published": "2026-10-10T12:15:34+00:00"
+    },
+    {
       "title": "Tension peaking among Albertans on separation vote",
       "link": "https://globalnews.ca/news/12098382/tension-albertans-separation-vote/",
       "source": "Global News",
       "category": "politics",
       "summary": "Some families and friends across Alberta are set to gather for a Thanksgiving meal this weekend with the hope that the only thing that gets roasted is the turkey.",
       "published": "2026-10-10T12:14:57+00:00"
+    },
+    {
+      "title": "Christa Pike discharged from hospital after surviving execution attempt, attorney says",
+      "link": "https://www.cbc.ca/news/world/christa-pike-discharged-hospital-failed-execution-attempt-9.7377154?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Christa Pike, who survived Tennessee's attempt to execute her by lethal injection, has been moved back to prison, according to a statement released by her attorneys.",
+      "published": "2026-10-10T12:07:03+00:00"
     },
     {
       "title": "Hurricane Isaias downgraded after making landfall in Florida",
@@ -275,14 +435,6 @@
       "published": "2026-10-10T10:00:00+00:00"
     },
     {
-      "title": "Kelowna's Taylor Ruck claims first World Cup gold in Tashkent",
-      "link": "https://www.cbc.ca/player/play/9.7377104?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Taylor Ruck of Kelowna, B.C., won a gold medal in the women's 200-metre backstroke final, at the World Aquatics Swimming World Cup in Tashkent, Uzbekistan.",
-      "published": "2026-10-10T09:51:14+00:00"
-    },
-    {
       "title": "CGTN: How China uses digital tech to empower women globally",
       "link": "https://financialpost.com/globe-newswire/cgtn-how-china-uses-digital-tech-to-empower-women-globally",
       "source": "Financial Post",
@@ -331,11 +483,11 @@
       "published": "2026-10-10T09:00:13+00:00"
     },
     {
-      "title": "1 dead, hundreds of thousands without power as Isaias weakens",
+      "title": "4 dead, hundreds of thousands without power as Isaias weakens",
       "link": "https://www.cbc.ca/news/world/hurricane-isaias-power-outage-9.7377047?cmp=rss",
       "source": "CBC News",
       "category": "world",
-      "summary": "Isaias left behind a trail of damaged rooftops, downed power lines and flooded roadways Saturday as it weakened and was no longer a hurricane. It was blamed for at least one death in Florida after a tree fell on a home.",
+      "summary": "Isaias left behind a trail of damaged rooftops, downed power lines and flooded roadways Saturday as it weakened and was no longer a hurricane. It was blamed for at least four deaths.",
       "published": "2026-10-10T08:28:14+00:00"
     },
     {
@@ -379,6 +531,14 @@
       "published": "2026-10-10T06:13:15+00:00"
     },
     {
+      "title": "‘Every rock has a story’: retired geologist opens rock library in Whitehorse",
+      "link": "https://www.cbc.ca/news/canada/north/rock-library-whitehorse-9.7374589?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Tucked away down a quiet street in Whitehorse is a new community library, with a geological twist. You won't find a new thriller, or a well-loved cookbook. The shelves aren’t filled with paper, they’re filled with rocks.",
+      "published": "2026-10-10T06:00:00+00:00"
+    },
+    {
       "title": "New church set to rise up after 'suspicious' fire in Kinngait, Nunavut",
       "link": "https://www.cbc.ca/news/canada/north/new-church-set-to-rise-up-after-suspicious-fire-in-kinngait-nunavut-9.7374835?cmp=rss",
       "source": "CBC News",
@@ -393,14 +553,6 @@
       "category": "bc",
       "summary": "Voters in the Peace River North riding have just two choices in the 2026 provincial snap election: B.C. Conservative candidate Curtis Whitford or Independent candidate Jordan Kealy. No other candidates will be on the…",
       "published": "2026-10-10T06:00:00+00:00"
-    },
-    {
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-      "published": "2026-10-10T04:51:57+00:00"
     },
     {
       "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
@@ -707,20 +859,20 @@
       "published": "2026-10-09T17:17:13+00:00"
     },
     {
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "published": "2026-10-09T17:14:44+00:00"
-    },
-    {
       "title": "B.C. advocates worry universal child care promise has been forgotten",
       "link": "https://www.cbc.ca/news/canada/british-columbia/child-care-advocates-universal-promise-forgotten-9.7375230?cmp=rss",
       "source": "CBC News",
       "category": "bc",
       "summary": "The B.C. NDP promised British Columbians would have universal affordable child care by 2028. But not all families have seen their child-care rates drop. One advocate says the issue isn’t getting enough attention on the…",
       "published": "2026-10-09T17:09:38+00:00"
+    },
+    {
+      "title": "Fish in American fish sticks is fueling a fight over trawling in Alaska",
+      "link": "https://www.cbc.ca/news/canada/north/us-fish-sticks-trawling-alaska-9.7376306?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Chum from Bering Sea pollock trawlers have become contentious as salmon runs have collapsed across western Alaska, where dozens of Indigenous communities have relied on salmon for generations. The backlash has spread to…",
+      "published": "2026-10-09T16:59:38+00:00"
     },
     {
       "title": "Powerful earthquake hits Panama, triggers tsunami warnings",
@@ -859,14 +1011,6 @@
       "published": "2026-10-09T14:57:33+00:00"
     },
     {
-      "title": "Kelowna's Taylor Ruck earns her 2nd silver at swimming World Cup",
-      "link": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ruck-knox-canadian-recap-swimming-world-cup-tashkent-9.7376158?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Canadian swimmers Taylor Ruck and Finlay Knox added to their medal hauls Friday at the second stop of the three-meet World Aquatics Swimming World Cup series in Tashkent, Uzbekistan.",
-      "published": "2026-10-09T14:47:18+00:00"
-    },
-    {
       "title": "Taylor Ruck earns her second silver, Finlay Knox third bronze for Canada at swimming World Cup",
       "link": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/ruck-knox-canadian-recap-swimming-world-cup-tashkent-9.7376158?cmp=rss",
       "source": "CBC Sports",
@@ -889,6 +1033,14 @@
       "category": "canada",
       "summary": "Newfoundlander Paul Matthews picked up the phone last month, not knowing it was Jax Irwin on the other end. Irwin cold calls people on the east coast, just to chat. But that day, she had Hollywood star Josh Hartnett and…",
       "published": "2026-10-09T14:37:18+00:00"
+    },
+    {
+      "title": "Scientists discover 5 hidden brain patterns behind depression",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each…",
+      "published": "2026-10-09T14:34:02+00:00"
     },
     {
       "title": "Céline Dion falls on stage but quickly recovers during Paris residency",
@@ -915,12 +1067,28 @@
       "published": "2026-10-09T13:59:35+00:00"
     },
     {
+      "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless…",
+      "published": "2026-10-09T13:55:59+00:00"
+    },
+    {
       "title": "Poilievre shrugs off Musk's pro-separatist posts: 'Canadians control their own destiny'",
       "link": "https://www.cbc.ca/news/politics/poilievre-carney-elon-musk-scott-moe-9.7375947?cmp=rss",
       "source": "CBC News",
       "category": "politics",
       "summary": "Conservative Leader Pierre Poilievre dismissed tech billionaire Elon Musk's calls this week for multiple provinces to separate from Canada, saying \"Canadians control their own destiny.\"",
       "published": "2026-10-09T13:34:41+00:00"
+    },
+    {
+      "title": "Hubble Space Telescope may have found a planet born after its star died",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
+      "source": "Science Daily",
+      "category": "science",
+      "summary": "A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832,…",
+      "published": "2026-10-09T13:31:02+00:00"
     },
     {
       "title": "Ousted B.C. Conservative candidate Joachim Agou apologizes for posts deemed racist",
@@ -995,14 +1163,6 @@
       "published": "2026-10-09T12:34:27+00:00"
     },
     {
-      "title": "Police watchdog investigating after man injured during arrest on Sask. First Nation",
-      "link": "https://www.cbc.ca/news/canada/saskatchewan/police-watchdog-investigating-after-man-injured-during-arrest-on-sask-first-nation-9.7375552?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "The Serious Incident Response Team is investigating after a man was injured while RCMP were arresting him on Mosquito Grizzly Bear’s Head Lean Man First Nation. He was released with no charges.",
-      "published": "2026-10-09T12:12:05+00:00"
-    },
-    {
       "title": "The women's rugby rivalry you need to know about",
       "link": "https://www.cbc.ca/player/play/9.7375779?cmp=rss",
       "source": "CBC Sports",
@@ -1043,14 +1203,6 @@
       "published": "2026-10-09T11:35:48+00:00"
     },
     {
-      "title": "8 people hospitalized after turbulence forces Medellin-New York flight to divert to Miami",
-      "link": "https://www.cbc.ca/news/world/hospitalized-flight-diverted-miami-turbulence-9.7375392?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "A Miami International Airport official says Avianca Airlines Flight 042, travelling from Medellin, Colombia, to New York's John F. Kennedy International Airport, was diverted \"due to turbulence.\"",
-      "published": "2026-10-09T11:34:43+00:00"
-    },
-    {
       "title": "Transformative former B.C. attorney general Colin Gablemann dead at 82",
       "link": "https://www.cbc.ca/news/canada/british-columbia/colin-gablemann-former-attorney-general-9.7375206?cmp=rss",
       "source": "CBC News",
@@ -1073,14 +1225,6 @@
       "category": "travel",
       "summary": "Delta still had a profitable third quarter, even as volatile fuel costs are now forcing it to lower its 2026 forecast. The carrier has already accrued $900 million in profit sharing for 2027.",
       "published": "2026-10-09T10:37:41+00:00"
-    },
-    {
-      "title": "Kelowna's Taylor Ruck claims World Cup 100m backstroke silver medal",
-      "link": "https://www.cbc.ca/player/play/9.7375482?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Taylor Ruck of Kelowna, B.C., won a silver medal in the women's 100-metre backstroke final, at the World Aquatics Swimming World Cup in Tashkent, Uzbekistan.",
-      "published": "2026-10-09T10:04:17+00:00"
     },
     {
       "title": "Reservoir inflows in Comox Valley lowest in 64 years as warm, dry fall persists",
@@ -1195,28 +1339,12 @@
       "published": "2026-10-09T08:20:04+00:00"
     },
     {
-      "title": "3 people killed in Houthi attack on main airport in Riyadh, Saudi officials say",
-      "link": "https://www.cbc.ca/news/world/saudi-houthi-fighting-riyadh-airport-9.7375292?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "An airline pilot was among three Saudi citizens killed in attacks targeting Riyadh's King Khalid International Airport, the kingdom's civil aviation authority said on Friday.",
-      "published": "2026-10-09T08:19:36+00:00"
-    },
-    {
-      "title": "Hurricane Simon forecast to get much stronger as it heads to Mexico's Pacific Coast",
-      "link": "https://www.cbc.ca/news/science/hurricane-simon-oct-9-9.7375303?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Hurricane Simon was headed toward part of Mexico's Pacific Coast on Friday and forecast to get much stronger, leading to hurricane-force winds and torrential rains that could cause flooding and mudslides.",
-      "published": "2026-10-09T07:36:57+00:00"
-    },
-    {
-      "title": "Teen figure skaters increasingly targeted by social media abuse as campaign launches",
-      "link": "https://www.cbc.ca/sports/olympics/winter/figure-skating/figure-skating-social-media-abuse-9.7375307?cmp=rss",
+      "title": "Hockey Canada clarifies that Nurse didn't decline invite, she's unable to attend camp",
+      "link": "https://www.cbc.ca/sports/hockey/pwhl/sarah-nurse-selection-camp-hockey-canada-9.7375323?cmp=rss",
       "source": "CBC Sports",
       "category": "sports",
-      "summary": "Teenage figure skaters as young as 13 are being increasingly targeted by abusive comments on social media, Olympic gold medallist Evan Bates has warned.",
-      "published": "2026-10-09T07:19:45+00:00"
+      "summary": "Veteran forward Sarah Nurse has been removed from the Canadian women's hockey team selection camp roster for the upcoming world championship and replaced by college forward Alexia Aubin.",
+      "published": "2026-10-09T07:41:09+00:00"
     },
     {
       "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
@@ -1259,14 +1387,6 @@
       "published": "2026-10-09T06:20:23+00:00"
     },
     {
-      "title": "Bacteria turn a virus’ own weapon against it",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective…",
-      "published": "2026-10-09T05:51:19+00:00"
-    },
-    {
       "title": "Data centre raises noise and wildlife impact fears",
       "link": "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -1283,43 +1403,11 @@
       "published": "2026-10-09T05:00:23+00:00"
     },
     {
-      "title": "A 9-billion-year-old signal could help explain dark energy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042102.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "A Canadian radio telescope has detected the faint glow of hydrogen from billions of years ago using only its own observations, proving a long-awaited way to map the distant universe can actually work. CHIME can use this…",
-      "published": "2026-10-09T04:53:28+00:00"
-    },
-    {
-      "title": "A quantum prediction from 1931 just came to life",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute…",
-      "published": "2026-10-09T04:25:24+00:00"
-    },
-    {
       "title": "11 things we learned about Terry Fox from Run Terry Run",
       "link": "https://www.cbc.ca/news/entertainment/terry-fox-run-terry-run-documentary-9.7343641?cmp=rss",
       "source": "CBC News",
       "category": "canada",
       "summary": "Run Terry Run, a new documentary directed by Sean Menard, offers a deeper look at Terry Fox beyond his status as one of Canada’s most celebrated heroes. The film draws from 96 reels of previously unseen footage from…",
-      "published": "2026-10-09T04:00:00+00:00"
-    },
-    {
-      "title": "Driscoll’s berries case raises questions about Canada’s food safety watchdog",
-      "link": "https://www.cbc.ca/news/canada/montreal/driscolls-berries-case-raises-questions-about-canadas-food-safety-watchdog-9.7374947?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Allegations of non-compliant pesticide levels on imported Driscoll’s berries have ignited a broader debate over Canada's food safety system. While the Canadian Food Inspection Agency defends its system , critics warn…",
-      "published": "2026-10-09T04:00:00+00:00"
-    },
-    {
-      "title": "When Hammers star Brandon Scanlin told his mom he's coming home to play AHL hockey 'she almost started crying'",
-      "link": "https://www.cbc.ca/news/canada/hamilton/hamilton-hammers-home-opener-toronto-marlies-9.7374440?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "After years without professional hockey in Hamilton, the wait is almost over. The Hamilton Hammers will play their first regular-season home game Friday night, hosting the Toronto Marlies at TD Coliseum as the new AHL…",
       "published": "2026-10-09T04:00:00+00:00"
     },
     {
@@ -1377,14 +1465,6 @@
       "category": "bc",
       "summary": "In late September, Shane Ertmoed, who is serving a life sentence, was granted a 60-day unescorted temporary absence from prison to take cooking classes.",
       "published": "2026-10-09T00:53:00+00:00"
-    },
-    {
-      "title": "Jose Ramirez helps Guardians force a decisive Game 5 in ALDS vs. White Sox",
-      "link": "https://www.cbc.ca/sports/baseball/mlb/mlb-playoffs-roundup-october-8-9.7375222?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "Jose Ramirez homered and drove in three runs, and the Cleveland Guardians beat the Chicago White Sox 9-5 on Thursday night to send their AL Division Series to a winner-take-all Game 5.",
-      "published": "2026-10-09T00:35:48+00:00"
     },
     {
       "title": "Many Quebec voters got false election information from chatbot, MPs hear",
@@ -1491,28 +1571,12 @@
       "published": "2026-10-08T23:09:56+00:00"
     },
     {
-      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
-      "link": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.",
-      "published": "2026-10-08T23:03:33+00:00"
-    },
-    {
       "title": "October’s night sky is full of cosmic tricks and treats",
       "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
       "source": "Science Daily",
       "category": "science",
       "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s…",
       "published": "2026-10-08T22:37:22+00:00"
-    },
-    {
-      "title": "Nearly 30,000 people tested quit-smoking methods. One stood out",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234524.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Nicotine e-cigarettes appear to help more smokers quit than patches, gum, and several other common approaches, according to a major review of 80 clinical trials. Researchers say regulated vaping products are not…",
-      "published": "2026-10-08T22:07:28+00:00"
     },
     {
       "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
@@ -1531,14 +1595,6 @@
       "published": "2026-10-08T21:37:35+00:00"
     },
     {
-      "title": "Scientists tested 5 natural compounds on cancer cells. One stood out",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells. All disrupted cancer cell energy production and pushed many of the cells into a…",
-      "published": "2026-10-08T21:15:59+00:00"
-    },
-    {
       "title": "Skift Transatlantic Summit: Five Decisions in the Room",
       "link": "https://skift.com/2026/10/08/skift-transatlantic-summit-five-decisions-in-the-room/",
       "source": "Skift",
@@ -1553,14 +1609,6 @@
       "category": "technology",
       "summary": "Founders and VCs spent the day discussing the finer points of building Prairies deep tech. The post Edmonton Startup Week shines spotlight on budding deep tech sector first appeared on BetaKit.",
       "published": "2026-10-08T20:58:04+00:00"
-    },
-    {
-      "title": "U.S. ICE agents shoot and wound man during arrest in New York City, sparking protests",
-      "link": "https://www.cbc.ca/news/world/new-york-ice-shooting-manhattan-9.7375094?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "U.S. federal immigration agents shot and wounded a Dominican man while arresting him in New York City on Thursday, in what the Department of Homeland Security (DHS) called a \"targeted enforcement operation.\"",
-      "published": "2026-10-08T20:39:57+00:00"
     },
     {
       "title": "Countering drones is ‘critical’ as warfare evolves, Canada’s military says",
@@ -1657,14 +1705,6 @@
       "category": "politics",
       "summary": "A key piece of the Carney government's economic agenda, Bill C-39, passed its first vote in the House of Commons on Thursday, with Conservatives and the majority Liberals sending the bill for study by a special…",
       "published": "2026-10-08T17:51:34+00:00"
-    },
-    {
-      "title": "B.C. Conservatives drop Victoria-Beacon Hill candidate after offensive social media posts",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-conservatives-drop-candidate-for-victoria-beacon-hill-after-offensive-social-media-posts-9.7374798?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Victoria-Beacon Hill candidate Joachim Agou has apologized after the B.C. Conservatives dropped him over several offensive social media posts he made, but says he still plans to run in the coming election.",
-      "published": "2026-10-08T17:24:02+00:00"
     },
     {
       "title": "Official languages commissioner rebukes Air Canada CEO over English-only message",
@@ -1819,14 +1859,6 @@
       "published": "2026-10-08T10:00:00+00:00"
     },
     {
-      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "summary": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and…",
-      "published": "2026-10-08T09:52:56+00:00"
-    },
-    {
       "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
       "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
       "source": "Science Daily",
@@ -1867,14 +1899,6 @@
       "published": "2026-10-08T08:19:20+00:00"
     },
     {
-      "title": "Nobel Peace Prize awarded to Navi Pillay of International Court of Justice",
-      "link": "https://www.cbc.ca/news/world/nobel-peace-prize-2026-9.7374166?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "",
-      "published": "2026-10-08T07:11:02+00:00"
-    },
-    {
       "title": "Russian health officials deny reports of 2nd plague death in Siberia",
       "link": "https://www.cbc.ca/news/health/russia-siberia-plague-death-report-9.7373685?cmp=rss",
       "source": "CBC News",
@@ -1897,14 +1921,6 @@
       "category": "medical",
       "summary": "They fought vaccines and public health restrictions. Over time, their push for freedom shifted to independence.",
       "published": "2026-10-08T06:00:00+00:00"
-    },
-    {
-      "title": "Water, toxic waste and opportunity: Indigenous leaders react to Carney's pipeline plan",
-      "link": "https://www.cbc.ca/news/politics/pacific-link-indigenous-consultation-oil-pipeline-bc-alberta-9.7373476?cmp=rss",
-      "source": "CBC News",
-      "category": "politics",
-      "summary": "Several Indigenous leaders are raising concerns about the Carney government's West Coast pipeline plan. In a series of interviews, community leaders along and around the proposed route raised questions and misgivings —…",
-      "published": "2026-10-08T04:00:00+00:00"
     },
     {
       "title": "Layoffs at Stelco underway, and will roll out over 3 weeks, says union president",
@@ -1993,102 +2009,6 @@
       "category": "technology",
       "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
       "published": "2026-10-07T23:50:29+00:00"
-    },
-    {
-      "title": "Kids flip out over dad's Nobel Prize | The Moment",
-      "link": "https://www.cbc.ca/player/play/9.7373610?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "Scientist and physician Dr. Karl Deisseroth tells The National about the moment his kids lost it with excitement when he told them he had won the 2026 Nobel Prize in Physiology or Medicine.",
-      "published": "2026-10-07T22:04:16+00:00"
-    },
-    {
-      "title": "He spent years cataloguing orca families' unique dialects. Now you can hear them",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/bc-orca-sound-catalogue-9.7373423?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "A new online database catalogues the unique calls made by various groups of orcas on the West Coast, making the audio available to anyone.",
-      "published": "2026-10-07T21:43:06+00:00"
-    },
-    {
-      "title": "Québec tech’s stress goes beyond separation",
-      "link": "https://betakit.com/quebec-techs-stress-goes-beyond-separation/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Plus: The Canadian companies trying to fill Starlink’s void. The post Québec tech’s stress goes beyond separation first appeared on BetaKit.",
-      "published": "2026-10-07T21:00:00+00:00"
-    },
-    {
-      "title": "How did a 3.5 tonne buoy from Nova Scotia end up in Ireland? | Hanomansing Live",
-      "link": "https://www.cbc.ca/player/play/9.7373555?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "Officials in northwestern Ireland say they’ve recovered a large Canadian buoy that floated from Nova Scotia across the Atlantic Ocean and washed up on a coastal island.",
-      "published": "2026-10-07T20:54:06+00:00"
-    },
-    {
-      "title": "Eva Marie Saint, Oscar winner and star of ‘On the Waterfront’ dead at 102",
-      "link": "https://globalnews.ca/news/12091158/eva-marie-saint-dead/",
-      "source": "Global News",
-      "category": "entertainment",
-      "summary": "Saint's acting debut in 'On the Waterfront' alongside Marlon Brando was one of the most successful in Hollywood history, propelling the then 34-year-old actor to stardom.",
-      "published": "2026-10-07T20:07:48+00:00"
-    },
-    {
-      "title": "Edmonton Unlimited announces Deep Tech Foundry program at Startup Week",
-      "link": "https://betakit.com/edmonton-unlimited-announces-deep-tech-foundry-program-at-startup-week/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "New program will launch in 2027 to tackle the unique challenges of commercializing deep tech. The post Edmonton Unlimited announces Deep Tech Foundry program at Startup Week first appeared on BetaKit.",
-      "published": "2026-10-07T19:43:08+00:00"
-    },
-    {
-      "title": "Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia",
-      "link": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Startup aims to provide the real-world training data required to deploy robots. The post Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia first appeared on BetaKit.",
-      "published": "2026-10-07T19:27:29+00:00"
-    },
-    {
-      "title": "Dolly Parton’s nephew accused of using barbed wire to evade being served",
-      "link": "https://globalnews.ca/news/12091253/dolly-partons-nephew-accused-of-using-barbed-wire-to-evade-being-served/",
-      "source": "Global News",
-      "category": "entertainment",
-      "summary": "Bryan Seaver, who announced the country singer's death in August in a social media video, had filed a motion asking for the hearing to be delayed 10 days.",
-      "published": "2026-10-07T19:20:08+00:00"
-    },
-    {
-      "title": "BioRender launches AI agent for building scientific research images",
-      "link": "https://betakit.com/biorender-launches-ai-agent-for-building-scientific-research-images/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Software startup aims to offer a more accurate alternative to general-purpose AI. The post BioRender launches AI agent for building scientific research images first appeared on BetaKit.",
-      "published": "2026-10-07T19:11:51+00:00"
-    },
-    {
-      "title": "AI in engineering is moving toward a new operating model",
-      "link": "https://betakit.com/ai-in-engineering-is-moving-toward-a-new-operating-model/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Dedicatted’s AI-DLC work shows how engineering teams can bring AI into testing, deployment, and operations. The post AI in engineering is moving toward a new operating model first appeared on BetaKit.",
-      "published": "2026-10-07T18:00:00+00:00"
-    },
-    {
-      "title": "Halle Berry accuses ex-husband Olivier Martinez of turning son against her",
-      "link": "https://globalnews.ca/news/12091106/halle-berry-accuses-olivier-martinez-of-turning-son-against-her/",
-      "source": "Global News",
-      "category": "entertainment",
-      "summary": "Halle Berry's legal filing comes after Olivier Martinez filed for sole custody and a domestic violence restraining order against the actor on Oct. 1.",
-      "published": "2026-10-07T17:06:44+00:00"
-    },
-    {
-      "title": "The winter Olympic sports season is upon us — here's a quick guide",
-      "link": "https://www.cbc.ca/sports/the-buzzer-newsletter-winter-olympic-sports-season-preview-9.7373144?cmp=rss",
-      "source": "CBC Sports",
-      "category": "sports",
-      "summary": "CBC Sports' daily newsletter walks you through what's coming up as various winter Olympic sports get going over the next few weeks.",
-      "published": "2026-10-07T16:39:37+00:00"
     }
   ]
 }
