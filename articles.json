@@ -1,14 +1,390 @@
 {
-  "generated_at": "2026-11-17T22:07:23.819188+00:00",
-  "article_count": 247,
+  "generated_at": "2026-11-18T10:07:26.435278+00:00",
+  "article_count": 248,
   "articles": [
     {
-      "title": "3 exemptions added to new Alberta driver’s licence rules amid renewal headaches",
-      "link": "https://globalnews.ca/news/12154990/alberta-drivers-licence-rules-three-exemptions/",
+      "title": "Raptors still struggling in fourth quarter",
+      "link": "https://globalnews.ca/news/12155952/raptors-still-struggling-in-fourth-quarter/",
       "source": "Global News",
       "category": "canada",
-      "summary": "Exemptions will be considered for long-established Albertans with historical document issues, those with 'exceptional hardships' and people waiting on the federal government.",
-      "published": "2026-11-17T21:55:07+00:00"
+      "summary": "Twice the Toronto Raptors held fourth-quarter leads over the reigning NBA champion New York Knicks and twice they lost.",
+      "published": "2026-11-18T10:01:19+00:00"
+    },
+    {
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "published": "2026-11-18T09:28:35+00:00"
+    },
+    {
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "published": "2026-11-18T09:27:51+00:00"
+    },
+    {
+      "title": "Air India Express Names Finance Chief as CEO to Turn Growth Into Profit",
+      "link": "https://skift.com/2026/11/18/air-india-express-names-finance-chief-as-ceo-to-turn-growth-into-profit/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Air India and Air India Express now both have new CEOs, and the group’s transformation looks steadier for it. The harder test is whether the new leaders can cut losses that are still running in the billions.",
+      "published": "2026-11-18T09:19:54+00:00"
+    },
+    {
+      "title": "Climate Change Could Squeeze a Third of Tourist Destinations by 2050",
+      "link": "https://skift.com/2026/11/18/climate-change-could-squeeze-a-third-of-tourist-destinations-by-2050/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Climate change won’t just bring more extreme weather. It will shorten the seasons and change the activities many destinations are built on. Operators should be planning now for shoulder seasons and cooler-hour…",
+      "published": "2026-11-18T09:01:00+00:00"
+    },
+    {
+      "title": "Canada’s economy could gain billions if more businesses pushed past $3 million in revenue: report",
+      "link": "https://betakit.com/canadas-economy-could-gain-billions-if-more-businesses-pushed-past-3-million-in-revenue-report/",
+      "source": "BetaKit",
+      "category": "technology",
+      "summary": "Small businesses on the cusp should look at mergers and new tech to become more productive, BDC economist says. The post Canada’s economy could gain billions if more businesses pushed past $3 million in revenue: report…",
+      "published": "2026-11-18T09:00:00+00:00"
+    },
+    {
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "published": "2026-11-18T08:47:06+00:00"
+    },
+    {
+      "title": "People asked for views on blue brook pollution",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
+      "published": "2026-11-18T08:37:02+00:00"
+    },
+    {
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "published": "2026-11-18T07:48:18+00:00"
+    },
+    {
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "published": "2026-11-18T07:00:25+00:00"
+    },
+    {
+      "title": "Boucher thrilled to score winner in NHL debut",
+      "link": "https://globalnews.ca/news/12155884/boucher-thrilled-to-score-winner-in-nhl-debut/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Tyler Boucher tried not to smile after he scored his first NHL goal on Tuesday.",
+      "published": "2026-11-18T06:26:34+00:00"
+    },
+    {
+      "title": "Conservationists searching for large river eels",
+      "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+      "published": "2026-11-18T06:19:28+00:00"
+    },
+    {
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+      "published": "2026-11-18T06:12:44+00:00"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "published": "2026-11-18T06:04:21+00:00"
+    },
+    {
+      "title": "Fajardo tells fans he may stay with champion Elks",
+      "link": "https://globalnews.ca/news/12155876/fajardo-tells-fans-he-may-stay-with-champion-elks/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "Star Edmonton Elks quarterback Cody Fajardo teased to hundreds of fans celebrating the team's Grey Cup victory Tuesday that he might be staying put in the City of Champions.",
+      "published": "2026-11-18T05:52:42+00:00"
+    },
+    {
+      "title": "Fajardo tells fans he may stay with champion Elks",
+      "link": "https://globalnews.ca/news/12155876/fajardo-tells-fans-he-may-stay-with-champion-elks/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Star Edmonton Elks quarterback Cody Fajardo teased to hundreds of fans celebrating the team's Grey Cup victory Tuesday that he might be staying put in the City of Champions.",
+      "published": "2026-11-18T05:52:42+00:00"
+    },
+    {
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "published": "2026-11-18T05:10:02+00:00"
+    },
+    {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "published": "2026-11-18T04:57:06+00:00"
+    },
+    {
+      "title": "Airlines Race to Keep Up With Vietnam’s Indian Travel Boom",
+      "link": "https://skift.com/2026/11/17/airlines-race-to-keep-up-with-vietnams-indian-travel-boom/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Indian arrivals to Vietnam are growing more than twice as fast as the overall market, and Vietnamese carriers are chasing that demand into cities like Ahmedabad. Seats alone won’t lock it in, though. Vietnam still needs…",
+      "published": "2026-11-18T04:31:02+00:00"
+    },
+    {
+      "title": "Saskatoon bus riders worry 10-minute rapid transit service promise is slipping",
+      "link": "https://globalnews.ca/news/12155423/saskatoon-bus-riders-worry-10-minute-rapid-transit-service-promise-is-slipping/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Saskatoon's transit director says 10-minute bus rapid transit service is not off the table as network redesign options show more infrequent service than previously promised.",
+      "published": "2026-11-18T04:20:59+00:00"
+    },
+    {
+      "title": "What the U.S. might learn from Canada's privatized air traffic control",
+      "link": "https://www.cbc.ca/news/world/air-traffic-control-nav-canada-9.7425458?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "It's not often that commentators from the U.S. political right will look to Canada as a model for how their country should run a particular function. Yet the grounding of thousands of flights days ago has sparked…",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
+      "link": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or…",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
+      "link": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Fatal police shootings in Nunavik shattered trust. Can these new intervention teams help?",
+      "link": "https://www.cbc.ca/news/canada/montreal/saqijuq-mobile-intervention-team-kuujjuaq-quebec-police-nunavik-9.7425441?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Saqijuq's Mobile Intervention Team (MIT) in Kuujjuaq is pairing intervention workers with officers in an effort to reduce police involvement, arrests and use of force. It comes on the heels of years of distrust between…",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
+      "link": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
+      "link": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
+      "source": "CBC News",
+      "category": "politics",
+      "summary": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Klook’s AI Agent Handles the Admin, but Operators Want Help Selling",
+      "link": "https://skift.com/2026/11/17/klooks-ai-agent-handles-the-admin-but-operators-want-help-selling/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Klook’s K.ai doesn’t just advise small operators. It makes the changes for them, and an early user says it is already saving time. The bigger payoff, for operators and for Klook, could come from the tools still in…",
+      "published": "2026-11-18T04:00:00+00:00"
+    },
+    {
+      "title": "Raptors fall to Knicks for fifth straight loss",
+      "link": "https://globalnews.ca/news/12155709/raptors-fall-to-knicks-for-fifth-straight-loss/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Jalen Brunson drilled a three-pointer with 1:25 left to play as the New York Knicks escaped with a 111-102 win over the Toronto Raptors on Tuesday for the second game in a row.",
+      "published": "2026-11-18T03:07:57+00:00"
+    },
+    {
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "published": "2026-11-18T03:07:22+00:00"
+    },
+    {
+      "title": "The Curator: 8 best beauty advent calendars for 2026",
+      "link": "https://globalnews.ca/the-curator/12119371/beauty-advent-calendars/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Shop the best beauty advent calendars of 2026, filled with skincare, makeup, bath treats and more from Lush, Laneige, Grace & Stella and more.",
+      "published": "2026-11-18T02:56:07+00:00"
+    },
+    {
+      "title": "Boucher nets winner as Senators sink Jets 2-1",
+      "link": "https://globalnews.ca/news/12155683/boucher-nets-winner-as-senators-sink-jets-2-1/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Tyler Boucher scored the game-winner in his NHL debut to lift the Ottawa Senators to a 2-1 victory over the Winnipeg Jets on Tuesday.",
+      "published": "2026-11-18T02:52:53+00:00"
+    },
+    {
+      "title": "6-game win streak snapped as Winnipeg Jets fall 2-1 at home to Ottawa",
+      "link": "https://globalnews.ca/news/12155483/six-game-win-streak-snapped-as-winnipeg-jets-fall-2-1-at-home-to-ottawa/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Viggo Björck's first NHL goal was the lone marker for the Jets as they were unable to dig themselves out of a 2-0 deficit.",
+      "published": "2026-11-18T02:50:09+00:00"
+    },
+    {
+      "title": "The Curator: Escaping winter? These suitcases are ready for takeoff",
+      "link": "https://globalnews.ca/news/12153098/escaping-winter-these-suitcases-are-ready-for-takeoff/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "From pretty carry-ons to spacious checked luggage, we've rounded up travel-ready styles from Monos, Lojel, Samsonite and more.",
+      "published": "2026-11-18T02:35:15+00:00"
+    },
+    {
+      "title": "Accor’s $1.8 Billion Ennismore Buyout Tops 4 Rival Lifestyle Deals Combined",
+      "link": "https://skift.com/2026/11/17/accors-1-8-billion-ennismore-buyout-tops-4-rival-lifestyle-deals-combined/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Hotel groups have spent years buying lifestyle brands. Accor just committed $1.8 billion to buyout the minority investors in its Ennismore joint venture. A comparison with past deals adds some enlightening context.",
+      "published": "2026-11-18T02:26:14+00:00"
+    },
+    {
+      "title": "2 people hurt in train derailment near Terrace",
+      "link": "https://globalnews.ca/news/12155617/2-people-hurt-train-derailment-terrace/",
+      "source": "Global News",
+      "category": "canada",
+      "summary": "Ashley Michnowski, a spokesperson for CN, said the derailment happened around 1:10 p.m., approximately 16 kilometres southwest of Terrace.",
+      "published": "2026-11-18T02:21:16+00:00"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "published": "2026-11-18T01:18:18+00:00"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "published": "2026-11-18T01:18:18+00:00"
+    },
+    {
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "published": "2026-11-18T00:44:48+00:00"
+    },
+    {
+      "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+      "link": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+      "source": "STAT News",
+      "category": "medical",
+      "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+      "published": "2026-11-18T00:44:05+00:00"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "technology",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "published": "2026-11-18T00:00:24+00:00"
+    },
+    {
+      "title": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
+      "link": "https://globalnews.ca/news/12155086/ontario-doug-ford-quebec-montreal-speech/",
+      "source": "Global News",
+      "category": "politics",
+      "summary": "The premier used the appearance to highlight the combined economic strength of Ontario and Quebec, describing the two provinces as Canada's economic drivers.",
+      "published": "2026-11-17T23:45:26+00:00"
+    },
+    {
+      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+      "published": "2026-11-17T23:34:56+00:00"
+    },
+    {
+      "title": "B.C. First Nation, Nanaimo Forest Products sign partnership agreement",
+      "link": "https://globalnews.ca/news/12155021/bc-first-nation-nanaimo-forest-products-partnership-agreement/",
+      "source": "Global News",
+      "category": "bc",
+      "summary": "The agreement involves Nanaimo Forest Products, which operates Harmac Pacific and has been operating in the Nation's territory for more than 75 years.",
+      "published": "2026-11-17T23:12:42+00:00"
+    },
+    {
+      "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
+      "link": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political…",
+      "published": "2026-11-17T22:56:54+00:00"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "world",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "published": "2026-11-17T22:46:30+00:00"
+    },
+    {
+      "title": "Marriott Bonvoy Sign-Ins Were Down for Hours",
+      "link": "https://skift.com/2026/11/17/marriott-bonvoy-sign-ins-were-down-for-hours-disrupting-mobile-keys/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Marriott’s website and app briefly blocked loyalty member log-ins Tuesday. The company says the outage wasn’t a cyberattack. United Airlines and many non-travel companies have suffered various tech disruptions in recent…",
+      "published": "2026-11-17T22:42:59+00:00"
+    },
+    {
+      "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+      "link": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "science",
+      "summary": "The incident took place in Llwyneinion in August 1980.",
+      "published": "2026-11-17T22:39:23+00:00"
+    },
+    {
+      "title": "Kayak Adds 28 AI Features, Letting Travelers Ask for the Cheapest Dates to Fly",
+      "link": "https://skift.com/2026/11/17/kayak-adds-28-ai-features-letting-travelers-ask-for-the-cheapest-dates-to-fly/",
+      "source": "Skift",
+      "category": "travel",
+      "summary": "Booking’s metasearch company is betting that live prices and comparison tools, not just conversations, will keep travelers from starting their search on Google or a chatbot.",
+      "published": "2026-11-17T22:12:03+00:00"
     },
     {
       "title": "Skift Aviation Forum 2026: Airlines Contend with Costs, Double Down on What Works",
@@ -19,36 +395,12 @@
       "published": "2026-11-17T21:54:01+00:00"
     },
     {
-      "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-      "published": "2026-11-17T21:45:13+00:00"
-    },
-    {
       "title": "Manitoba pledges to ban AI images in real estate",
       "link": "https://betakit.com/manitoba-pledges-to-ban-ai-images-in-real-estate/",
       "source": "BetaKit",
       "category": "technology",
       "summary": "Promise came as part of broader consumer protection plans outlined during Manitoba’s throne speech. The post Manitoba pledges to ban AI images in real estate first appeared on BetaKit.",
       "published": "2026-11-17T21:42:31+00:00"
-    },
-    {
-      "title": "Why are there so many huge outages right now? Some possible causes",
-      "link": "https://globalnews.ca/news/12154570/us-tech-outages-updates-disruptions/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "From the Microsoft outage to U.S. ground stop to online banking issues, many Canadians may be wondering: what the heck is going on?",
-      "published": "2026-11-17T21:39:53+00:00"
-    },
-    {
-      "title": "Pope Leo forgives person who hit him in the eye with a flying rosary",
-      "link": "https://globalnews.ca/news/12154958/pope-leo-hit-in-the-eye-with-rosary-peru/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "It is common for people to throw rosaries, stuffed toys, sports jerseys and other items towards the Pope when he is in the popemobile.",
-      "published": "2026-11-17T21:30:30+00:00"
     },
     {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -67,23 +419,23 @@
       "published": "2026-11-17T21:08:42+00:00"
     },
     {
-      "title": "Norwegian Cruise Line drops Halifax from select 2027 sailings, but port expects strong season",
-      "link": "https://globalnews.ca/news/12154560/norwegian-breakaway-cruise-halifax/",
-      "source": "Global News",
+      "title": "3 charged after attack sends 20-year-old Save-On-Foods employee to hospital",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-save-on-arrest-9.7425921?cmp=rss",
+      "source": "CBC News",
       "category": "canada",
-      "summary": "The changes affect select Norwegian Breakaway's seven-day Bermuda round-trip sailings from Boston, and will see passengers extending their stay in Bermuda instead.",
-      "published": "2026-11-17T21:07:09+00:00"
+      "summary": "The store's ownership group says the trio were attempting to shoplift $2,600 of groceries.",
+      "published": "2026-11-17T21:06:12+00:00"
     },
     {
-      "title": "What could more Chinese steel and aluminum mean for Canadians?",
-      "link": "https://globalnews.ca/news/12154965/what-could-more-chinese-steel-and-aluminum-mean-for-canadians/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "After a meeting between Prime Minister Mark Carney and Chinese President Xi Jinping, Ottawa said it would grant greater market access to more steel and aluminum items from China.",
-      "published": "2026-11-17T21:06:28+00:00"
+      "title": "3 charged after attack sends 20-year-old Save-On-Foods employee to hospital",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-save-on-arrest-9.7425921?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "The store's ownership group says the trio were attempting to shoplift $2,600 of groceries.",
+      "published": "2026-11-17T21:06:12+00:00"
     },
     {
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "world",
@@ -99,6 +451,14 @@
       "published": "2026-11-17T21:04:00+00:00"
     },
     {
+      "title": "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
+      "link": "https://www.cbc.ca/news/world/cambridge-dictionary-2026-word-of-the-year-9.7426019?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "The Cambridge Dictionary has chosen \"human\" as its word of the year, reflecting concerns about artificial intelligence.",
+      "published": "2026-11-17T21:02:44+00:00"
+    },
+    {
       "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
       "link": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
@@ -107,60 +467,12 @@
       "published": "2026-11-17T21:00:51+00:00"
     },
     {
-      "title": "Mistrial declared in trial of former Saskatoon massage therapist",
-      "link": "https://globalnews.ca/news/12154732/mistrial-declared-in-trial-of-former-saskatoon-massage-therapist/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "The courtroom filed with gasps and tears after hearing the declaration of a mistrial completely halting the jury trial for former massage therapist, 70, Kenneth Braun.",
-      "published": "2026-11-17T20:59:53+00:00"
-    },
-    {
-      "title": "Scientists find possible explanation for North Atlantic right whales’ low birth rates",
-      "link": "https://globalnews.ca/news/12155075/north-atlantic-right-whales-low-birth-rates/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Scientists are one step closer to understanding why the critically endangered population of North Atlantic right whales produces so few calves each year.",
-      "published": "2026-11-17T20:59:35+00:00"
-    },
-    {
-      "title": "Bill targeting fake, deceptive AI content introduced in Saskatchewan",
-      "link": "https://globalnews.ca/news/12155060/saskatchewan-fake-ai-bill-introduced/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "The government of Saskatchewan has introduced a bill to address the deceptive and illegal use of AI to mislead the public Tuesday.",
-      "published": "2026-11-17T20:58:52+00:00"
-    },
-    {
-      "title": "Nova Scotia hosting three virtual information sessions on AI data centres this week",
-      "link": "https://globalnews.ca/news/12155063/nova-scotia-virtual-information-sessions-ai-data-centres/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "The Nova Scotia government is hosting virtual information sessions this week to answer questions about AI data centres.",
-      "published": "2026-11-17T20:56:16+00:00"
-    },
-    {
-      "title": "Cadet captain paralyzed from waist down after Hamilton attack",
-      "link": "https://globalnews.ca/news/12155018/cadet-captain-paralyzed-from-waist-down-after-hamilton-attack/",
-      "source": "Global News",
-      "category": "canada",
-      "summary": "Police have said the Nov. 8 attack stemmed from a confrontation over the harassment of young cadets selling Remembrance Day poppies.",
-      "published": "2026-11-17T20:50:47+00:00"
-    },
-    {
       "title": "Fraud lawsuit against Selena Gomez’s mental health startup dismissed",
       "link": "https://globalnews.ca/news/12154633/fraud-lawsuit-against-selena-gomezs-wondermind-dismissed/",
       "source": "Global News",
       "category": "entertainment",
       "summary": "In August, Selena Gomez and her mother were accused of allegedly deceiving investors of their mental health startup Wondermind to continue funding the company.",
       "published": "2026-11-17T20:45:53+00:00"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "published": "2026-11-17T20:44:54+00:00"
     },
     {
       "title": "Accessibility isn’t “a niche problem,” says organizer of inaugural assistive tech conference",
@@ -193,6 +505,14 @@
       "category": "travel",
       "summary": "Booking Holdings’ newest AI agent can now transact to book hotels, flights, and other trip arrangements. But Vayo's ability to complete reservations depends on supplier sites.",
       "published": "2026-11-17T20:29:29+00:00"
+    },
+    {
+      "title": "Snuneymuxw First Nation, Nanaimo Forest Products sign partnership agreement",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/snuneymuxw-nfp-sign-landmark-agreement-9.7425891?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "A new partnership has been struck between the Snuneymuxw First Nation and Nanaimo Forest Products, which leaders are calling a milestone agreement.",
+      "published": "2026-11-17T20:20:30+00:00"
     },
     {
       "title": "Filipino BC calls for audit of Lapu Lapu tragedy response compared to Tumbler Ridge",
@@ -235,7 +555,15 @@
       "published": "2026-11-17T19:25:17+00:00"
     },
     {
-      "title": "3 youths arrested in connection with alleged assault of young girl shared on social media",
+      "title": "Elks celebrate 1st Grey Cup championship in more than a decade",
+      "link": "https://www.cbc.ca/news/canada/edmonton/grey-cup-edmonton-elks-2026-parade-9.7425862?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Edmonton Elks players hoisted a sign saying “City of Champions” in front of thousands of fans wearing green and gold at the Expo Centre on Tuesday evening to celebrate the football club’s first Grey Cup championship…",
+      "published": "2026-11-17T18:59:13+00:00"
+    },
+    {
+      "title": "‘Blood-boiling’: Guardian of young victim in B.C. assault video decries violence",
       "link": "https://globalnews.ca/news/12154539/3-youths-arrested-alleged-assault-young-girl-social-media-video-chilliwack/",
       "source": "Global News",
       "category": "bc",
@@ -251,20 +579,12 @@
       "published": "2026-11-17T18:50:23+00:00"
     },
     {
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "published": "2026-11-17T18:27:27+00:00"
-    },
-    {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "published": "2026-11-17T18:24:21+00:00"
+      "title": "Officer said he worried about 'grievous bodily harm or death' from Myles Gray",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/myles-gray-public-hearing-nov-17-9.7425725?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "Const. Nick Thompson testified Tuesday about the fatal confrontation between police and Myles Gray at a public hearing where the officer faces allegations of abuse of authority for his use of force.",
+      "published": "2026-11-17T18:34:19+00:00"
     },
     {
       "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
@@ -283,20 +603,20 @@
       "published": "2026-11-17T18:20:36+00:00"
     },
     {
+      "title": "Nicholas Herring's Giller Prize win a 'huge opportunity' for P.E.I. authors, says literary community",
+      "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nicholas-herring-giller-prize-literary-community-9.7425625?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "After a Prince Edward Island author won Canada's most prestigious prize for literature, the province's literary community says it could mean more opportunities for writers here at home.",
+      "published": "2026-11-17T18:16:45+00:00"
+    },
+    {
       "title": "S&P/TSX composite down more than 300 points, U.S. stock markets also lower",
       "link": "https://www.moneysense.ca/news/canada-stock-index-tsx-us-market-nov-1-2026/",
       "source": "MoneySense",
       "category": "markets",
       "summary": "Canada's main stock index S&P/TSX composite is down by 300 points while U.S. markets also slip. Find out more. The post S&P/TSX composite down more than 300 points, U.S. stock markets also lower appeared first on…",
       "published": "2026-11-17T18:15:50+00:00"
-    },
-    {
-      "title": "Accor to Buy Out Ennismore Partners for $1.8 Billion — No IPO for Now",
-      "link": "https://skift.com/2026/11/17/accor-to-buy-out-ennismore-partners-for-1-8-billion-no-ipo-for-now/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Accor is paying up to own its fastest-growing business outright rather than list it now. The valuation is more than double what Ennismore was worth four years ago.",
-      "published": "2026-11-17T18:15:25+00:00"
     },
     {
       "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
@@ -307,12 +627,52 @@
       "published": "2026-11-17T18:14:50+00:00"
     },
     {
+      "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors",
+      "link": "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "Nvidia board chair Harvey Jones opened an investor conference call on Tuesday by saying the AI chip company would ‌not rehire co-founder Jensen Huang as CEO and would not take questions on the matter.",
+      "published": "2026-11-17T17:56:59+00:00"
+    },
+    {
+      "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors",
+      "link": "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620?cmp=rss",
+      "source": "CBC News",
+      "category": "markets",
+      "summary": "Nvidia board chair Harvey Jones opened an investor conference call on Tuesday by saying the AI chip company would ‌not rehire co-founder Jensen Huang as CEO and would not take questions on the matter.",
+      "published": "2026-11-17T17:56:59+00:00"
+    },
+    {
       "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
       "link": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
       "source": "STAT News",
       "category": "medical",
       "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH.",
       "published": "2026-11-17T17:49:24+00:00"
+    },
+    {
+      "title": "Man found in burning vehicle in Langley identified by police",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/langley-burning-vehicle-victim-9.7425702?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "The victim has now been identified as 25-year-old Tushar Sharma of Surrey, who police say did not have a criminal record and had \"limited known\" contacts in Canada.",
+      "published": "2026-11-17T17:48:29+00:00"
+    },
+    {
+      "title": "Filipino B.C. calls on auditor general to examine response to Lapu-Lapu Day tragedy",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/filipino-bc-auditor-general-lapu-lapu-day-tragedy-9.7425629?cmp=rss",
+      "source": "CBC News",
+      "category": "bc",
+      "summary": "In the wake of the tragedy, in which a number of people were killed after a car-ramming at a community festival in April 2025, Filipino B.C. said it had to shoulder much of the community response, which should've been…",
+      "published": "2026-11-17T17:39:50+00:00"
+    },
+    {
+      "title": "Oprah Winfrey names book by Ontario-born author as her latest book club pick",
+      "link": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Previous Canadian books featured on Oprah’s Book Club include A Fine Balance by Rohinton Mistry and Fall on Your Knees by Ann-Marie Macdonald.",
+      "published": "2026-11-17T17:28:11+00:00"
     },
     {
       "title": "Physical AI company Promise Robotics announces $40-million Series B round",
@@ -331,12 +691,36 @@
       "published": "2026-11-17T17:19:57+00:00"
     },
     {
+      "title": "Multiple tech outages have Americans asking: Can somebody fix this?",
+      "link": "https://www.cbc.ca/news/world/outages-faa-banks-microsoft-nsa-are-they-related-9.7425366?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "First, Microsoft Outlook goes down. Next, flights are grounded across the U.S. over a communications outage. Then, customers of three major U.S. banks can't access their accounts online. Finally, the agency whose…",
+      "published": "2026-11-17T17:18:44+00:00"
+    },
+    {
+      "title": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
+      "link": "https://www.cbc.ca/news/world/faa-airport-ground-stop-routers-installation-halted-9.7425635?cmp=rss",
+      "source": "CBC News",
+      "category": "world",
+      "summary": "The U.S. Federal Aviation Administration has paused installing routers linked to last week's ground stop that caused chaos for travellers, the agency said Tuesday.",
+      "published": "2026-11-17T17:17:13+00:00"
+    },
+    {
       "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
       "link": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
       "source": "STAT News",
       "category": "medical",
       "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
       "published": "2026-11-17T17:05:10+00:00"
+    },
+    {
+      "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
+      "link": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "As Opposition MPs call for more study, the Liberal government has limited debate on its proposed changes to Canada's medical assistance in dying law.",
+      "published": "2026-11-17T17:05:09+00:00"
     },
     {
       "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
@@ -355,7 +739,7 @@
       "published": "2026-11-17T17:00:00+00:00"
     },
     {
-      "title": "Federal government waives $4.5B of debt on COVID-19 benefits sent to ineligible recipients",
+      "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
       "link": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445?cmp=rss",
       "source": "CBC News",
       "category": "canada",
@@ -363,7 +747,7 @@
       "published": "2026-11-17T16:52:34+00:00"
     },
     {
-      "title": "Federal government waives $4.5B of debt on COVID-19 benefits sent to ineligible recipients",
+      "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
       "link": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445?cmp=rss",
       "source": "CBC News",
       "category": "politics",
@@ -435,7 +819,7 @@
       "published": "2026-11-17T16:22:33+00:00"
     },
     {
-      "title": "An SNL sketch about caregiving has gone viral. B.C. caregivers explain why",
+      "title": "An SNL sketch about elder care has gone viral. B.C. caregivers explain why",
       "link": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423?cmp=rss",
       "source": "CBC News",
       "category": "medical",
@@ -443,7 +827,7 @@
       "published": "2026-11-17T16:22:33+00:00"
     },
     {
-      "title": "An SNL sketch about caregiving has gone viral. B.C. caregivers explain why",
+      "title": "An SNL sketch about elder care has gone viral. B.C. caregivers explain why",
       "link": "https://www.cbc.ca/news/canada/british-columbia/snl-sister-sketch-9.7425423?cmp=rss",
       "source": "CBC News",
       "category": "bc",
@@ -467,11 +851,19 @@
       "published": "2026-11-17T16:07:21+00:00"
     },
     {
-      "title": "CN Rail incident closes Highway 16 between Terrace and Prince Rupert",
+      "title": "2 hospitalized after CN Rail train derails into Skeena River near Terrace, B.C.",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535?cmp=rss",
+      "source": "CBC News",
+      "category": "canada",
+      "summary": "Police say injuries are not life-threatening and cleanup is underway.",
+      "published": "2026-11-17T16:06:04+00:00"
+    },
+    {
+      "title": "2 hospitalized after CN Rail train derails into Skeena River near Terrace, B.C.",
       "link": "https://www.cbc.ca/news/canada/british-columbia/cn-rail-highway-16-terrace-prince-rupert-9.7425535?cmp=rss",
       "source": "CBC News",
       "category": "bc",
-      "summary": "Police, fire and ambulance are responding to an \"incident involving CN Rail\" west of Terrace that's closed the major connecting highway for the region.",
+      "summary": "Police say injuries are not life-threatening and cleanup is underway.",
       "published": "2026-11-17T16:06:04+00:00"
     },
     {
@@ -481,14 +873,6 @@
       "category": "world",
       "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
       "published": "2026-11-17T15:54:15+00:00"
-    },
-    {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "published": "2026-11-17T15:38:10+00:00"
     },
     {
       "title": "Canada's national emergency alert system will sound off Wednesday for testing",
@@ -505,14 +889,6 @@
       "category": "markets",
       "summary": "Canada's inflation rate held steady in October as higher prices for gas, groceries, and clothes were partly offset by cheaper cellphone plans and slower rent growth. The post Higher gas, grocery prices keep inflation…",
       "published": "2026-11-17T15:32:50+00:00"
-    },
-    {
-      "title": "The Multi-Billion-Dollar Loyalty Mirage: Why We Still Don’t Know What Airline Cards Really Earn",
-      "link": "https://skift.com/2026/11/17/the-multi-billion-dollar-loyalty-mirage-why-we-still-dont-know-what-airline-cards-really-earn/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "United CEO Scott Kirby says investors overestimate airline credit-card profits, but filings from United, Delta, and American show substantial loyalty-program cash flows without establishing what the bank deals actually…",
-      "published": "2026-11-17T15:29:30+00:00"
     },
     {
       "title": "Parents hitting you up for cash? How to help family without sacrificing your future",
@@ -545,14 +921,6 @@
       "category": "technology",
       "summary": "NordSpace & Canada Rocket Company CEOs explain how a Falcon 9 ride-share pullback could catalyze our nation's sovereign space goals. The post How Canada gets to space on its own terms first appeared on BetaKit.",
       "published": "2026-11-17T14:56:39+00:00"
-    },
-    {
-      "title": "Skift Commerce Summit 2026: Balancing Trust, Access, and Control in the Traveler Relationship",
-      "link": "https://skift.com/2026/11/17/skift-commerce-summit-2026-balancing-trust-access-and-control-in-the-traveler-relationship/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Travel companies are now being forced to decide which parts of the customer relationship to pursue directly while allowing and even enabling intermediaries to have more control of the journey.",
-      "published": "2026-11-17T14:51:03+00:00"
     },
     {
       "title": "Calgary high school says too many students are getting food delivered",
@@ -606,14 +974,6 @@
       "title": "Canada has extended and expanded its deal with China. Here's how it affects different sectors",
       "link": "https://www.cbc.ca/news/politics/china-canada-tariffs-deal-extended-expanded-trade-pork-seafood-9.7424993?cmp=rss",
       "source": "CBC News",
-      "category": "canada",
-      "summary": "Prime Minister Mark Carney and Chinese President Xi Jinping agreed to deepen economic and trade ties at a bilateral meeting in Shenzhen, China, on Tuesday, expanding a tariff deal to include relief on Canadian exports…",
-      "published": "2026-11-17T13:52:05+00:00"
-    },
-    {
-      "title": "Canada has extended and expanded its deal with China. Here's how it affects different sectors",
-      "link": "https://www.cbc.ca/news/politics/china-canada-tariffs-deal-extended-expanded-trade-pork-seafood-9.7424993?cmp=rss",
-      "source": "CBC News",
       "category": "markets",
       "summary": "Prime Minister Mark Carney and Chinese President Xi Jinping agreed to deepen economic and trade ties at a bilateral meeting in Shenzhen, China, on Tuesday, expanding a tariff deal to include relief on Canadian exports…",
       "published": "2026-11-17T13:52:05+00:00"
@@ -625,14 +985,6 @@
       "category": "world",
       "summary": "The Ministry of Justice in the U.K. is investigating whether comedian and convicted rapist Russell Brand is guilty of breaking prison rules after his wife shared a message from Brand on his YouTube channel claiming his…",
       "published": "2026-11-17T13:51:41+00:00"
-    },
-    {
-      "title": "New middle-class tax cut coming next year, Manitoba government says in throne speech",
-      "link": "https://www.cbc.ca/news/canada/manitoba/manitoba-2026-throne-speech-tax-cut-9.7425154?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Manitoba's NDP government is promising a \"broad middle-class tax cut,\" free shingles vaccinations for seniors and a new crime unit targeting fraud and corruption.",
-      "published": "2026-11-17T13:39:41+00:00"
     },
     {
       "title": "NIH’s infectious disease unit has a new head at last",
@@ -651,36 +1003,12 @@
       "published": "2026-11-17T13:21:23+00:00"
     },
     {
-      "title": "IN PHOTOS | Grand Theft Auto VI ads hit the streets",
-      "link": "https://www.cbc.ca/news/entertainment/in-photos-grand-theft-auto-vi-ads-hit-the-streets-9.7424918?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Grand Theft Auto VI is set to release on Thursday, marking a return to the neon-lit streets of Vice City. Check out the scenes here and abroad as fan excitement builds for the next instalment in the video game series.",
-      "published": "2026-11-17T13:13:40+00:00"
-    },
-    {
       "title": "Who pays when climate disasters strike?",
       "link": "https://www.cbc.ca/player/play/9.7423993?cmp=rss",
       "source": "CBC News",
       "category": "world",
       "summary": "Nepal has become the first country to have funding provisionally set aside from the UN's Fund for Responding to Loss and Damage following devastating flooding. But Nepal needs billions to rebuild, and the fund has set…",
       "published": "2026-11-17T13:08:41+00:00"
-    },
-    {
-      "title": "Hamilton police investigate after witnesses report group shouting pro-Nazi comments at demonstration",
-      "link": "https://www.cbc.ca/news/canada/hamilton/hamilton-police-white-supremacist-demonstration-downtown-9.7423811?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Hamilton police are investigating after receiving reports that a group of about 20 to 25 people dressed in black and wearing masks were shouting pro-Nazi comments at a downtown demonstration Saturday.",
-      "published": "2026-11-17T12:31:16+00:00"
-    },
-    {
-      "title": "WNBA commissioner search underway with Cathy Engelbert to retire at year's end",
-      "link": "https://www.cbc.ca/sports/basketball/wnba-commissioner-search-underway-with-cathy-engelbert-to-retire-at-year-s-end-9.7425196?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "The search for a successor to WNBA commissioner Cathy Engelbert is well underway with more than a dozen candidates in the mix so far.",
-      "published": "2026-11-17T12:15:54+00:00"
     },
     {
       "title": "WNBA commissioner search underway with Cathy Engelbert to retire at year's end",
@@ -731,31 +1059,7 @@
       "published": "2026-11-17T12:00:00+00:00"
     },
     {
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-      "published": "2026-11-17T11:58:16+00:00"
-    },
-    {
-      "title": "Russian figure skaters out of Grand Prix event due to Finland's ban on Russian athletes",
-      "link": "https://www.cbc.ca/sports/olympics/winter/figure-skating/figure-skating-finland-russia-ban-update-9.7424974?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "Seven Russian figure skaters have been withdrawn from a Grand Prix event in Finland this week after the Finnish government barred Russian athletes from entering the country, the Russian Figure Skating Federation said…",
-      "published": "2026-11-17T11:55:51+00:00"
-    },
-    {
-      "title": "The U.S. has officially lost its measles elimination status",
-      "link": "https://www.cbc.ca/news/health/u-s-loses-measles-elimination-status-9.7425114?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "After a deadly year for measles outbreaks, the U.S. has officially lost its measles elimination status, more than a quarter of a century after it first achieved the distinction. The news comes after Canada lost its…",
-      "published": "2026-11-17T11:55:51+00:00"
-    },
-    {
-      "title": "The U.S. has officially lost its measles elimination status",
+      "title": "The U.S. has officially lost its measles elimination status amid worst outbreak in 35 years",
       "link": "https://www.cbc.ca/news/health/u-s-loses-measles-elimination-status-9.7425114?cmp=rss",
       "source": "CBC News",
       "category": "medical",
@@ -777,22 +1081,6 @@
       "category": "technology",
       "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
       "published": "2026-11-17T11:49:01+00:00"
-    },
-    {
-      "title": "Ontario secondary school teachers vote 96% in favor of strike mandate",
-      "link": "https://www.cbc.ca/news/canada/toronto/ontario-secondary-teachers-vote-in-favor-strike-mandate-9.7425118?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.",
-      "published": "2026-11-17T11:44:35+00:00"
-    },
-    {
-      "title": "Stolen 120-year-old church bell found discarded in rural Manitoba ditch",
-      "link": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-found-9.7424855?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "A heavy church bell stolen from the top of a belfry in rural Manitoba has been found abandoned in a ditch.",
-      "published": "2026-11-17T11:44:34+00:00"
     },
     {
       "title": "TC Energy plans Alberta pipeline expansion to serve natural gas demand",
@@ -819,36 +1107,12 @@
       "published": "2026-11-17T11:33:28+00:00"
     },
     {
-      "title": "South Korea to check student collars, eyeglasses at university entrance exams after cheating admission",
-      "link": "https://www.cbc.ca/news/world/south-korea-exam-anti-cheating-measures-9.7424889?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "South Korea will tighten checks on students taking the high-stakes national university entrance exam this week, Prime Minister Han Seong-sook said, after a candidate in another test confessed to using a hidden ​camera…",
-      "published": "2026-11-17T11:30:13+00:00"
-    },
-    {
-      "title": "LNG Canada wants to flare roughly 10-times its limit, but environmental health experts are pushing back",
+      "title": "LNG Canada wants to flare roughly 10 times its limit, but environmental health experts are pushing back",
       "link": "https://www.cbc.ca/news/canada/british-columbia/lng-canada-flaring-limit-9.7424624?cmp=rss",
       "source": "CBC News",
       "category": "bc",
       "summary": "LNG Canada has submitted an application to increase its combined routine flare limit by roughly tenfold at its facility in Kitimat, B.C.",
       "published": "2026-11-17T11:30:00+00:00"
-    },
-    {
-      "title": "Construction Delays and Exits Force Hotel Giants to Cut Room Growth Forecasts",
-      "link": "https://skift.com/2026/11/17/construction-delays-and-exits-force-hotel-giants-to-cut-room-growth-forecasts/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Record pipelines aren't translating into the net room growth that major hotel groups had forecast, and 2027 isn't looking much better, as a whole.",
-      "published": "2026-11-17T11:30:00+00:00"
-    },
-    {
-      "title": "Dubai Airport Heads for 26% Traffic Drop as Nearly Half Its Airlines Stay Away",
-      "link": "https://skift.com/2026/11/17/dubai-airport-heads-for-26-traffic-drop-as-nearly-half-its-airlines-stay-away/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Dubai International can’t recover on its home airlines alone. Every month foreign carriers stay away, rival hubs keep more of the transfer traffic DXB used to own.",
-      "published": "2026-11-17T11:28:49+00:00"
     },
     {
       "title": "Highland Valley Copper ordered to stop using replacement workers to do job of striking employees",
@@ -987,22 +1251,6 @@
       "published": "2026-11-17T09:00:00+00:00"
     },
     {
-      "title": "Carbon Bills Climb for Europe’s Airlines as Free Permits End",
-      "link": "https://skift.com/2026/11/17/carbon-bills-climb-for-europes-airlines-as-free-permits-end/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "Emissions and SAF costs are now a standing line in European airlines’ results, arriving while fuel prices are already high. The question for 2027 is how much they can pass on to passengers.",
-      "published": "2026-11-17T08:50:52+00:00"
-    },
-    {
-      "title": "Former Nvidia CEO Jensen Huang signals willingness to return as CEO",
-      "link": "https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "The former CEO of the top AI chipmaker who resigned last week amid a spying scandal said he \"would be honoured\" ‌to come back as CEO if the board decided his return would be in the best interest of shareholders and…",
-      "published": "2026-11-17T08:30:31+00:00"
-    },
-    {
       "title": "Former Nvidia CEO Jensen Huang signals willingness to return as CEO",
       "link": "https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss",
       "source": "CBC News",
@@ -1025,14 +1273,6 @@
       "category": "science",
       "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
       "published": "2026-11-17T08:01:38+00:00"
-    },
-    {
-      "title": "Drivers line up as fuel price briefly falls below $1 in northwest Winnipeg",
-      "link": "https://www.cbc.ca/news/canada/manitoba/gas-prices-domo-winnipeg-9.7424705?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Drivers lined up Tuesday morning at one Winnipeg gas station where gas prices fell below the $1 mark. The price at the McPhillips Street Domo had climbed to 113.9 by the afternoon.",
-      "published": "2026-11-17T07:48:28+00:00"
     },
     {
       "title": "Canada advances to CONCACAF Nations League semifinals with win over Guatemala",
@@ -1099,28 +1339,12 @@
       "published": "2026-11-17T06:39:45+00:00"
     },
     {
-      "title": "Former Red Deer, Alta., mayor seriously hurt in hit and run with e-bike or e-scooter calls for stricter rules",
-      "link": "https://www.cbc.ca/news/canada/edmonton/red-deer-mayor-ebikes-escooters-hit-and-run-9.7424641?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Former Red Deer mayor Ken Johnston is calling for changes to e-bike and e-scooter rules in the central Alberta city after he was seriously injured by one of the vehicles in what police are calling a hit and run.",
-      "published": "2026-11-17T06:30:00+00:00"
-    },
-    {
       "title": "This remarkable new material could solve a major carbon capture problem",
       "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
       "source": "Science Daily",
       "category": "science",
       "summary": "Scientists have developed a new carbon capture material that turns moisture from an obstacle into an advantage, potentially solving a major problem with removing CO2 from industrial emissions. The material works even in…",
       "published": "2026-11-17T06:29:36+00:00"
-    },
-    {
-      "title": "Kamloops businesses dealing with dust, reduced parking as arts centre construction continues",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/kamloops-arts-centre-construction-business-woes-9.7423720?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Businesses in downtown Kamloops are being impacted by a multi-year construction project, with work underway to build the $211-million Kamloops Centre for the Arts.",
-      "published": "2026-11-17T06:00:00+00:00"
     },
     {
       "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
@@ -1139,27 +1363,11 @@
       "published": "2026-11-17T05:00:00+00:00"
     },
     {
-      "title": "Adani Turns Its Airports Into a Hotel Business",
-      "link": "https://skift.com/2026/11/16/adani-turns-its-airports-into-a-hotel-business/",
-      "source": "Skift",
-      "category": "travel",
-      "summary": "As it uses its airports and surrounding land to build a hotel business, Adani is betting that its planned airport cities can attract enough businesses and visitors to support thousands of hotel rooms.",
-      "published": "2026-11-17T04:44:20+00:00"
-    },
-    {
       "title": "5 European countries want to start deporting migrants to Rwanda, despite concerns from human rights groups",
       "link": "https://www.cbc.ca/news/world/rwanda-deportation-hub-european-countries-9.7423753?cmp=rss",
       "source": "CBC News",
       "category": "world",
       "summary": "Five European countries have embarked on a deal with Rwanda to take in migrants whose asylum claims have been rejected. They are hoping the scheme acts as a deterrent, but a similar plan in Britain was quashed after the…",
-      "published": "2026-11-17T04:00:00+00:00"
-    },
-    {
-      "title": "Fear, outrage grow as Quebec moves to ban religious symbols for elementary students",
-      "link": "https://www.cbc.ca/news/canada/montreal/pq-ban-elementary-students-religious-symbols-9.7419586?cmp=rss",
-      "source": "CBC News",
-      "category": "canada",
-      "summary": "Quebec parents of young children who wear religious symbols are worried about the new PQ government’s proposal to ban elementary school students from wearing such symbols at school. Experts say there is no justification…",
       "published": "2026-11-17T04:00:00+00:00"
     },
     {
@@ -1299,36 +1507,12 @@
       "published": "2026-11-16T23:54:15+00:00"
     },
     {
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "published": "2026-11-16T23:25:53+00:00"
-    },
-    {
-      "title": "Family of missing Penticton senior with dementia pleads for information",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/pentiction-missing-senior-9.7424563?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "The family of a missing Penticton senior with dementia are desperate for answers. The 72-year-old has not been been seen or heard from in weeks. Police believe he may have travelled northbound along the KVR trail…",
-      "published": "2026-11-16T23:15:33+00:00"
-    },
-    {
       "title": "Canada and China announce new trade measures and cultural partnerships on Carney's 1st day in Shenzhen",
       "link": "https://www.cbc.ca/news/politics/canada-china-carney-xi-9.7424608?cmp=rss",
       "source": "CBC News",
       "category": "politics",
       "summary": "Prime Minister Mark Carney and Chinese President Xi Jinping agreed to drop trade restrictions on more goods at a bilateral meeting in China, in what the pork sector hailed as a big step in restoring some of the market…",
       "published": "2026-11-16T23:15:00+00:00"
-    },
-    {
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "published": "2026-11-16T23:12:24+00:00"
     },
     {
       "title": "Ford holds off on new cash for Stellantis plant, contradicting minister",
@@ -1371,14 +1555,6 @@
       "published": "2026-11-16T21:57:22+00:00"
     },
     {
-      "title": "Man already serving life sentence given 14 years for 2022 Maple Ridge killing",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/maple-ridge-killing-arthur-comeau-justin-michael-wareing-9.7424319?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "A B.C. man has been sentenced to 14 years in prison after pleading guilty to manslaughter in the death of Arthur Comeau in Maple Ridge in April 2022.",
-      "published": "2026-11-16T21:47:07+00:00"
-    },
-    {
       "title": "Incoming B.C. Conservative government will not hold fall legislative session",
       "link": "https://www.cbc.ca/news/canada/british-columbia/bc-conservative-government-no-fall-session-9.7424362?cmp=rss",
       "source": "CBC News",
@@ -1409,14 +1585,6 @@
       "category": "technology",
       "summary": "Projects were among first to advance under federal government’s sovereign AI data centre initiative. The post Telus pulls out of two government-backed AI data centres in Vancouver first appeared on BetaKit.",
       "published": "2026-11-16T21:01:59+00:00"
-    },
-    {
-      "title": "Is O Canada about to become a daily observance in B.C. schools?",
-      "link": "https://www.cbc.ca/news/canada/british-columbia/bc-o-canada-schools-9.7423815?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Currently under the School Regulation, the national anthem is only required at school assemblies.",
-      "published": "2026-11-16T21:00:14+00:00"
     },
     {
       "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
@@ -1465,14 +1633,6 @@
       "category": "science",
       "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a…",
       "published": "2026-11-16T19:20:40+00:00"
-    },
-    {
-      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-      "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-      "source": "STAT News",
-      "category": "medical",
-      "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
-      "published": "2026-11-16T18:54:06+00:00"
     },
     {
       "title": "Data centres in the U.S. put out more carbon emissions in a year than Denmark, says Harvard study",
@@ -1531,14 +1691,6 @@
       "published": "2026-11-16T16:57:50+00:00"
     },
     {
-      "title": "Journalists call for justice after reporter found dead in Mexican coastal city of Acapulco",
-      "link": "https://www.cbc.ca/news/world/mexico-journalist-dead-investigation-9.7423747?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "A Mexican journalist was found dead on Saturday on the outskirts of Acapulco, a popular resort city in the southern Guerrero state, marking the latest in a string of alleged attacks targeting reporters in the country.",
-      "published": "2026-11-16T16:41:09+00:00"
-    },
-    {
       "title": "Robert Pattinson confirmed as next James Bond in iconic spy franchise",
       "link": "https://globalnews.ca/news/12149977/robert-pattinson-james-bond/",
       "source": "Global News",
@@ -1555,28 +1707,12 @@
       "published": "2026-11-16T15:52:10+00:00"
     },
     {
-      "title": "Exodus in Poilievre's office as 2 staffers head to B.C. Conservatives",
-      "link": "https://www.cbc.ca/news/politics/olo-poilievre-staff-exodus-9.7423944?cmp=rss",
-      "source": "CBC News",
-      "category": "bc",
-      "summary": "Five members of the Opposition leader's office have informed Conservative Leader Pierre Poilievre they plan to quit. The departures will leave big gaps in Poilievre's office, particularly in communications and policy.",
-      "published": "2026-11-16T15:52:10+00:00"
-    },
-    {
       "title": "Canada’s Alert Ready emergency system will test notifications on Wednesday",
       "link": "https://globalnews.ca/news/12152615/emergency-alert-test-november-2026/",
       "source": "Global News",
       "category": "bc",
       "summary": "The emergency alerts are used by governments to inform the public of emergencies including tornadoes, floods, wildfires and Amber Alerts",
       "published": "2026-11-16T15:15:18+00:00"
-    },
-    {
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "world",
-      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "published": "2026-11-16T15:08:59+00:00"
     },
     {
       "title": "2027 Grammy Awards nominations: Raye, Rosalía lead list of music contenders",
@@ -1603,14 +1739,6 @@
       "published": "2026-11-16T14:05:30+00:00"
     },
     {
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "published": "2026-11-16T13:34:22+00:00"
-    },
-    {
       "title": "Competition Bureau ‘aware’ of Québecor’s $31B offer to acquire Telus",
       "link": "https://globalnews.ca/news/12152547/quebecor-telus-merger-proposal/",
       "source": "Global News",
@@ -1629,14 +1757,6 @@
     {
       "title": "Diallo wants to restore 'broken' trust in soccer as he challenges Infantino for FIFA presidency",
       "link": "https://www.cbc.ca/sports/soccer/philippe-diallo-fifa-presidential-election-candidate-uefa-9.7423742?cmp=rss",
-      "source": "CBC News",
-      "category": "world",
-      "summary": "French soccer leader Philippe Diallo wants to restore \"broken\" trust in the sport's governance and rid the game of the \"poison of division\" after confirming his intention on Tuesday to challenge Gianni Infantino for the…",
-      "published": "2026-11-16T12:05:27+00:00"
-    },
-    {
-      "title": "Diallo wants to restore 'broken' trust in soccer as he challenges Infantino for FIFA presidency",
-      "link": "https://www.cbc.ca/sports/soccer/philippe-diallo-fifa-presidential-election-candidate-uefa-9.7423742?cmp=rss",
       "source": "CBC Sports",
       "category": "sports",
       "summary": "French soccer leader Philippe Diallo wants to restore \"broken\" trust in the sport's governance and rid the game of the \"poison of division\" after confirming his intention on Tuesday to challenge Gianni Infantino for the…",
@@ -1649,14 +1769,6 @@
       "category": "technology",
       "summary": "National rollout will scale programming to just 90 minutes and will be available to all Canadians. The post Minister Solomon says Canada’s national AI literacy training will go live next month first appeared on BetaKit.",
       "published": "2026-11-16T12:00:00+00:00"
-    },
-    {
-      "title": "IRCC can’t confirm if Start-Up Visa replacement program details will come this year",
-      "link": "https://betakit.com/ircc-cant-confirm-if-start-up-visa-replacement-program-details-will-come-this-year/",
-      "source": "BetaKit",
-      "category": "technology",
-      "summary": "Feds had previously said they would share details on new pilot program in 2026. The post IRCC can’t confirm if Start-Up Visa replacement program details will come this year first appeared on BetaKit.",
-      "published": "2026-11-16T11:30:00+00:00"
     },
     {
       "title": "Silicon Valley leaders call for reinstatement of Nvidia CEO with 'Stand With Jensen' petition",
@@ -1755,28 +1867,12 @@
       "published": "2026-11-16T08:32:12+00:00"
     },
     {
-      "title": "Experts explore returning beavers to River Waveney",
-      "link": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "A trust says the river-dwelling mammals could improve the health of the waterway.",
-      "published": "2026-11-16T06:27:27+00:00"
-    },
-    {
       "title": "Gas starts flowing from Jackdaw after government green light",
       "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
       "category": "science",
       "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
       "published": "2026-11-16T06:24:08+00:00"
-    },
-    {
-      "title": "Pupils fascinated by space get astronomy lesson",
-      "link": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
-      "published": "2026-11-16T06:11:42+00:00"
     },
     {
       "title": "Early start to flu season may test Alberta hospital capacity",
@@ -1819,22 +1915,6 @@
       "published": "2026-11-16T04:00:00+00:00"
     },
     {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "published": "2026-11-16T03:04:01+00:00"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "published": "2026-11-16T01:47:57+00:00"
-    },
-    {
       "title": "<b>The climate is in </b><b>crisis</b><b> — here’s four things we can do</b>",
       "link": "https://www.nature.com/articles/d41586-026-03760-2",
       "source": "Nature News",
@@ -1857,14 +1937,6 @@
       "category": "sports",
       "summary": "Cody Fajardo threw two touchdown passes and ran for two more to power the Edmonton Elks past the Montreal Alouettes 37-30 in the 113th Grey Cup on Sunday night in Calgary. Fajardo earned MVP honours after completing 16…",
       "published": "2026-11-15T22:04:02+00:00"
-    },
-    {
-      "title": "Former MP Mike Morrice elected Green Party leader",
-      "link": "https://globalnews.ca/news/12151965/mike-morrice-green-party-new-leader/",
-      "source": "Global News",
-      "category": "politics",
-      "summary": "Outgoing leader Elizabeth May said in her own video Morrice has worked very hard for his community, and that his election is \"a dream come true.\"",
-      "published": "2026-11-15T20:22:41+00:00"
     },
     {
       "title": "Recipe: Spiced garlic ricotta and blueberry chutney",
@@ -1901,26 +1973,10 @@
     {
       "title": "IIHF confirms Russia not competing at world juniors next month in Alberta",
       "link": "https://www.cbc.ca/sports/hockey/iihf-world-juniors-russia-not-competing-9.7422880?cmp=rss",
-      "source": "CBC News",
-      "category": "politics",
-      "summary": "The International Ice Hockey Federation has confirmed Russia will not compete at the 2027 world junior hockey championship in Alberta due to restrictions imposed by the Canadian government. However, Russian officials…",
-      "published": "2026-11-15T13:39:06+00:00"
-    },
-    {
-      "title": "IIHF confirms Russia not competing at world juniors next month in Alberta",
-      "link": "https://www.cbc.ca/sports/hockey/iihf-world-juniors-russia-not-competing-9.7422880?cmp=rss",
       "source": "CBC Sports",
       "category": "sports",
       "summary": "The International Ice Hockey Federation has confirmed Russia will not compete at the 2027 world junior hockey championship in Alberta due to restrictions imposed by the Canadian government. However, Russian officials…",
       "published": "2026-11-15T13:39:06+00:00"
-    },
-    {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "category": "technology",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "published": "2026-11-15T13:37:45+00:00"
     },
     {
       "title": "How to spot November's planetary parade in the pre-dawn sky",
@@ -1929,54 +1985,6 @@
       "category": "science",
       "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
       "published": "2026-11-15T10:49:57+00:00"
-    },
-    {
-      "title": "Scientists race to discover and protect what lives in the ocean",
-      "link": "https://www.cbc.ca/news/science/marine-biodiversity-cop31-9.7419543?cmp=rss",
-      "source": "CBC News",
-      "category": "technology",
-      "summary": "Scientists say not knowing what lives in our oceans holds back efforts to protect them. Marine biologists are racing to catalogue species — from carnivorous sponges to otherworldly sea slugs. Here's a closer look at the…",
-      "published": "2026-11-15T04:00:00+00:00"
-    },
-    {
-      "title": "Canada is spending more than ever on health care. Are we getting our money's worth?",
-      "link": "https://www.cbc.ca/news/health/canada-health-care-spending-9.7419956?cmp=rss",
-      "source": "CBC News",
-      "category": "medical",
-      "summary": "Canada is spending more on health care than ever. Whether Canadians are getting more care for their money is another question. A new report from the Canadian Institute for Health Information (CIHI) projects health-care…",
-      "published": "2026-11-15T04:00:00+00:00"
-    },
-    {
-      "title": "Has treatment for stuttering been off base? New guidelines go beyond speech to the brain",
-      "link": "https://www.cbc.ca/radio/thecurrent/stuttering-medical-guidelines-treatment-9.7419121?cmp=rss",
-      "source": "CBC News",
-      "category": "medical",
-      "summary": "More than 80 million people worldwide stutter, yet misconceptions on it persist in the medical field, and access to appropriate care can be limited. New international medical guidelines aim to change that.",
-      "published": "2026-11-15T04:00:00+00:00"
-    },
-    {
-      "title": "SpaceX catches part of its Starship rocket on return to Earth",
-      "link": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "published": "2026-11-14T23:15:10+00:00"
-    },
-    {
-      "title": "4 charged following May homicide in Maple Ridge",
-      "link": "https://globalnews.ca/news/12151333/4-charged-maple-ridge-homicide/",
-      "source": "Global News",
-      "category": "bc",
-      "summary": "The Integrated Homicide Investigation Team (IHIT) said Saturday that 25-year-old Charles Thomas Shields has been charged with one count of first-degree murder.",
-      "published": "2026-11-14T22:16:11+00:00"
-    },
-    {
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "category": "science",
-      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-      "published": "2026-11-14T22:15:52+00:00"
     }
   ]
 }
